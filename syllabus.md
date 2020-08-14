@@ -1,9 +1,9 @@
+---
 layout: page
-title: Intro. to Data Science
-subtitle: CMPS 3160/6160 - Fall 2020
+title: Syllabus
+subtitle:
 published: true
 ---
-
 ## Introduction to Data Science Fall 
 * CMPS-3160/3660: Introduction to Data Science
 * Tulane University
