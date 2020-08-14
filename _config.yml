@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: CMPS 3140 Introduction to Artificial Intelligence
+title: CMPS 3160 Intro. to Data Science
 
 # Short description of your site
-description: Tulane University, Spring 2020
+description: Intro to Data Science - Fall 2020
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -21,7 +21,7 @@ description: Tulane University, Spring 2020
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-  Social Isolation Syllabus: "isolation"
+  Syllabus: "syllabus"
   Schedule & Assignments: "schedule"
   Links & Resources: "resources"
 
@@ -42,13 +42,13 @@ collections:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#336666"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
+footer-col: "#336666"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
@@ -97,7 +97,7 @@ author:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "nmattei.github.io/cmps3140/"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "nmattei.github.io/cmps3160/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -160,7 +160,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
