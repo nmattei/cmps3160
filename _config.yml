@@ -22,7 +22,8 @@ description: Intro to Data Science - Fall 2020
 navbar-links:
   Home: "index"
   Syllabus: "syllabus"
-  Schedule & Assignments: "schedule"
+  Schedule: "schedule"
+  Assignments: "assignments"
   Links & Resources: "resources"
 
 collections:
