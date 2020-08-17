@@ -20,8 +20,8 @@ published: true
 * **Canvas Page:**[Tulane Canvas](https://tulane.instructure.com/)
 
 ### Instructor and TA Information
-* **Instructor:** Dr. Nicholas Mattei, <nsmattei@tulane.edu>
-*   Office: Stanley Thomas 402B 
+* **Instructor:** Dr. Nicholas Mattei, <nsmattei@tulane.edu>.
+* Office: Stanley Thomas 402B
 
 * **Teaching Assistants:** Sri Korrapati (Grad) and Eli Mendles (Ugrad)
 *   Emails: <skorrapati@tulane.edu> and <emendels1@tulane.edu>.
@@ -32,13 +32,15 @@ published: true
 
 ## Service Learning
 * There is an optional Service Learning component to this course that satisfies a [Tier I or Tier II Service Learning Requirement](https://cps.tulane.edu/).  This is a small section with and participation is **hard capped at 10**, if there is no room on the [Registrar's Website](https://classschedule.tulane.edu/Search.aspx), *there is no room*. 
+
 * **Lectures:** Thursdays, August 20 - November 24th, 2020.
-* **Room:** Stanley Thomas Hall ([Building 10](https://tulane.edu/maps-directions)) and Online (see Canvas for Links)
+* **Room:** Stanley Thomas Hall ([Building 10](https://tulane.edu/maps-directions)) and Online (see Canvas for Links).
 * **Time:** 18:25 - 19:20
 
 * **Partner:** [Code For New Orleans](http://codeforneworleans.org/)
 * **Primary Contact**: Ryan Harvey
 * **Email**: <ryan@codeforneworleans.org>
+
 * **Partner:** [The Data Center](https://www.datacenterresearch.org/)
 * Primary Contact: Lamar Gardere
 * Email: <lamarg@datacenterresearch.org >
