@@ -12,18 +12,24 @@ published: true
 
 ## Time and Location
 * **Lectures:** Tuesdays and Thursdays 
-* **Room:** Stanley Thomas 302 ([Building 10](https://tulane.edu/maps-directions))
-* **Time:** 15:30-16:45
-* **Webpage:** [https://rebrand.ly/TUDataScience](https://rebrand.ly/TUDataScience)
+* **Room:** Dinwiddie Hall ([Building 3](https://tulane.edu/maps-directions))
+* **Time:** 14:00 - 15:10
+* **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
+* **Canvas Page:**[Tulane Canvas](https://tulane.instructure.com/)
 
 ## Instructor and TA Information
 
 **Instructor:** Dr. Nicholas Mattei
 *   Email: <nsmattei@tulane.edu>
 *   Office: Stanley Thomas 402B
+*   Office Hours:
+
+**Graduate Teaching Assistant:** Arie Glazier
+*   Email: <aglazier@tulane.edu>
+*   Office: Stanley Thomas 309
 *   Office Hours: TBD
 
-**Teaching Assistant:** Arie Glazier
+**Graduate Teaching Assistant:** Arie Glazier
 *   Email: <aglazier@tulane.edu>
 *   Office: Stanley Thomas 309
 *   Office Hours: TBD

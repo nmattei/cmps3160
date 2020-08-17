@@ -20,10 +20,10 @@ description: Intro to Data Science - Fall 2020
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "index"
   Syllabus: "syllabus"
   Schedule: "schedule"
   Assignments: "assignments"
+  Service Learning: "service"
   Links & Resources: "resources"
 
 collections:
@@ -44,14 +44,14 @@ collections:
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#336666"
-navbar-text-col: "#71C5E8"
-navbar-children-col: "#71C5E8"
+navbar-text-col: "#FFFFFF"
+navbar-children-col: "#FFFFFF"
 page-col: "#FFFFFF"
 link-col: "#71C5E8"
 hover-col: "#0085A1"
 footer-col: "#336666"
-footer-text-col: "#71C5E8"
-footer-link-col: "#71C5E8"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#FFFFFF"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
