@@ -17,11 +17,11 @@ published: true
 * **Room:** Dinwiddie Hall ([Building 3](https://tulane.edu/maps-directions)) and Online (see Canvas for Links)
 * **Time:** 14:00 - 15:10
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
-* **Canvas Page:**[Tulane Canvas](https://tulane.instructure.com/)
+* **Canvas Page:** [Tulane Canvas](https://tulane.instructure.com/)
 
 ### Instructor and TA Information
-* **Instructor:** Dr. Nicholas Mattei, <nsmattei@tulane.edu>.
-* Office: Stanley Thomas 402B
+* **Instructor:** Dr. Nicholas Mattei, <nsmattei@tulane.edu>
+  * Office: Stanley Thomas 402B
 
 * **Teaching Assistants:** Sri Korrapati (Grad) and Eli Mendles (Ugrad)
 *   Emails: <skorrapati@tulane.edu> and <emendels1@tulane.edu>.
