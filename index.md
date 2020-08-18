@@ -4,50 +4,33 @@ title: Intro. to Data Science
 subtitle: CMPS 3160/6160 - Fall 2020
 published: true
 ---
-## Introduction to Data Science
+<p style="text-align:center;"><img src="{{ 'img/ds_cover.jpg' | relative_url }}" /></p>
 
-<img src="{{ 'img/ds_cover.jpg' | relative_url }}" />
-
-* CMPS 3160 / 6160, Spring 2020
+## Introduction to Data Science Fall 
+* CMPS-3160/3660: Introduction to Data Science
+* Tulane University
 * 3 Credit Hours
-* [Tulane University](https://tulane.edu/)
+* Prerequisite Courses: CMPS 1600 Intro to Computer Science II and CMPS/MATH 2170 Discrete Mathematics.
 
 ### Time and Location
-* **Lectures:** Tuesdays and Thursdays, August 20 - November 24th, 2020.
-* **Room:** Dinwiddie Hall ([Building 3](https://tulane.edu/maps-directions)) and Online (see Canvas for Links)
+* **Lectures:** Tuesdays and Thursdays 
+* **Room:** Dinwiddie Hall ([Building 3](https://tulane.edu/maps-directions))
+* **Online:** All Lectures will be on Zoom, see [Tulane Canvas](https://tulane.instructure.com/) for details.
 * **Time:** 14:00 - 15:10
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
 * **Canvas Page:** [Tulane Canvas](https://tulane.instructure.com/)
 
 ### Instructor and TA Information
-* **Instructor:** Dr. Nicholas Mattei, <nsmattei@tulane.edu>
-  * Office: Stanley Thomas 402B
+**Instructor:** Dr. Nicholas Mattei, <nsmattei@tulane.edu>
+* **Office:** Stanley Thomas 402B
+* **Office Hours:** TBD
 
-* **Teaching Assistants:** Sri Korrapati (Grad) and Eli Mendles (Ugrad)
-*   Emails: <skorrapati@tulane.edu> and <emendels1@tulane.edu>.
-*   Both Eli and Sri have drop in office hours and are available by appointment.  Please reach out to them directly to setup extra time if you need more support during the semester.
-*   Sri's Office Hours: **XXX**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
-*   Eli's Office Hours: **MW 14:00 - 16:00**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+**Teaching Assistants:** Sri Korrapati <skorrapati@tulane.edu> and Eli Mendles <emendels1@tulane.edu>
+*  Sri's Office Hours: **TR 11:00 - 12:15**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+* Eli's Office Hours: **MW 14:00 - 16:00**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 
+Eli, Sri, and Prof. Mattei have drop in office hours and are available by appointment.  Please reach out to us directly to setup extra time if you need more support during the semester.
 
-## Service Learning
-* There is an optional Service Learning component to this course that satisfies a [Tier I or Tier II Service Learning Requirement](https://cps.tulane.edu/).  This is a small section with and participation is **hard capped at 10**, if there is no room on the [Registrar's Website](https://classschedule.tulane.edu/Search.aspx), *there is no room*. 
+### Course Announcements and Links:
 
-* **Lectures:** Thursdays, August 20 - November 24th, 2020.
-* **Room:** Stanley Thomas Hall ([Building 10](https://tulane.edu/maps-directions)) and Online (see Canvas for Links).
-* **Time:** 18:25 - 19:20
-
-* **Partner:** [Code For New Orleans](http://codeforneworleans.org/)
-* **Primary Contact**: Ryan Harvey
-* **Email**: <ryan@codeforneworleans.org>
-
-* **Partner:** [The Data Center](https://www.datacenterresearch.org/)
-* Primary Contact: Lamar Gardere
-* Email: <lamarg@datacenterresearch.org >
-* Website: [https://www.datacenterresearch.org/](https://www.datacenterresearch.org/)
-
-## Course Resources and Quick Links
-
-If you need help please check the [discussion board on Canvas!](https://tulane.instructure.com/courses/2206549/discussion_topics). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
-
-Students are reminded to make use of office hours.  Please reach out to Arie and I whenever you need and we can make appointments to meet if you require it.
+If you need help please check the [discussion board on Canvas!](https://tulane.instructure.com/courses/2220511/discussion_topics). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Final Tutorial
+subtitle:
+published: true
+---
+
 # Final Tutorial
 
 Instead of a Final Exam in this course you will be responsible for generating a tutorial that will walk users through the entire data science pipeline: data curation, parsing, and management; exploratory data analysis; hypothesis testing and machine learning to provide analysis; and then the curation of a message or messages covering insights learned during the tutorial. Students may choose an application area and dataset(s) that are of interest to them; please feel free to be creative about this!
@@ -95,45 +102,14 @@ Some resources for giving a good talk:
 
 **Note:** You must upload your slides through [Canvas]() before 10am on the day of your presentation.  Failure to do this will result in a minimum of 10 points lost for *professionalism*.  I will collate the slides on my laptop before class to make sure transitions go smoothly.
 
-| **Tuesday Dec 3rd**  | Group       |           | Link                                                      |
-|:----------------:|:-----------:|:---------:|:---------------------------------------------------------:|
-| 11:00-11:05      | Gartenstein |           | https://jgartens.github.io/                               |
-| 11:05-11:10      | Seidl       |           | https://ilanaseidl.github.io                              |
-| 11:10-11:15      | Tucker      |           | https://briannatucker.github.io/                          |
-| 11:15-11:20      | Catalano    | Mendels   | https://mcatalano26.github.io/Data-Science-Final-Project/ |
-| 11:20-11:25      | Ngo         |           | https://dungngotan99.github.io/                           |
-| 11:25-11:30      | O'Connor    |           | https://mroc170.github.io/                                |
-| 11:30-11:35      | Urowsky     |           | https://github.com/urowskers/tutorial                     |
-| 11:35-11:40      | Campbell    |           | https://christinacampbell98.github.io/                    |
-| 11:40-11:45      | Pratt       |           | https://hpratt1.github.io/                                |
-| 11:45-11:50      | Salter-Cid  |           | https://johnsaltercid.github.io/                          |
-| 11:50-11:55      | Huang       | Stockwell | https://chas3stockwell.github.io/                         |
-| 11:55-12:00      | Todorvic    |           | https://aleksatodorovic.github.io/                        |
-| 12:00-12:05      | Nguyen      | Van Beek  | https://patches12306.github.io/patches12306/              |
 
-
-| **Thursday Dec 5th**  | Group       |           | Link                                                      |
-|:----------------:|:-----------:|:---------:|:---------------------------------------------------------:|
-| 11:00-11:05      | Wang        | Zhuge     | https://zhengwangada.github.io/                           |
-| 11:05-11:10      | Jasica      |           | https://ajasica.github.io/                                |
-| 11:10-11:15      | Korrapati   |           | https://sri-korrapati.github.io/                          |
-| 11:15-11:20      | Mills       |           | https://raemills97.github.io/                             |
-| 11:20-11:25      | Kolbert     |           | https://jkolbert2.github.io/                              |
-| 11:25-11:30      | Wu          | Wu        | https://wuslash0.github.io/                               |
-| 11:30-11:35      | Malith      | Roginsky  | https://tjroginsky.github.io/CMPS-3660-Tutorial/          |
-| 11:35-11:40      | Grimay      |           | https://tgirmay.github.io/                                |
-| 11:40-11:45      | Hotsko      | Biren     | https://jhotsko.github.io/                                |
-| 11:45-11:50      | Chahal      | Gavranic  | https://daveg99.github.io/                                |
-| 11:50-11:55      | Westerfer   | Blavatt   | https://swesterfer.github.io/                             |
-| 11:55-12:00      | Dorsey      |           | https://kdors.github.io/                                  |
-| 12:00-12:05      | Lim         | Nguyen    | https://rjn-2b.github.io/DSLimNguyen/                     |
 ### Submission
 
 You should submit your slides (PDF, Powerpoint, or Keynote only) through [Canvas](https://tulane.instructure.com/) before 10am on the day of your presentation.  Both students in groups should submit the same set of slides.  **If you do not sign in for class these days and engage with the discussion you will not receive points for the Peer Evaluation section.**
 
 *If you do this in a group, both students must submit the set of slides through Canvas.*
 
----
+**TBD**
 
 ## Deliverable 2: Final Tutorial - Dec. 8. 2019.
 

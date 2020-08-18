@@ -4,6 +4,8 @@ title: Links and Resources
 published: true
 ---
 
+(we’re going to dissect some algorithms later in the class [including PCA](https://www.cs.princeton.edu/picasso/mats/PCA-Tutorial-Intuition_jp.pdf) so you should know what a matrix is and you should be comfortable with everything in CMPS/MATH 2170).
+
 If you need help please check the [discussion board on Canvas!](https://tulane.instructure.com/courses/2206549/discussion_topics). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
 
 Students are reminded to make use of office hours.  Please reach out to Arie and I whenever you need and we can make appointments to meet if you require it.
