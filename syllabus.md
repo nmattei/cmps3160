@@ -23,26 +23,18 @@ published: true
 * **Office:** Stanley Thomas 402B
 * **Office Hours:** TBD
 
-**Teaching Assistants:** Sri Korrapati <skorrapati@tulane.edu> and Eli Mendles <emendels1@tulane.edu>
+**Teaching Assistants:** Sri Korrapati <skorrapati@tulane.edu> and Eli Mendels <emendels1@tulane.edu>
 *  Sri's Office Hours: **TR 11:00 - 12:15**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 * Eli's Office Hours: **MW 14:00 - 16:00**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 
 Eli, Sri, and Prof. Mattei have drop in office hours and are available by appointment.  Please reach out to us directly to setup extra time if you need more support during the semester.
 
 ## Service Learning
-There is an optional Service Learning component to this course that satisfies a [Tier I or Tier II Service Learning Requirement](https://cps.tulane.edu/).  This is a small section with and participation is **hard capped at 10**, if there is no room on the [Registrar's Website](https://classschedule.tulane.edu/Search.aspx), *there is no room*. 
-* **Lectures:** Thursdays, August 20 - November 24th, 2020.
-* **Room:** Stanley Thomas Hall ([Building 10](https://tulane.edu/maps-directions)) 
-* **Online:** All Lectures will be on Zoom, see [Tulane Canvas](https://tulane.instructure.com/) for details.
-* **Time:** 18:25 - 19:20
+There is an optional Service Learning component to this course that satisfies a [Tier I or Tier II Service Learning Requirement](https://cps.tulane.edu/).  This is a small section with and participation is **hard capped at 10**, if there is no room on the [Registrar's Website](https://classschedule.tulane.edu/Search.aspx), *there is no room*.
 
-The Partners for this semester are:
-* **Partner:** [Code For New Orleans](http://codeforneworleans.org/)
-  * **Primary Contact**: Ryan Harvey, <ryan@codeforneworleans.org>
-* **Partner:** [The Data Center](https://www.datacenterresearch.org/)
-  * **Primary Contact:** Lamar Gardere, <lamarg@datacenterresearch.org>
+### All Service Learning Info is on the [Service Learning Page](./service)
 
-All additional information is available on the [Service Learning Page](./service).
+---
 
 # Catalog / Course Description
 The aim of this course is to provide the student with an introduction to the main concepts and techniques required for collecting, processing, and deriving insight into data. Data Science is an interdisciplinary set of topics that includes everything you need to create data driven answers and solutions to specific business, scientific, or sociological questions. Topics typically covered include an introduction to one or more data collection and management systems, e.g., SQL, web scraping, and various data repositories; exploratory and statistical data analysis, e.g., bootstrapping, measures of central tendency, hypothesis testing and machine learning techniques including linear regression and clustering; data and information visualization, e.g., plotting and interactive charts using various technologies; and presentation and communication of the results of these analyses.
@@ -89,6 +81,8 @@ There is no required textbook for this course, however there are two texts that 
 * *Python Data Science Handbook: Essential Tools for Working with Data*, Jake VanderPlass. O’Reilly Media Inc., 2016.  Available online for free at: [https://github.com/jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
   * This textbook also has the **entire book as a notebook, with examples** on this [GitHub page](https://github.com/jakevdp/PythonDataScienceHandbook).
 * *Computational and Inferential Thinking: The Foundations of Data Science*, Ani Adhikari and John DeNero. A free online textbook that includes interactive Jupyter notebooks and public data sets for all examples at: [https://www.inferentialthinking.com/chapters/intro](https://www.inferentialthinking.com/chapters/intro)
+
+---
 
 # Evaluation Procedures and Grading Criteria
 This course will consist of four distinct grading areas.  Note that all point values described below for individual assignments are subject to change, the area percentages will remain the same.
@@ -141,6 +135,8 @@ The weighted average will determine your letter grade roughly as follows, +/- gr
 
 **All grades will be posted on [Canvas](https://tulane.instructure.com/) throughout the semester.**
 
+---
+
 ## Schedule and Workload
 
 See the [Schedule Page](./schedule.md) for the schedule and assignments.
@@ -158,6 +154,8 @@ Students are reminded to make use of office hours.  Please reach out to Prof. Ma
 Faculty and students must comply with University policies on COVID-19 testing and isolation, which are [located here](https://tulane.edu/covid-19/health-strategies). Faculty and students must wear face coverings in all common areas, including classrooms, and follow social distancing rules. Failure to comply is a violation of the Code of Student Conduct and students will be subject to University discipline, which can include suspension or permanent dismissal.
 
 If a student cannot attend class for any reason, the student is responsible for communicating with their instructors to make up any work they may miss. Faculty will provide online options for class participation, outlined in this document, and unless a student is seriously ill, they are expected to use this option. The University Health Center will provide documentation verifying a student is ill, as well as verification that a student may return to class. With the approval of the Newcomb - Tulane College dean, an instructor may have a student who has excessive absences involuntarily withdrawn from a course with a WF grade after written warning at any time during the semester.
+
+---
 
 ## Use of Electronic Devices
 Please silence your cellphones during class.  If you want to use a laptop or other device with a large screen for note taking please sit in the back rows of the classroom -- it’s distracting to other students [https://www.scientificamerican.com/article/students-are-better-off-without-a-laptop-in-the-classroom/](https://www.scientificamerican.com/article/students-are-better-off-without-a-laptop-in-the-classroom/)
@@ -189,7 +187,7 @@ Everything you hand in must be in your own words, and based on your own understa
 
 The Code of Academic Conduct applies to all undergraduate students, full-time and part-time, at Tulane University. Tulane University expects and requires behavior compatible with its high standards of scholarship. By accepting admission to the university, a student accepts its regulations (i.e., [Code of Academic Conduct](https://college.tulane.edu/code-of-academic-conduct) and the [Code of Student Conduct](https://conduct.tulane.edu/resources/code-student-conduct)) and acknowledges the right of the university to take disciplinary action, including suspension or expulsion, for conduct judged unsatisfactory or disruptive.
 
-## **Title IX**
+## Title IX
 Tulane University recognizes the inherent dignity of all individuals and promotes respect for all people. As such, Tulane is committed to providing an environment free of all forms of discrimination including sexual and gender-based discrimination, harassment, and violence like sexual assault, intimate partner violence, and stalking. If you (or someone you know) has experienced or is experiencing these types of behaviors, know that you are not alone. Resources and support are available: you can learn more at [http://allin.tulane.edu](https://allin.tulane.edu/). Any and all of your communications on these matters will be treated as either “Confidential” or “Private” as explained in the chart below. Please know that if you choose to confide in me I am mandated by the university to report to the Title IX Coordinator, as Tulane and I want to be sure you are connected with all the support the university can offer. You do not need to respond to outreach from the university if you do not want. You can also make a report yourself, including an anonymous report, through the form [http://tulane.edu/concerns](http://tulane.edu/concerns).							
 
 Confidential 	| Private

@@ -4,7 +4,7 @@ title: Links and Resources
 published: true
 ---
 
-(we’re going to dissect some algorithms later in the class [including PCA](https://www.cs.princeton.edu/picasso/mats/PCA-Tutorial-Intuition_jp.pdf) so you should know what a matrix is and you should be comfortable with everything in CMPS/MATH 2170).
+
 
 If you need help please check the [discussion board on Canvas!](https://tulane.instructure.com/courses/2206549/discussion_topics). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
 
@@ -18,9 +18,13 @@ These books come from a more statistical background and are mainly taught in R, 
 * *An Introduction to Statistical Learning with Applications in R.* Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani. Springer.  Available online for free at the [authors website](http://faculty.marshall.usc.edu/gareth-james/ISL/).
 * *The Elements of Statistical Learning: Data Mining, Inference, and Prediction.* Trevor Hastie, Robert Tibshirani, and Jerome Friedman. Springer.  Available online for free at the [authors website](https://web.stanford.edu/~hastie/ElemStatLearn/).
 
+* A good Book on [Data Mining in Java](https://www.cs.waikato.ac.nz/ml/weka/book.html)!
+
 Some Fun readings about Data Science and some key figures.
 * [John W. Tukey: His Life and Professional Contributions](https://cmsc320.github.io/files/tukey.pdf).  David R. Brillinger.  The Annals of Statistics Vol 30, No. 6, 2002.
 * [50 Years of Data Science](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf). David Donoho.  Manuscript Based on Invited Talk, Princeton 2015.
+
+* [A Primer on PCA](https://www.cs.princeton.edu/picasso/mats/PCA-Tutorial-Intuition_jp.pdf) so you should know what a matrix is and you should be comfortable with everything in CMPS/MATH 2170).
 
 A large debt for this course is owed to John P. Dickerson at UMD and his course ([http://jpdickerson.com/](http://jpdickerson.com/)).
 
@@ -32,6 +36,7 @@ A large debt for this course is owed to John P. Dickerson at UMD and his course 
 * Dennis Sun’s DS Course at CalPoly 
   * [Course Website](http://users.csc.calpoly.edu/~dsun09/data301/lectures.html)
   * [GitHub Repo](https://github.com/dlsun/Data301Winter2019)
+  * [Dennis PODS Book](https://github.com/dlsun/pods)
 
 * Data8 Resources (Berkeley Data Science Course)
   * [Data8](http://data8.org/) 

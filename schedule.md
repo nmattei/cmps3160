@@ -40,71 +40,89 @@ This is an upper division computer science course, *it is hard*, there will be a
   </tr>
   <tr>
    <td>Week 1
-<br><br>
+<p>
 8/20
    </td>
    <td><strong>No Class</strong>
    </td>
    <td><strong>Due Before Class: </strong>Fill out Pre-Class Questionnaire
-<br><br>
-<strong>Lecture: </strong>Introduction to Data Science (PPTX, PDF).
+<p>
+<strong>Lecture: </strong>Introduction to Data Science (<a href="https://drive.google.com/open?id=1F1XyjJZQk6uJhEVoHaZRXUjP9yoA06_1">PPTX</a>, <a href="https://drive.google.com/open?id=1xeXhxEcZmMGU11PqAp8KG_WjlVKNeGNe">PDF</a>)
+<p>
+<strong>After Class: </strong>Start on Project 0
    </td>
-   <td>Project 0
+   <td><a href="https://github.com/nmattei/cmps3160/tree/master/_projects/project0">Project 0</a>
    </td>
-   <td>x
+   <td><a href="https://www.economist.com/graphic-detail/2018/07/26/python-is-becoming-the-worlds-most-popular-coding-language">Economist Article on Python</a>
+<p>
+<a href="https://fivethirtyeight.com/features/what-the-fox-knows/">FiveThirtyEight - What the Fox Knows</a>
    </td>
   </tr>
   <tr>
    <td>Week 2
-<br><br>
+<p>
 8/25+8/27
    </td>
-   <td><strong>Lecture: </strong>Tools, Python, and Git
-<br><br>
-<strong>Demo Notebook: </strong>
+   <td><strong>Due Before Class: </strong>N/A
+<p>
+<strong>Lecture: </strong>Tools, Python, and Git (<a href="https://drive.google.com/open?id=1Ezwmu5HWW2TUYtjQIz-aiCYZF9Vh1yPo">PPTX</a>, <a href="https://drive.google.com/open?id=19tJCt_4u6uvO02OauJdHwZBPlbRyVQhx">PDF</a>)
+<p>
+<strong>Demo Notebook: </strong><a href="https://github.com/nmattei/cmps3160/blob/master/_notebooks/Lecture02-BasicPython.ipynb">Basic Pandas</a>
+<p>
+<strong>After Class: </strong>Start on Lab 1 / Project 0
    </td>
-   <td><strong>Due Before Class: </strong>Project 0 Due
-<br><br>
-<strong>Lecture: </strong>Tools, Python, and Git II
+   <td><strong>Due Before Class: </strong><a href="https://tulane.instructure.com/">Project 0 Due</a>
+<p>
+<strong>Lecture: </strong>Tools, Python, and Git II (<a href="https://drive.google.com/open?id=1Ezwmu5HWW2TUYtjQIz-aiCYZF9Vh1yPo">PPTX</a>, <a href="https://drive.google.com/open?id=19tJCt_4u6uvO02OauJdHwZBPlbRyVQhx">PDF</a>)
+<p>
+<strong>Demo Notebook: </strong><a href="https://github.com/nmattei/cmps3160/blob/master/_notebooks/Lecture03-PandasDataPlotting.ipynb">Pandas, Plotting, and Fun!</a>
+<p>
+<strong>After Class: </strong>Read Additional Readings, Work on Lab 1
    </td>
-   <td><a href="https://github.com/nmattei/cmps3160/tree/master/_labs">Lab 1: Tabular Data and Variables</a>
+   <td><a href="https://github.com/nmattei/cmps3160/tree/master/_labs/Lab01">Lab 1.1 and 1.2: Tabular Data and Variables</a>
    </td>
-   <td>
+   <td><a href="https://conda.io/projects/conda/en/latest/user-guide/getting-started.html">Getting Started with Anaconda</a>
+<p>
+<a href="https://www.atlassian.com/git/tutorials/comparing-workflows">Git Workflows</a>
+<p>
+<a href="https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b">Intro to Docker</a>
+<p>
+<a href="https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html">10 Mins to Pandas</a>
    </td>
   </tr>
   <tr>
    <td>Week 3
-<br><br>
+<p>
 9/1+9/3
    </td>
    <td><strong>Due Before Class: </strong>Lab 1 Due
-<br><br>
+<p>
 <strong>Lecture: </strong>Scraping Data
-<br><br>
+<p>
 <strong>Demo Notebook:</strong>
    </td>
    <td><strong>Due Before Class: </strong>
-<br><br>
+<p>
 <strong>Lecture: </strong>Visualizing Data
    </td>
-   <td>Lab 2
+   <td><a href="https://github.com/nmattei/cmps3160/tree/master/_labs/Lab02">Lab 2</a>
    </td>
-   <td>
+   <td><a href="https://drive.google.com/open?id=1SWw2QXKPGJv99_a4VceEdBkmnB2Zljb5">Hand Pandas Cheat Sheet</a>
    </td>
   </tr>
   <tr>
    <td>Week 4
-<br><br>
+<p>
 9/8+9/10
    </td>
    <td><strong>Due Before Class: </strong>Lab 2 Due
-<br><br>
+<p>
 <strong>Lecture: </strong>Summary Stats
    </td>
    <td><strong>Due Before Class: </strong>
-<br><br>
+<p>
 <strong>Lecture: </strong>Summary Stats II / Linear Regression
-<br><br>
+<p>
 <strong>After Class: </strong>Extra Class Videos / Quiz
    </td>
    <td>Lab 3
@@ -114,15 +132,15 @@ This is an upper division computer science course, *it is hard*, there will be a
   </tr>
   <tr>
    <td>Week 5
-<br><br>
+<p>
 9/15+9/17
    </td>
    <td><strong>Due Before Class: </strong>Lab 3 Due, Extra Class Quiz
-<br><br>
+<p>
 <strong>Lecture: </strong>Merging/Joining
    </td>
    <td><strong>Due Before Class: </strong>
-<br><br>
+<p>
 <strong>Lecture: </strong>Merging/Joining
    </td>
    <td>Lab 4
@@ -132,15 +150,15 @@ This is an upper division computer science course, *it is hard*, there will be a
   </tr>
   <tr>
    <td>Week 6
-<br><br>
+<p>
 9/22+9/24
    </td>
    <td><strong>Due Before Class: </strong>Lab 4 Due
-<br><br>
+<p>
 <strong>Lecture:</strong>
    </td>
    <td><strong>Due Before Class: </strong>Project 1 Due
-<br><br>
+<p>
 <strong>Lecture:</strong>
    </td>
    <td>
@@ -150,15 +168,15 @@ This is an upper division computer science course, *it is hard*, there will be a
   </tr>
   <tr>
    <td>Week 7
-<br><br>
+<p>
 9/29+10/1
    </td>
    <td><strong>Due Before Class: </strong>
-<br><br>
+<p>
 <strong>Lecture:</strong>
    </td>
    <td><strong>Due Before Class: </strong>Milestone 1 Due
-<br><br>
+<p>
 <strong>Lecture:</strong>
    </td>
    <td>Midterm Cheat Sheet
@@ -168,15 +186,15 @@ This is an upper division computer science course, *it is hard*, there will be a
   </tr>
   <tr>
    <td>Week 8
-<br><br>
+<p>
 10/6+10/8
    </td>
    <td><strong>Due Before Class: </strong>Midterm Cheat Sheet
-<br><br>
-<strong>Lecture: Midterm at Home</strong>
+<p>
+<strong>Lecture: </strong>Midterm at Home
    </td>
    <td><strong>Due Before Class: </strong>
-<br><br>
+<p>
 <strong>Lecture:</strong>
    </td>
    <td>Lab 6
@@ -186,15 +204,15 @@ This is an upper division computer science course, *it is hard*, there will be a
   </tr>
   <tr>
    <td>Week 9
-<br><br>
+<p>
 10/13+10/15
    </td>
    <td><strong>Due Before Class: </strong>
-<br><br>
+<p>
 <strong>Lecture:</strong>
    </td>
    <td><strong>Due Before Class: </strong>
-<br><br>
+<p>
 <strong>Lecture:</strong>
    </td>
    <td>
@@ -204,15 +222,15 @@ This is an upper division computer science course, *it is hard*, there will be a
   </tr>
   <tr>
    <td>Week 10
-<br><br>
+<p>
 10/20+10/22
    </td>
    <td><strong>Due Before Class: </strong>
-<br><br>
+<p>
 <strong>Lecture:</strong>
    </td>
    <td><strong>Due Before Class: </strong>
-<br><br>
+<p>
 <strong>Lecture:</strong>
    </td>
    <td>
@@ -222,15 +240,15 @@ This is an upper division computer science course, *it is hard*, there will be a
   </tr>
   <tr>
    <td>Week 11
-<br><br>
+<p>
 20/27+10/29
    </td>
    <td><strong>Due Before Class: </strong>
-<br><br>
+<p>
 <strong>Lecture:</strong>
    </td>
    <td><strong>Due Before Class: </strong>Project 2 Due
-<br><br>
+<p>
 <strong>Lecture:</strong>
    </td>
    <td>
@@ -240,15 +258,15 @@ This is an upper division computer science course, *it is hard*, there will be a
   </tr>
   <tr>
    <td>Week 12
-<br><br>
+<p>
 11/3+11/5
    </td>
    <td><strong>Due Before Class: </strong>
-<br><br>
+<p>
 <strong>Lecture:</strong>
    </td>
    <td><strong>Due Before Class: </strong>
-<br><br>
+<p>
 <strong>Lecture:</strong>
    </td>
    <td>
@@ -258,15 +276,15 @@ This is an upper division computer science course, *it is hard*, there will be a
   </tr>
   <tr>
    <td>Week 13
-<br><br>
+<p>
 11/10+11/12
    </td>
    <td><strong>Due Before Class: </strong>
-<br><br>
+<p>
 <strong>Lecture:</strong>
    </td>
    <td><strong>Due Before Class: </strong>
-<br><br>
+<p>
 <strong>Lecture:</strong>
    </td>
    <td>
@@ -276,11 +294,11 @@ This is an upper division computer science course, *it is hard*, there will be a
   </tr>
   <tr>
    <td>Week 14
-<br><br>
+<p>
 11/17+11/19
    </td>
    <td><strong>Due Before Class: </strong>
-<br><br>
+<p>
 <strong>Lecture:</strong>
    </td>
    <td><strong>Lecture: </strong>Final Presentations
@@ -292,16 +310,16 @@ This is an upper division computer science course, *it is hard*, there will be a
   </tr>
   <tr>
    <td>Week 15
-<br><br>
+<p>
 11/24
    </td>
    <td><strong>Lecture: </strong>Final Presentations
-<br><br>
+<p>
 Final Notebooks / Websites Due
    </td>
    <td><strong>No Class</strong>
    </td>
-   <td>Final Notebooks / Websites Due
+   <td><a href="https://nmattei.github.io/cmps3160/projects/FinalTutorial/">Final Notebooks / Websites Due</a>
    </td>
    <td>
    </td>
@@ -309,7 +327,7 @@ Final Notebooks / Websites Due
   <tr>
    <td>Finals
    </td>
-   <td colspan="4" ><strong>Final Exam: Friday 12/4/20 - On Zoom</strong>
+   <td colspan="4" ><strong>Final Exam: Friday 12/4/20 - 16:00 - 19:00 - On Zoom</strong>
    </td>
   </tr>
 </table>
