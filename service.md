@@ -7,6 +7,19 @@ published: true
 
 ## Optional Service Learning Component
 
+* **Lectures:** Thursdays, August 20 - November 24th, 2020.
+* **Room:** Stanley Thomas Hall ([Building 10](https://tulane.edu/maps-directions)) 
+* **Online:** All Lectures will be on Zoom, see [Tulane Canvas](https://tulane.instructure.com/) for details.
+* **Time:** 18:25 - 19:20
+
+The Partners for this semester are:
+* **Partner:** [Code For New Orleans](http://codeforneworleans.org/)
+  * **Primary Contact**: Ryan Harvey, <ryan@codeforneworleans.org>
+* **Partner:** [The Data Center](https://www.datacenterresearch.org/)
+  * **Primary Contact:** Lamar Gardere, <lamarg@datacenterresearch.org>
+
+All additional information is available on the [Service Learning Page](./service).
+
 The aim of the service learning component of this course is twofold: (1) to encourage students to apply their data science skills to local issues and (2) to deeply think and engage with where data comes from, why it is collected, and who data centric systems may affect.  Thus through service learning and civic engagement students will be able to *apply* the skills they learn in this class to important problems in our local community.
 
 Those students enrolled in the service learning component of this course will fulfill their second tier service learning requirement as this is a 3000 level class.  Students will have a 20 hour service learning obligation which will be fulfilled by attending meetings with our community partner, Code for NOLA, and by working on their final project which will focus on applications to the community.  In addition, students will be required to complete four written reflections both on their attendance at Code for NOLA meetings and on required readings.
