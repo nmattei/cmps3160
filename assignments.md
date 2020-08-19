@@ -13,7 +13,7 @@ published: true
 
 | Lab     | Due Date | Link | Notes |
 |:-------:|:--------:|----  |-----  |
-| 0 | 9/1 | [Tabular Data and Variables](https://github.com/nmattei/cmps3160/tree/master/_labs) | Follow the specific directions in the instructions and rubric! |
+| 0 | 9/1 | [Tabular Data and Variables](https://github.com/nmattei/cmps3160/tree/master/_labs/Lab01) | Follow the specific directions in the instructions and rubric! |
 
 
 ## Mini-Projects
