@@ -1,6 +1,8 @@
 # Project 0: Computing Environment
 
-Over the course of the semester, you will work with a variety of software packages, including Python, Pandas, Jupyter Notebook, and others. Installing those packages and getting started can often be a hassle because of software dependencies.  However, maintaining your environment is an integral part of your job as a data scientist so you'll need to get used to it!  Luckily Docker makes this really easy and also allows you to share runnable code and increase reproducibility!
+**Last Revision:** 8/20/2020
+
+Over the course of the semester, you will work with a variety of software packages, including Python, Pandas, Jupyter Notebook, and others. Installing those packages and getting started can often be a hassle because of software dependencies.  *However, maintaining your environment is an integral part of your job as a data scientist so you'll need to get used to it!  Luckily Docker makes this really easy and also allows you to share runnable code and increase reproducibility!*
 
 For this class we will use Docker, as discussed below. If you have a reasonably modern machine, within last 3-4 years, this should generally work fine, but with older laptops, the performance may not be as good. See below for more details on this.
 
@@ -21,9 +23,9 @@ If you have a Windows machine then I highly suggest using one of these, if you h
 ### (Less Preferred) Just Cloning the Class Repository
 You don't need a GitHub account for just cloning the class repository. From the command line, just do:
 
-`git clone https://github.com/TulaneIntroDataScience/fall2019.git`
+`git clone https://github.com/nmattei/cmps3160.git`
 
-You can do `git pull` (from within the `fall2019` directory) to fetch the newly added material. 
+You can do `git pull` (from within the `cmps3160` directory) to fetch the newly added material. 
 
 *NOTE*: If you are having trouble installing `git`, you can just download the files instead (as a zipfile), although updating may become tedious. 
 
@@ -37,7 +39,7 @@ Repositories hosted on github for free accounts are public; however, you can eas
     - Go to Profile: https://github.com/settings/profile, and SSH Keys (or directly: https://github.com/settings/ssh)
     - Add SSH Key
 - Clone the class repository:
-    - In Terminal: `git clone git@github.com:TulaneIntroDataScience/fall2019.git`
+    - In Terminal: `git clone git@github.com:nmattei/cmps3160.git`
     - The master branch should be checked out in a new directory 
 - Familiarize yourself with the basic git commands
     - At a minimum, you would need to know: `clone`, `add`, `commit`, `push`, `pull`, `status`
@@ -89,5 +91,7 @@ Complete the function in `Project0` Notebook, and upload the `Project0.ipynb` fi
 
 ### Grading Rubric
 
-* 10 Points: Project runs on the correct Docker Image.
-* 15 Points: Function is implemented and correct.  There are many right answers but we will take points if you do it extremely inefficiently.
+* (10 Points) *Professionalism*: You have written code that is interpretable -- it contains comments where needed to understand, variable names are reasonable, and code that is reasonable and efficient. You have followed directions to turn in the file, clearly labeling everything. You have cited all sources and how you used them in the written portion of your answers.
+* (10 Points) *Visiting Office Hours*: You have visited office hours of at least one instructor of this course *before the assignment is due!*.
+* (10 Points): *Docker Setup*: The project runs on the correct Docker image and the environment is setup correctly.
+* (20 Points): *Function Correctness*: Function is implemented and correct.  There are many right answers but we will take points if you do it extremely inefficiently.
