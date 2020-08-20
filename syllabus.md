@@ -32,7 +32,7 @@ Eli, Sri, and Prof. Mattei have drop in office hours and are available by appoin
 ## Service Learning
 There is an optional Service Learning component to this course that satisfies a [Tier I or Tier II Service Learning Requirement](https://cps.tulane.edu/).  This is a small section with and participation is **hard capped at 10**, if there is no room on the [Registrar's Website](https://classschedule.tulane.edu/Search.aspx), *there is no room*.
 
-### All Service Learning Info is on the [Service Learning Page](./service)
+### All Service Learning Info is on the [Service Learning Page](./service.md)
 
 ---
 
@@ -97,7 +97,9 @@ This course will consist of four distinct grading areas.  Note that all point va
 Throughout the semester we will regularly complete short in class exercises such as brainstorming activities, think-pair-share, pre/post questions, and short answer writing. As we are online sometimes this may include posting things on the discussion board or answering a short quiz in Canvas on additional readings.  This may also include presenting/explaining answers to labs in class.
 
 ### Mini-Projects (15 hours each) 
-There will be between 2-3 "mini-projects" assigned over the course of the semester (plus one simple setup assignment that will walk you through using git, Docker, and Jupyter).  The projects will be posted on the [Assignments Page](./assignments.md) and will be assigned in [Tulane Canvas](https://tulane.instructure.com/). The best way to learn is by doing, so these will largely be applied assignments that provide hands-on experience with the basic skills a data scientist needs in industry. **Posting solutions publicly online without the staff's express consent is a direct violation of our academic integrity policy. Late assignments will not be accepted.** \~25 points for the first project, \~100 for all others).
+There will be between 2-3 "mini-projects" assigned over the course of the semester (plus one simple setup assignment that will walk you through using git, Docker, and Jupyter).  The projects will be posted on the [Assignments Page](./assignments.md) and will be assigned in [Tulane Canvas](https://tulane.instructure.com/). The best way to learn is by doing, so these will largely be applied assignments that provide hands-on experience with the basic skills a data scientist needs in industry. **Posting solutions publicly online without the staff's express consent is a direct violation of our academic integrity policy. Late assignments will not be accepted.** \~50 points for the first project, \~100 for all others).
+
+**Note:** For the Fall 2020 semester Project 1 and 2 may be completed as a group.  We will post more details when they are assigned.  Collaboration plans will be required.
 
 ### Labs (2 hours each). 
 We will run Labs in class a couple of times throughout the semester and give you an opportunity to work through problems hands on with me and the TAs.  On these days it will be important to bring a laptop to class to participate in the work.  Labs will be worth \~15 points each and graded based on completion / effort.

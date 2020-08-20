@@ -4,11 +4,13 @@ title: Links and Resources
 published: true
 ---
 
-
-
 If you need help please check the [discussion board on Canvas!](https://tulane.instructure.com/courses/2206549/discussion_topics). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
 
-Students are reminded to make use of office hours.  Please reach out to Arie and I whenever you need and we can make appointments to meet if you require it.
+Students are reminded to make use of office hours.  Please reach out to any of the course staff whenever you need and we can make appointments to meet if you require it.
+
+Getting Started with Python:
+* [Code Academy Python](https://www.codecademy.com/learn/learn-python-3)
+* 
 
 * *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython* Wes McKinney, O'Reilly Media, 2017. Code and notebooks but not text available on [GitHub](https://github.com/wesm/pydata-book)
 * *Data Science from Scratch: First Principles with Python*, Joel Grus. O’Reilly Media, 2015. Code but not text available on [GitHub](https://github.com/joelgrus/data-science-from-scratch)

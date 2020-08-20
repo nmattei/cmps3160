@@ -9,7 +9,7 @@ published: true
 This is an upper division computer science course, *it is hard*, there will be a lot of work.
 * You will sometimes have multiple assignments at a time and be responsible for managing the deadlines.  
 * Expect to spend 4-6 hours per week **outside of class** on this course ([Tulane policy is 1-2 hours per hour in class](https://catalog.tulane.edu/)).  
-* In order to meet accrediation standards we have over 135 hours of documented learning time this semester.  The following is a rough breakdown of how long you should expect to work on the various types of assignments this semester:  
+* In order to meet accreditation standards we have over 135 hours of documented learning time this semester.  The following is a rough breakdown of how long you should expect to work on the various types of assignments this semester:  
   * 30 Lectures (1h each), additional readings, review, small assignments (30 mins per lecture).
   * 9 Labs (2h each).
   * Project 0 (5h).
