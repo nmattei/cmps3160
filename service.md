@@ -57,7 +57,7 @@ Thus through service learning and civic engagement students will be able to *app
 
 Students will have a 20 hour service learning obligation which will be fulfilled by attending the required meetings of the extra course with community partners, working on their final project which will focus on applications to the community and students will be required to complete four written reflections both on their attendance at  meetings with the community partners and on required readings.
 
-The final project that students complete in this course will be focused on using data from either the city of New Orleans or another local/regional data source identified in conjunction with the instructor and Code for NOLA volunteers.
+The final project that students complete in this course will be focused on using data from either the city of New Orleans or another local/regional data source identified in conjunction with the instructor and community partners.
 
 **Note:** Attendance and interaction with the community is a requirement for the optional Service Learning portions of the course.  If you do not attend/complete all the meetings and reflections you will not pass this course.
 
@@ -69,8 +69,8 @@ Specifically the service learning component of the course will be graded as foll
 ### Interaction With the Main Course
 
 If you enroll in this service learning there are some requirements over and above the Intro to Data Science course, specifically.
-1. You must complete your Final Project in a **team consisting of students in the service learning coponent only.**
-2. The grade for this component will **replace** the grad for your final notebook.  This makes the whole semester worth a significant proportion of your final grade.
+1. You must complete your Final Project in a **team consisting of students in the service learning component only.**
+2. The grade for this component **will be the grade for your final notebook**.  This makes the whole semester worth a significant proportion of your final grade.
 3. (text from Jimmy Huck) Even though Service Learning does not comprise the totality of your Data Science grade, you **cannot pass the class if you do not pass the service learning component of the course.**  Conversely, if you fail the course, you cannot pass the Service Learning portion of the course no matter how well you do.  **This is a serious commitment, treat it with respect**.
 
 ### Required Meetings.
