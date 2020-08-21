@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intro. to Data Science
+title: Introduction to Data Science
 subtitle: CMPS 3160/6160 - Fall 2020
 published: true
 ---
@@ -18,6 +18,7 @@ published: true
 * **Online:** All Lectures will be on Zoom, see [Tulane Canvas](https://tulane.instructure.com/) for details.
 * **Time:** 14:00 - 15:10
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
+* **GitHub:** [https://github.com/nmattei/cmps3160](https://github.com/nmattei/cmps3160)
 * **Canvas Page:** [Tulane Canvas](https://tulane.instructure.com/)
 
 ### Instructor and TA Information

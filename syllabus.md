@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Syllabus - Fall 2020
+title: Fall 2020 Syllabus
 subtitle:
 published: true
 ---
@@ -68,7 +68,7 @@ There is an optional Service Learning component to this course that satisfies a 
   * [Recording of Class Sessions](#recording-of-class-sessions)
   * [Code of Academic Conduct and Academic Integrity](#code-of-academic-conduct-and-academic-integrity)
   * [Title IX](#title-ix)
-  
+
 ---
 
 # Catalog / Course Description
