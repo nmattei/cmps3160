@@ -27,13 +27,48 @@ published: true
 *  Sri's Office Hours: **TR 11:00 - 12:15**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 * Eli's Office Hours: **MW 14:00 - 16:00**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 
-Eli, Sri, and Prof. Mattei have drop in office hours and are available by appointment.  Please reach out to us directly to setup extra time if you need more support during the semester.
+## Course Communication Policy
+There are a variety of methods you can use to get in touch with us, and we expect to be able to get in touch with you.  A few general policies.
+* When emailing, please email all TA's and Prof. Mattei.  We will respond within 24 hours, except on weekends.  Turn around may be faster, but do not rely on it.
+* We expect the same from you: that you will check your email/Canvas every 24 hours, except on weekends.  All major announcements will be distributed via the Announcements function of Canvas.
+* Eli, Sri, and Prof. Mattei have drop in office hours and are available by appointment.  Please reach out to us directly to setup extra time if you need more support during the semester.
+* If you have a general question, please check or post on the [discussion board on Canvas!](https://tulane.instructure.com/courses/2220511/discussion_topics). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
 
 ## Service Learning
 There is an optional Service Learning component to this course that satisfies a [Tier I or Tier II Service Learning Requirement](https://cps.tulane.edu/).  This is a small section with and participation is **hard capped at 10**, if there is no room on the [Registrar's Website](https://classschedule.tulane.edu/Search.aspx), *there is no room*.
 
 ### All Service Learning Info is on the [Service Learning Page](./service.md)
 
+--- 
+
+# Table of Contents
+
+- [Catalog / Course Description](#catalog---course-description)
+  * [Course Objectives and Overview](#course-objectives-and-overview)
+  * [Course Learning Outcomes](#course-learning-outcomes)
+  * [Program-Level Outcomes](#program-level-outcomes)
+- [Required and Suggested Student Resources](#required-and-suggested-student-resources)
+- [Evaluation Procedures and Grading Criteria](#evaluation-procedures-and-grading-criteria)
+    + [In Class Activities, Participation, and Questions](#in-class-activities--participation--and-questions)
+    + [Mini-Projects (15 hours each)](#mini-projects--15-hours-each-)
+    + [Labs (2 hours each)](#labs--2-hours-each-)
+    + [Midterm and Final Exam](#midterm-and-final-exam)
+    + [Final Project](#final-project)
+    + [Additional Work for Graduate Students](#additional-work-for-graduate-students)
+  * [Policies Related to Turning in Work](#policies-related-to-turning-in-work)
+    + [Late Work Policy](#late-work-policy)
+    + [Late Tokens](#late-tokens)
+  * [Final Grade Policy](#final-grade-policy)
+  * [Schedule and Workload](#schedule-and-workload)
+  * [Attendance](#attendance)
+- [Other Course and Tulane Policies](#other-course-and-tulane-policies)
+  * [Use of Electronic Devices](#use-of-electronic-devices)
+  * [Student Support Services](#student-support-services)
+  * [ADA / Accessibility Statement](#ada---accessibility-statement)
+  * [Recording of Class Sessions](#recording-of-class-sessions)
+  * [Code of Academic Conduct and Academic Integrity](#code-of-academic-conduct-and-academic-integrity)
+  * [Title IX](#title-ix)
+  
 ---
 
 # Catalog / Course Description
@@ -101,7 +136,7 @@ There will be between 2-3 "mini-projects" assigned over the course of the semest
 
 **Note:** For the Fall 2020 semester Project 1 and 2 may be completed as a group.  We will post more details when they are assigned.  Collaboration plans will be required.
 
-### Labs (2 hours each). 
+### Labs (2 hours each)
 We will run Labs in class a couple of times throughout the semester and give you an opportunity to work through problems hands on with me and the TAs.  On these days it will be important to bring a laptop to class to participate in the work.  Labs will be worth \~15 points each and graded based on completion / effort.
 
 ### Midterm and Final Exam 
@@ -119,9 +154,15 @@ In the interest of building students' public portfolios, and in the spirit of "l
 **A complete version of the assignment can be found at the [Final Tutorial Page](/_projects/FinalTutorial.md).**
 
 ### Additional Work for Graduate Students 
-Graduate students who enroll in this course will be required to produce an additional written project which investigates a dataset from their primary field of study.  The report will discuss this dataset and propose an analysis using an advanced technique from Data Science to be decided in conjunction with the instructor.  This will be a 100 point project.
+Graduate students who enroll in this course will be required to produce an additional written project which investigates a dataset from their primary field of study.  The report will discuss this dataset and propose an analysis using an advanced technique from Data Science to be decided in conjunction with the instructor.
 
-## Late Work Policy
+## Policies Related to Turning in Work 
+
+* All work will be turned in on [Canvas](https://tulane.instructure.com/).  All work will either be distributed via [Canvas](https://tulane.instructure.com/) or in the case of Labs and examples, via the [CMPS 3160 Github Page]().
+
+* All work will be due **at class time on the day assigned**.  This means turning things in during or after class is considered one day late.  This will be consistant throughout the semester.
+
+### Late Work Policy
 All work must be turned in on time unless explicit consent for outstanding circumstances is given beforehand (or in the case of illness, with a documented absence after).  Any late work will be penalized at **20% of the total assignment value per day up to 5 days late, after which it will not be accepted**.  The exception to this rule is if work solutions are presented in class (as is the case with labs and quizzes).  **After the work is presented in class, no late work will be accepted.**
 
 ### Late Tokens
@@ -138,7 +179,6 @@ The weighted average will determine your letter grade roughly as follows, +/- gr
 **All grades will be posted on [Canvas](https://tulane.instructure.com/) throughout the semester.**
 
 ---
-
 ## Schedule and Workload
 
 See the [Schedule Page](./schedule.md) for the schedule and assignments.
@@ -158,6 +198,8 @@ Faculty and students must comply with University policies on COVID-19 testing an
 If a student cannot attend class for any reason, the student is responsible for communicating with their instructors to make up any work they may miss. Faculty will provide online options for class participation, outlined in this document, and unless a student is seriously ill, they are expected to use this option. The University Health Center will provide documentation verifying a student is ill, as well as verification that a student may return to class. With the approval of the Newcomb - Tulane College dean, an instructor may have a student who has excessive absences involuntarily withdrawn from a course with a WF grade after written warning at any time during the semester.
 
 ---
+
+# Other Course and Tulane Policies
 
 ## Use of Electronic Devices
 Please silence your cellphones during class.  If you want to use a laptop or other device with a large screen for note taking please sit in the back rows of the classroom -- it’s distracting to other students [https://www.scientificamerican.com/article/students-are-better-off-without-a-laptop-in-the-classroom/](https://www.scientificamerican.com/article/students-are-better-off-without-a-laptop-in-the-classroom/)
