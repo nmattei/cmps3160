@@ -87,10 +87,22 @@ In addition to the focus of their main final project, students will be expected 
 
 Reflections will be equally spaced throughout the semester including after the first and last meeting with the community partners.
 
-* *Prompt 1*: Reflect on our kickoff meeting with the community partners.  What aspects of technology were you surprised to learn that they needed help with?  What does this say about our community and the city?
-* *Prompt 2*: Respond to the readings from Cathy O'Neil's Weapons of Math Destruction.  Specifically, think about some of the ways data science can have unintended consequences.  Is there anything you might reveal in the course of your project that you are concerned about? 
-* *Prompt 3*: Read S. Barocas and d. boyd (2017) "Engaging the Ethics of Data Science in Practice," Communications of the ACM, Vol. 60 No. 11, Pages 23-25.  This paper deals directly with ethics and community impact in the area of data science.  Think about your project, where the data comes from, who it impacts, and what you hope to achieve.  Discuss the ethical implications of your work in this context.
-* *Prompt 4*: Reflect on your final presentation at Code for NOLA.  Were you happy with how it went?  What questions did you get that you were not ready for?  Was there something that you didn't think of that was raised during the presentation or review?
+*Prompt 1*: Reflect on our kickoff meeting with the community partners.  Briefly describe each partner and their overall mission.  Discuss your initial thoughts and impressions, consider answering the following questions.
+  * What types of data were you most surprised to see available?  What about data that isn't available?  
+  * What does this say about our community and the city?
+  * What topic(s) mentioned interest you?  Which one(s) do you think you can provide help with over the semester?
+  * Any other thoughts about the topics discussed at the kickoff meeting.
+
+
+*Prompt 2*: Respond to the readings from Cathy O'Neil's Weapons of Math Destruction.  Specifically, think about some of the ways data science can have unintended consequences.  Is there anything you might reveal in the course of your project that you are concerned about? 
+
+*Prompt 3*: Read S. Barocas and d. boyd (2017) "Engaging the Ethics of Data Science in Practice," Communications of the ACM, Vol. 60 No. 11, Pages 23-25.  This paper deals directly with ethics and community impact in the area of data science.  Think about your project, where the data comes from, who it impacts, and what you hope to achieve.  Discuss the ethical implications of your work in this context.
+
+*Prompt 4*: Reflect on your final presentation at Code for NOLA.  Were you happy with how it went?  What questions did you get that you were not ready for?  Was there something that you didn't think of that was raised during the presentation or review?
+
+**Reflection Grading Rubric:** Each reflection will be worth 50 points.  I expect your reflections to engage with the course themes and concepts.  Each essay will be graded on the clarity of expression, grammatical and structural coherence, and the critical thoughtfulness of the reflections response to the prompts that I have provided.  Each reflection should be at least **two type written, size 12 font, 1-inch margin, double spaced documents** to be turned in via Canvas.  They may be longer if you wish but this is a minimum.
+* (20 Points) *Professionalism*:  You have written a coherent, grammatically correct, essay that addresses one or more of the questions/themes from the prompt.
+* (30 Points) *Thoughtfulness*: You have explored ideas beyond the surface and discussed both your perspective and the partner's perspective on the problems at hand.
 
 ## Old Pre-Covid Plans
 

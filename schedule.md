@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spring 2020 Schedule
+title: Fall 2020 Schedule
 published: true
 ---
 
