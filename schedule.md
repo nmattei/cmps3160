@@ -79,7 +79,7 @@ This is an upper division computer science course, *it is hard*, there will be a
 <br>
 <strong>After Class: </strong>Read Additional Readings, Work on Lab 1
    </td>
-   <td><a href="https://github.com/nmattei/cmps3160/tree/master/_labs/Lab01">Lab 1.1 and 1.2: Tabular Data and Variables</a>
+   <td><a href="https://github.com/nmattei/cmps3160/tree/master/_labs/Lab01">Lab 1: Tabular Data and Variables</a>
    </td>
    <td><a href="https://conda.io/projects/conda/en/latest/user-guide/getting-started.html">Getting Started with Anaconda</a>
 <br>
