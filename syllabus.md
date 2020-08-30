@@ -21,11 +21,11 @@ published: true
 ## Instructor and TA Information
 **Instructor:** Dr. Nicholas Mattei, <nsmattei@tulane.edu>
 * **Office:** Stanley Thomas 402B
-* **Office Hours:** TBD
+* **Office Hours:** **M 11:00 - 12:30** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 
 **Teaching Assistants:** Sri Korrapati <skorrapati@tulane.edu> and Eli Mendels <emendels1@tulane.edu>
-*  Sri's Office Hours: **TR 11:00 - 12:15**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
-* Eli's Office Hours: **MW 14:00 - 16:00**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+*  Sri's Office Hours: **TR 11:00 - 12:15** and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+* Eli's Office Hours: **MW 14:00 - 16:00** and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 
 ## Course Communication Policy
 There are a variety of methods you can use to get in touch with us, and we expect to be able to get in touch with you.  A few general policies.
@@ -121,12 +121,16 @@ There is no required textbook for this course, however there are two texts that 
 
 # Evaluation Procedures and Grading Criteria
 This course will consist of four distinct grading areas.  Note that all point values described below for individual assignments are subject to change, the area percentages will remain the same.
-*	10% - In Class Activities, Participation, Online Questions.
+*	  5% - In Class Activities, Participation, Online Questions.
+*   5% - Attendance
 *   25% - Mini-Projects
 *   15% - Labs
 *   30% - Final Project (Service Learning Project)
 *   10% - Midterm Exam
-*	10% - Final Exam
+*	  10% - Final Exam
+
+### Attendance
+Attendance will be monitored through an in-class survey (nearly) every day of class.  You are required to fill out this survey every day, synchronously in class unless you contact me to make alternative arrangements.
 
 ### In Class Activities, Participation, and Questions
 Throughout the semester we will regularly complete short in class exercises such as brainstorming activities, think-pair-share, pre/post questions, and short answer writing. As we are online sometimes this may include posting things on the discussion board or answering a short quiz in Canvas on additional readings.  This may also include presenting/explaining answers to labs in class.
@@ -242,3 +246,4 @@ Student Health Center: (504) 865-5255 | Tulane University Police (TUPD): Uptown 
 Sexual Aggression Peer Hotline and Education (SAPHE): (504) 654-9543 | Title IX Coordinator: (504) 314-2160 or <msmith76@tulane.edu>
 
 <img src="{{ 'img/emergency.png' | relative_url }}" style="height:500px;"/>
+

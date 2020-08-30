@@ -11,16 +11,25 @@ Instead of a Final Exam in this course you will be responsible for generating a 
 
 In the interest of building students' public portfolios, and in the spirit of "learning by doing", students will create a self-contained online tutorial to be posted publicly and a 7-10 minute presentation in class. This tutorial can be created individually or in a small group (max 2 people). This assignment will be a publicly-accessible website that provides an end-to-end walk-through of identifying and scraping a specific data source, performing some exploratory analysis, and providing some sort of managerial or operational insight from that data.  We will have several milestones associated with the final project including the following.  These are each discussed below in more detail.
 
-1. **Milestone 1:** Identifying a dataset and establishing a GitHub.io Site. (\~25 points)
-2. **Milestone 2:** Extraction, Transform, and Load (ETL) + Exploratory Data Analysis (EDA). (\~50 points)
-3. **Deliverable 1:** A final, in class presentation. (\~50 points)
-4. **Deliverable 2:** A final tutorial and website. (\~75 points)
+1. **Milestone 1:** Identifying a dataset and establishing a GitHub.io Site, Extraction, Transform, and Load (ETL). (50 points)
+2. **Milestone 2:** Additional Extraction, Transform, and Load (ETL) + Exploratory Data Analysis (EDA). (50 points)
+3. **Deliverable 1:** In Class Presentation. (50 points)
+4. **Deliverable 2:** Final Website. (100 points)
+
+Examples of high quality notebooks from past Data Science classes:
+* Eli and Matt, [The Happiness Project](https://mcatalano26.github.io/Data-Science-Final-Project/)
+* Addie, [Deaths in Louisiana: An Analysis of Available Data](https://ajasica.github.io/)
+* John (Dung), [Airbnb in New York City](https://dungngotan99.github.io/)
 
 ----
 
-## Milestone 1: Groups, Data, and Website - Oct. 15, 2019.
+## Milestone 1: Groups, Data, and Website - 9/24/2020.
 
-For Milestone 1 you should generate a roughly 1 page writeup (500 words) listing a partner (if any) and one to three datasets that you are considering working with and why.  This is just an outline to make sure you are thinking.  This will be published on your GitHub IO page so this also makes sure you’ve figured out how to get it uploaded!
+For Milestone 1 you should generate a roughly 1 page writeup (500 words) listing a partner and one to three datasets that you are considering working with and why.  This is just an outline to make sure you are thinking.  This will be published on your GitHub IO page so this also makes sure you’ve figured out how to get it uploaded!
+
+You must also include a short *collaboration plan* describing how you are working together, what technologies you are using, and when / how often you are meeting to work on this project.  Examples include: we setup a private Github repo to coordinate code and we met on Zoom X times…. or even we used [Teletype for Atom](https://teletype.atom.io/) or [RemoteCollab for Sublime](https://packagecontrol.io/packages/RemoteCollab). Failure to turn in a collaboration plan that shows you coordinated will be a loss of professionalism points. The turned in result will need to reflect the understanding of both students
+
+You should load one of these datasets and parse it into shape using the principles of tidy data discussed in class. This is to show that you have figured out how to get the data into your system.  You should clearly discuss the data and what challenges you had in formatting it.
 
 ### Possible Sources of Data
 
@@ -50,17 +59,20 @@ In order to make your webpage open up the notebook and make sure everything is a
 
 ### Submission
 
-You should submit the notebook through [Canvas](https://tulane.instructure.com/).  The first cell of your notebook in the markdown **must be a clickable link to the webpage and the webpage must be live**.  That is: the first cell of your notebook must be a markdown cell with a hyperlink to the generated webpage up at `yourname.github.io`.  If this is not correct you will lose points.
+You should submit the notebook through [Canvas](https://tulane.instructure.com/).  The first cell of your notebook in the markdown **must be a clickable link to the webpage and the webpage must be publically readable on the internet (i.e, live)**.  That is: the first cell of your notebook must be a markdown cell with a hyperlink to the generated webpage up at `yourname.github.io`.  If this is not correct you will lose points.
 
-*If you do this in a group, both students must submit the notebook through Canvas but it should be the same notebook.  Both students should have the same data uploaded to the site.*
+*Both students in the group must submit the notebook through Canvas but it should be the same notebook.  Both students should have the same data uploaded to the site.*
 
-### Scoring Rubric (25 Points)
-* 10 Points: Website is up, link was submitted and is correct.  Notebook is professional and clean, the names of the group members, a title for the project, and other good practices as this is *publicly posted*.
-* 15 Points: Project plan is in place, relevant data is identified and links are provided, there are draft questions or hypothesis that the student is going to explore.
+### Scoring Rubric (50 Points)
+* (10 Points) *Professionalism*: You have used both code comments and markdown cells to professionally and clearly document your work including having a clear and clean notebook; linking to resources and documents; and doing so with code that is reasonable and efficient.  Your notebook is correct and contains the required links.
+* (10 Points) *Website*: Website is up, link was submitted and is correct.  Notebook is professional and clean, the names of the group members, a title for the project, and other good practices as this is *publicly posted*.
+* (10 Points) *Project Plan*: Project plan is in place, relevant data is identified and links are provided, there are draft questions or hypothesis that the student is going to explore.
+* (20 Points) *Data Collection*: Data set(s) are loaded correctly using web scraping or other techniques.  The data is imported and tidy according to the principles discussed in class.  Dtypes 
+
 
 ----
 
-## Milestone 2: Extraction, Transform, and Load (ETL) + Exploratory Data Analysis (EDA) - Nov. 12, 2019.
+## Milestone 2: Extraction, Transform, and Load (ETL) + Exploratory Data Analysis (EDA) - 10/29/2020.
 
 Your notebook from Part 1 but expanded to include the data being loaded and parsed into shape using the principles of tidy data discussed in class. This is to show that you have figured out how to get the data into your system.
 
@@ -82,7 +94,7 @@ You should submit the notebook through [Canvas](https://tulane.instructure.com/)
 
 ---
 
-## Deliverable 1: Final Presentation - Dec. 3 & 5, 2019.
+## Deliverable 1: Final Presentation - 11/19+24/2020.
 
 You (and your partner) will give a 5 minute presentation in class to your peers.  In this presentation you are role playing a bit -- your job is to convince the audience that the problem you investigated was interesting and meaningful.  An ideal talk will cover every step of the Data Lifecycle that we have discussed in class: (1) where you got your data, (2) how you loaded and preprocessed your data, (3) some exploratory analysis to show important features, (4) a hypothesis about the data and supporting evidence, (5) an important conclusion to draw from your data.
 
@@ -111,17 +123,12 @@ You should submit your slides (PDF, Powerpoint, or Keynote only) through [Canvas
 
 **TBD**
 
-## Deliverable 2: Final Tutorial - Dec. 8. 2019.
+## Deliverable 2: Final Tutorial - 11/24/2020.
 
 In general, the tutorial should contain at least 1500 words of prose and 150 lines of (nonpadded, legitimate) Python code, along with appropriate documentation, visualization, and
 links to any external information that might help the reader.
 
-Some example tutorials from a similar class at the University of Maryland are:
-* Predicting a win in Rainbow Six: Siege: <https://jiglesia3.github.io/>
-* Maryland and peer institutions’ faculty/student counts: https://krixly.github.io/
-* Analysis of crime data in College Park: https://andresgogo.github.io/
-
-### Scoring Rubric (75 Points)
+### Scoring Rubric (100 Points)
 * Motivation: Does the tutorial make the reader believe the topic is important (a) in general and (b) with respect to data science?
 * 10 Points: *Understanding.* After reading the tutorial, does the reader understand the topic?
 * 5 Points: *Further Resources.* Does the tutorial “call out” to other resources that would help the reader understand basic concepts, deep dive, related work, etc?

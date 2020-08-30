@@ -41,7 +41,7 @@ Thus through service learning and civic engagement students will be able to *app
 |:-------:|:--------:|----|-----|
 | 1 | 8/20 | Overview, Partner Introduction | [Slides](https://drive.google.com/file/d/1wqmRt46d3Zt5za3HA-34_qBK_hrcpjOu/view?usp=sharing) |
 | 2 | 8/27 | Additional Overview with CPS Staff |  |
-| 3 | 9/3 |  |  |
+| 3 | 9/3 | No Class |  |
 | 4 | 9/10 |  |  |
 | 5 | 9/17 |  |  |
 | 6 | 9/24 |  |  |
@@ -62,7 +62,7 @@ The final project that students complete in this course will be focused on using
 **Note:** Attendance and interaction with the community is a requirement for the optional Service Learning portions of the course.  If you do not attend/complete all the meetings and reflections you will not pass this course.
 
 Specifically the service learning component of the course will be graded as follows.
-*	25% - Attendance at 3 required meetings (kickoff, mid-semester review, and final presentations).
+*	25% - Attendance at all required meetings and participation in class.
 *   25% - Reflection Papers.
 *   50% - Evaluation of Final Tutorial as made by the instructor and community partners in conjunction with the rubric for the [Final Tutorial](/_projects/FinalTutorial.md).
 
@@ -73,7 +73,7 @@ If you enroll in this service learning there are some requirements over and abov
 2. The grade for this component **will be the grade for your final notebook**.  This makes the whole semester worth a significant proportion of your final grade.
 3. (text from Jimmy Huck) Even though Service Learning does not comprise the totality of your Data Science grade, you **cannot pass the class if you do not pass the service learning component of the course.**  Conversely, if you fail the course, you cannot pass the Service Learning portion of the course no matter how well you do.  **This is a serious commitment, treat it with respect**.
 
-### Required Meetings.
+### Meetings.
 
 **Kickoff Meeting:** The volunteers at Code for NOLA will work with students in an initial kickoff meeting to outline the services and goals of the organization; show students examples of past work, and engage in a dialog on possible data science projects for the semester.
 
