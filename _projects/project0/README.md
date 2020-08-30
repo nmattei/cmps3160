@@ -97,3 +97,10 @@ Complete the function in `Project0` Notebook, and upload the `Project0.ipynb` fi
 * (10 Points) *Visiting Office Hours*: You have visited office hours of at least one instructor of this course *before the assignment is due!*.
 * (10 Points): *Docker Setup*: The project runs on the correct Docker image and the environment is setup correctly.
 * (20 Points): *Function Correctness*: Function is implemented and correct.  There are many right answers but we will take points if you do it extremely inefficiently.
+
+| Category  | Full    |    75%  |    50%  |   25%   |   0%    |
+|:  ----  : | : ---- :| : ---- :| : ---- :| : ---- :| : ---- :|
+| Professionalism      | As above. | Some sloppiness, some code not well formatted/ documented. Uncleaned up strings / cells with errors. | More than above, some clearness, unused/unnecessary code. | Code is hard to interpret, many instances of unclear names, unused code, or unnecessary output.  | Many cells that are not necessary, no comments, variable names confused / multiply defined, unclear results. |
+| Office Hours         | Visited Hours | | | | Did Not Visit | 
+| Docker Setup         | Code runs in appropriate container. | | | | Code does not run in appropriate container. | 
+| Function Correctness | Code iterates once, no unnecessary counters, efficient. | Code could be more streamlined, mostly correct. | Code runs and produces correct output but is very inefficient or does lots of extra work. | Code runs but is too narrow in scope or does not produce correct output. | Code does not run / output incorrect. | 

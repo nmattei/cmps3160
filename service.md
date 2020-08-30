@@ -62,7 +62,7 @@ The final project that students complete in this course will be focused on using
 **Note:** Attendance and interaction with the community is a requirement for the optional Service Learning portions of the course.  If you do not attend/complete all the meetings and reflections you will not pass this course.
 
 Specifically the service learning component of the course will be graded as follows.
-*	25% - Attendance at all required meetings and participation in class.
+*	25% - Attendance at all required meetings and participation in class / discussions.
 *   25% - Reflection Papers.
 *   50% - Evaluation of Final Tutorial as made by the instructor and community partners in conjunction with the rubric for the [Final Tutorial](/_projects/FinalTutorial.md).
 
