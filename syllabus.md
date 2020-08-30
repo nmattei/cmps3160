@@ -150,10 +150,10 @@ To take the tests you need to get ready and get a Scan to PDF app ([see useful l
 
 ### Final Project 
 In the interest of building students' public portfolios, and in the spirit of "learning by doing", students will create a self-contained online tutorial to be posted publicly and a 5-minute presentation in class. This tutorial can be created individually or in a small group (Max 2 people). This assignment will be a publicly-accessible website that provides an end-to-end walk-through of identifying and scraping a specific data source, performing some exploratory analysis, and providing some sort of managerial or operational insight from that data.  We will have several milestones associated with the final project:
-1. Identifying a dataset and establishing a GitHub.io Site, Extraction, Transform, and Load (ETL). (\~50 points).
-2. Exploratory Data Analysis (EDA) Your notebook from Part 1 but expanded to include graphs, visualizations, and stats that show you can manipulate your data and understand the dataset you are working with. (\~50 points).
-3. A final, in class presentation. (\~50 points).
-4. A final tutorial and website. (\~100 points).
+1. Identifying a dataset and establishing a GitHub.io Site, Extraction, Transform, and Load (ETL). (50 points).
+2. Exploratory Data Analysis (EDA) Your notebook from Part 1 but expanded to include graphs, visualizations, and stats that show you can manipulate your data and understand the dataset you are working with. (50 points).
+3. A final, in class presentation. (50 points).
+4. A final tutorial and website. (100 points).
 
 **A complete version of the assignment can be found at the [Final Tutorial Page](/_projects/FinalTutorial.md).**
 
