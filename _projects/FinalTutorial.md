@@ -39,12 +39,24 @@ This list is just to give you some ideas.  Please feel free to scrape websites (
 * [BigQuery (Google Cloud)](https://cloud.google.com/bigquery/public-data/) public datasets (bikeshare, GitHub, Hacker News, NOAA,...) and many more.
 * [Kaggle Competition Datasets](https://www.kaggle.com/datasets) Billboard Top 100 lyrics, credit card fraud, crime in Chicago, global terrorism, world happiness, etc...
 * [Amazon AWS Public Data](https://aws.amazon.com/public-datasets/) AWS-hosted, various (NASA, a bunch of genome stuff, Google Books n-grams, Multimedia Commons, etc.)
-* [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)Lots of interesting and strange datasets in a Google spreadsheet.
+* [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) Lots of interesting and strange datasets in a Google spreadsheet -- [also see archive here](https://tinyletter.com/data-is-plural/archive).
 * [Corgies Datasets](https://think.cs.vt.edu/corgis/) Curated set of data from Virginia Tech.
 * [GitHub Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) list of datasets that are open and public around the Internet.
 * [Think Stats Datasets](https://docs.google.com/spreadsheets/d/e/2PACX-1vQlv2BpO7TsU2UAE7iQwCUxvxn9LTXEPPj5EnA0l9-DJSwCDZU0xg_IhWBItZ7bNvZ_BnznuOrYYy0i/pubhtml) list of interesting datasets from a class very much like this one.
 * [Data.Nola.Gov](https://data.nola.gov/browse) list of open datasets from NOLA including lots of financial, voting, etc.
 * [IPUMS](https://ipums.org/) provides census and survey data from around the world integrated across time and space. IPUMS integration and documentation makes it easy to study change, conduct comparative research, merge information across data types, and analyze individuals within family and community contexts. 
+* [Pew Research Center Data](https://www.pewresearch.org/download-datasets/) Data from the Pew Research Center, mostly public opinion polls of thousands of different things!
+* [US Census](https://data.census.gov/cedsci/) Easy to use data from all the Censuses including many things like names, income, and more!
+* [IRS](https://www.irs.gov/statistics) The IRS publishes all kinds of data including incomes and historical time series.
+* [The Data Center New Orleans](https://www.datacenterresearch.org/data-resources/) New Orleans specific data of all kinds!
+* [Five Thirty Eight Data](https://github.com/fivethirtyeight/data) Data from the website FiveThirtyEight -- much of this is cleaned and used for their reporting.  If you use one of these datasets I expect you to link to an article of theirs using it!
+* [GapMinder](https://www.gapminder.org/data/) GapMinder curates many public datasets into easy to use formats!
+* [American National Election Studies](https://electionstudies.org/) Data from US elections, member of congress voting records, and many many more.
+* [Data USA](https://datausa.io/) Another set of curated data, mostly reposts of other things findable from other places but in sometimes easier to use formats.
+* [CDC Data](https://wonder.cdc.gov/) Download basically everything the CDC publishes.
+* [US Federal Reserve, FRED](https://fred.stlouisfed.org/) Data on everything about the economy that the US Federal Reserve keeps track of.
+* [US Department of Ag](https://quickstats.nass.usda.gov/) Get data on crop yields, school lunch programs, and many other things from the US department of agriculture.
+
 
 ### Github Pages
 GitHub provides a service called Pages <https://pages.github.com/> that provides website hosting functionality backed by a GitHub-based git repository. We would like you to host your final project on a GitHub Pages project site. To do this, you will need to:

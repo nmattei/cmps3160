@@ -7,6 +7,12 @@ You've been hired by a new space weather startup looking to disrupt the space we
 
 Of course, you don't have access to the raw data for either of these two tables, so as an enterprising data scientist you will scrape this information directly from each HTML page using all the great tools available to you in Python. By the way, you should read up a bit on [Solar Flares](https://en.wikipedia.org/wiki/Solar_flare), [coronal mass ejections](https://www.spaceweatherlive.com/en/help/what-is-a-coronal-mass-ejection-cme), [the solar flare alphabet soup](http://spaceweather.com/glossary/flareclasses.html), [the scary storms of Halloween 2003](http://www.nasa.gov/topics/solarsystem/features/halloween_storms.html), and [sickening solar flares](https://science.nasa.gov/science-news/science-at-nasa/2005/27jan_solarflares).
 
+### Groups and Collaboration Plan
+
+You are allowed to complete this project in a group of exactly size 2, no exceptions.  If you choose to complete this project as a group you must:
+ 1. Both members of the group must **turn in exaclty the same notebook on Canvas**.
+ 2. As the top cell in your notebook, you must also include a short *collaboration plan* describing how you are working together, what technologies you are using, and when / how often you are meeting to work on this project.  Examples include: we setup a private Github repo to coordinate code and we met on Zoom X times…. or even we used [Teletype for Atom](https://teletype.atom.io/) or [RemoteCollab for Sublime](https://packagecontrol.io/packages/RemoteCollab). Failure to turn in a collaboration plan that shows you coordinated will be a loss of professionalism points. The turned in result will need to reflect the understanding of both students
+
 ----
 
 ## Part 1: Data Scraping and Preparation
@@ -260,6 +266,8 @@ For Question 3 of part 2 provide:
 Submit the resulting .ipynb to [Canvas](https://tulane.instructure.com/)
 
 ## Grading Rubric
+* (10 Points) *Professionalism*: You have used both code comments and markdown cells to professionally and clearly document your work including having a clear and clean notebook; linking to resources and documents; and doing so with code that is reasonable and efficient. 
+  * You should, using Markdown in your notebook, clearly label all parts of the project.. **Hint:** Copy this markdown into a notebook cells and *start from there!*.
 * Scrape Your Competitor's Data (10 pts)
   * Documentation and Markdown cells used appropriately.
   * Code is correct to achieve task.
@@ -268,11 +276,11 @@ Submit the resulting .ipynb to [Canvas](https://tulane.instructure.com/)
   * Documentation and Markdown cells used appropriately.
   * Code is correct to achieve task.
   * Table is displayed.
-* Scrape the NASA Data (20 pts)
+* Scrape the NASA Data (15 pts)
   * Documentation and Markdown cells used appropriately.
   * Code is correct to achieve task.
   * Table is displayed.
-* Tidy the NASA the Table (20 pts)
+* Tidy the NASA the Table (15 pts)
   * Documentation and Markdown cells used appropriately.
   * Code is correct to achieve task.
   * Table is displayed.
@@ -289,8 +297,6 @@ Submit the resulting .ipynb to [Canvas](https://tulane.instructure.com/)
   * Code is correct to achieve task.
   * Graphs are clean and well labeled.
   * Interpretation is reasonable and well written.
-
-* (10 Points) *Professionalism*: You have used both code comments and markdown cells to professionally and clearly document your work including having a clear and clean notebook; linking to resources and documents; and doing so with code that is reasonable and efficient. 
 
 * Total Score:
 
