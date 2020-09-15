@@ -72,7 +72,7 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
    </td>
    <td><strong>Due Before Class: </strong>Project 0 Due
 <br><br>
-<strong>Lecture:</strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Tools, Python, and Git </a><strong> </strong>and<strong> </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">What is Data </a>
+<strong>Lecture: </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Tools, Python, and Git </a><strong> </strong>and<strong> </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">What is Data </a>
 <br><br>
 <strong>Demo Notebook: </strong><a href="https://github.com/nmattei/cmps3160/blob/master/_notebooks/03-Data.ipynb">Pandas, Plotting, and Fun!</a>
 <br><br>

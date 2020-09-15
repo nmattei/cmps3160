@@ -103,8 +103,16 @@ Reflections will be equally spaced throughout the semester including after the f
 *Prompt 4*: Reflect on your final presentation at Code for NOLA.  Were you happy with how it went?  What questions did you get that you were not ready for?  Was there something that you didn't think of that was raised during the presentation or review?
 
 **Reflection Grading Rubric:** Each reflection will be worth 50 points.  I expect your reflections to engage with the course themes and concepts.  Each essay will be graded on the clarity of expression, grammatical and structural coherence, and the critical thoughtfulness of the reflections response to the prompts that I have provided.  Each reflection should be at least **two type written, size 12 font, 1-inch margin, double spaced documents** to be turned in via Canvas.  They may be longer if you wish but this is a minimum.
-* (20 Points) *Professionalism*:  You have written a coherent, grammatically correct, essay that addresses one or more of the questions/themes from the prompt.
-* (30 Points) *Thoughtfulness*: You have explored ideas beyond the surface and discussed both your perspective and the partner's perspective on the problems at hand.
+* (10 Points) *Professionalism*:  You have written a coherent, grammatically correct, essay that is coherent, meets formatting requirements.
+* (10 Points) *Completeness*: Your responses addresses all of the questions asked the prompt.
+* (20 Points) *Thoughtfulness/Depth*: You have explored ideas beyond the surface and discussed both your perspective and the partner's perspective on the problems at hand.  You have considered more than one view and discussed these views. 
+* (10 Points) *Personal*: You discussed in your reflection how your perspective informs or complicates the prompt and questions.  You have reflected on your own experience in the context of the new information.
+
+| Full    |    80%  |    60%  |   30%   |   0%    |
+| : ---- :| : ---- :| : ---- :| : ---- :| : ---- :|
+|You completely and fully met the criteria mentioned in depth. | You have met most of the criteria but missed a key issue. | You have missed major components of the required criteria or they are incorrect / inappropriate. | You have missed most components of the required criteria and/or may of them are incorrect. | You have failed to answer or provided little to no evidence of work.|
+
+
 
 ## Old Pre-Covid Plans
 
