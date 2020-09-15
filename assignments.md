@@ -34,7 +34,7 @@ This is an upper division computer science course, *it is hard*, there will be a
 | Intro and Responses | 8/27 | [Canvas Discussion Board](https://tulane.instructure.com/courses/2220511/discussion_topics)
 | Finding A Project Partner | 9/8 | [Canvas Discussion Board](https://tulane.instructure.com/courses/2220511/discussion_topics)
 | Extra Class Videos & Quiz | 9/17 | [Canvas Quiz](https://tulane.instructure.com/)
-
+| Partner and Data | 9/24 | [Canvas Discussion Board](https://tulane.instructure.com/courses/2220511/discussion_topics)
 
 ## Labs
 
