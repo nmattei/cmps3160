@@ -59,7 +59,7 @@ This is an upper division computer science course, *it is hard*, there will be a
 
 | Part    | Due Date | Link | Notes |
 |:-------:|:--------:|----  |----- |
-| Milestone 1 | 9/24 | [Groups, Data, Website, ETL](/_projects/FinalTutorial.md) |
+| Milestone 1 | ~~9/24~~ 9/29 | [Groups, Data, Website, ETL](/_projects/FinalTutorial.md) |
 | Milestone 2 | 10/29 | [Additional ETL and EDA](/_projects/FinalTutorial.md) | 
 | In Class Presentations | 11/19-24 | [Presentation](/_projects/FinalTutorial.md) | 
 | Final Notebook Due | 11/24 | [Final Deliverable](/_projects/FinalTutorial.md) | 
