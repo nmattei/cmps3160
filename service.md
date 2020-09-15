@@ -42,7 +42,7 @@ Thus through service learning and civic engagement students will be able to *app
 | 1 | 8/20 | Overview, Partner Introduction | [Slides](https://drive.google.com/file/d/1wqmRt46d3Zt5za3HA-34_qBK_hrcpjOu/view?usp=sharing) |
 | 2 | 8/27 | Additional Overview with CPS Staff |  |
 | 3 | 9/3 | No Class |  |
-| 4 | 9/10 |  |  |
+| 4 | 9/10 | No Class |  |
 | 5 | 9/17 |  |  |
 | 6 | 9/24 |  |  |
 | 7 | 10/1 |  |  |

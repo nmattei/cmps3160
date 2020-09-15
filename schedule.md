@@ -4,22 +4,13 @@ title: Fall 2020 Schedule
 published: true
 ---
 
-## Workload and Learning Time
+[Link to the Git Repo for the Course!](https://github.com/nmattei/cmps3160)
 
-This is an upper division computer science course, *it is hard*, there will be a lot of work.
-* You will sometimes have multiple assignments at a time and be responsible for managing the deadlines.  
-* Expect to spend 4-6 hours per week **outside of class** on this course ([Tulane policy is 1-2 hours per hour in class](https://catalog.tulane.edu/)).  
-* In order to meet accreditation standards we have over 135 hours of documented learning time this semester.  The following is a rough breakdown of how long you should expect to work on the various types of assignments this semester:  
-  * 30 Lectures (1h each), additional readings, review, small assignments (30 mins per lecture).
-  * 9 Labs (2h each).
-  * Project 0 (5h).
-  * Project 1 and 2 (15h each).
-  * Milestone 1 and 2 (10h each).
-  * Preparing for Final Presentation (5h).
-  * Final Project / Notebook (20h in addition to milestones).
-  * **Total:** 143 Hours.
+**While I make every effort to keep these tables up to date, if there is ever a conflict on due date, the assignment due date in [Canvas](https://tulane.instructure.com/) supersedes anything posted here.**
 
-## Detailed Course Schedule
+For a detailed list of assignments, learning time, and grading rubrics, pleasee go to the [Assignments Page.](./assignments.md)
+
+All pre-class slides and comics (with announcements) [can be found here]().
 
 <table>
   <tr>

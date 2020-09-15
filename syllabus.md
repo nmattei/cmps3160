@@ -149,7 +149,7 @@ This will be a written, close book, in class (online) exam.  You are allowed one
 To take the tests you need to get ready and get a Scan to PDF app ([see useful links here](https://fossbytes.com/best-android-scanner-apps/)).  Scanning is built into many phones now so please get ready, we will have a participation assignment that has you do this before the tests.  **We will not accept pictures, you must upload PDFs to Canvas.  It is also your responsibility to check your PDFs when they are submitted -- if we can't read them we can't grade them.  If you cannot do this please contact me ASAP.**
 
 ### Final Project 
-In the interest of building students' public portfolios, and in the spirit of "learning by doing", students will create a self-contained online tutorial to be posted publicly and a 5-minute presentation in class. This tutorial can be created individually or in a small group (Max 2 people). This assignment will be a publicly-accessible website that provides an end-to-end walk-through of identifying and scraping a specific data source, performing some exploratory analysis, and providing some sort of managerial or operational insight from that data.  We will have several milestones associated with the final project:
+In the interest of building students' public portfolios, and in the spirit of "learning by doing", students will create a self-contained online tutorial to be posted publicly and a 5-minute presentation in class. This tutorial can be created individually or in a small group (Max 2 people, except graduate students). This assignment will be a publicly-accessible website that provides an end-to-end walk-through of identifying and scraping a specific data source, performing some exploratory analysis, and providing some sort of managerial or operational insight from that data.  We will have several milestones associated with the final project:
 1. Identifying a dataset and establishing a GitHub.io Site, Extraction, Transform, and Load (ETL). (50 points).
 2. Exploratory Data Analysis (EDA) Your notebook from Part 1 but expanded to include graphs, visualizations, and stats that show you can manipulate your data and understand the dataset you are working with. (50 points).
 3. A final, in class presentation. (50 points).
@@ -158,7 +158,9 @@ In the interest of building students' public portfolios, and in the spirit of "l
 **A complete version of the assignment can be found at the [Final Tutorial Page](/_projects/FinalTutorial.md).**
 
 ### Additional Work for Graduate Students 
-Graduate students who enroll in this course will be required to produce an additional written project which investigates a dataset from their primary field of study.  The report will discuss this dataset and propose an analysis using an advanced technique from Data Science to be decided in conjunction with the instructor.
+Graduate students who enroll in this course will be required to complete their final project/tutorial as an individual.
+
+~~Graduate students who enroll in this course will be required to produce an additional written project which investigates a dataset from their primary field of study.  The report will discuss this dataset and propose an analysis using an advanced technique from Data Science to be decided in conjunction with the instructor.~~
 
 ## Policies Related to Turning in Work 
 

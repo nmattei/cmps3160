@@ -24,7 +24,7 @@ published: true
 ### Instructor and TA Information
 **Instructor:** Dr. Nicholas Mattei, <nsmattei@tulane.edu>
 * **Office:** Stanley Thomas 402B
-* **Office Hours:** TBD
+* **Office Hours:** **M 11:00 - 12:30** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 
 **Teaching Assistants:** Sri Korrapati <skorrapati@tulane.edu> and Eli Mendels <emendels1@tulane.edu>
 *  Sri's Office Hours: **TR 11:00 - 12:15**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
