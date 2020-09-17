@@ -57,6 +57,8 @@ A large debt for this course is owed to John P. Dickerson at UMD and his course 
 
 * [Data Science at UIUC UIUC Data Science Course](https://github.com/Yiming-Gao/UIUC-Spring-2017/tree/master/INFO-490)
 
+* [Lyle Unger's Machine Learning Page at Penn State](https://alliance.seas.upenn.edu/~cis520/dynamic/2020/wiki/index.php?n=Main.HomePage)
+
 * Course and textbook from Alan Downey at Olin College.
   * [Course (2019)](https://sites.google.com/site/olinds19/)
   * [Think Stats Textbook](https://greenteapress.com/wp/think-stats-2e/)
