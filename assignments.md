@@ -64,19 +64,6 @@ This is an upper division computer science course, *it is hard*, there will be a
 | In Class Presentations | 11/19-24 | [Presentation](/_projects/FinalTutorial.md) | 
 | Final Notebook Due | 11/24 | [Final Deliverable](/_projects/FinalTutorial.md) | 
 
-### Rubric Examples -- See Individual Projects for Complete Rubric
-
-* (10 Points) *Professionalism*: You have written code that is interpretable -- it contains comments where needed to understand, variable names are reasonable, and code that is reasonable and efficient. You have followed directions to turn in the file, clearly labeling everything. You have cited all sources and how you used them in the written portion of your answers.
-* (10 Points) *Visiting Office Hours*: You have visited office hours of at least one instructor of this course *before the assignment is due!*.
-* (10 Points): *Docker Setup*: The project runs on the correct Docker image and the environment is setup correctly.
-* (20 Points): *Function Correctness*: Function is implemented and correct.  There are many right answers but we will take points if you do it extremely inefficiently.
-
-| Category  | Full    |    75%  |    50%  |   25%   |   0%    |
-|:  ----  : | : ---- :| : ---- :| : ---- :| : ---- :| : ---- :|
-| Professionalism      | As above. | Some sloppiness, some code not well formatted/ documented. Uncleaned up strings / cells with errors. | More than above, some clearness, unused/unnecessary code. | Code is hard to interpret, many instances of unclear names, unused code, or unnecessary output.  | Many cells that are not necessary, no comments, variable names confused / multiply defined, unclear results. |
-| Office Hours         | Visited Hours | | | | Did Not Visit | 
-| Docker Setup         | Code runs in appropriate container. | | | | Code does not run in appropriate container. | 
-| Function Correctness | Code iterates once, no unnecessary counters, efficient. | Code could be more streamlined, mostly correct. | Code runs and produces correct output but is very inefficient or does lots of extra work. | Code runs but is too narrow in scope or does not produce correct output. | Code does not run / output incorrect. | 
 
 ### Standard Rubric for Labs
 

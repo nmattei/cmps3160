@@ -23,7 +23,7 @@ Examples of high quality notebooks from past Data Science classes:
 
 ----
 
-## Milestone 1: Groups, Data, and Website - 9/24/2020.
+## Milestone 1: Groups, Data, Website, and Extraction, Transform, and Load (ETL) - 9/24/2020.
 
 For Milestone 1 you should generate a roughly 1 page writeup (500 words) listing a partner and one to three datasets that you are considering working with and why.  This is just an outline to make sure you are thinking.  This will be published on your GitHub IO page so this also makes sure you’ve figured out how to get it uploaded!
 
@@ -71,28 +71,31 @@ In order to make your webpage open up the notebook and make sure everything is a
 
 ### Submission
 
-You should submit the notebook through [Canvas](https://tulane.instructure.com/).  The first cell of your notebook in the markdown **must be a clickable link to the webpage and the webpage must be publically readable on the internet (i.e, live)**.  That is: the first cell of your notebook must be a markdown cell with a hyperlink to the generated webpage up at `yourname.github.io`.  If this is not correct you will lose points.
+You should submit the notebook through [Canvas](https://tulane.instructure.com/).  The first cell of your notebook in the markdown **must be a hyperlink in your notebook to the webpage at github.io, and the webpage must be publicly readable on the internet (i.e, live)**.  That is: the first cell of your notebook must be a markdown cell with a hyperlink to the generated webpage up at `yourname.github.io`.  If this is not correct you will lose points.
 
 *Both students in the group must submit the notebook through Canvas but it should be the same notebook.  Both students should have the same data uploaded to the site.*
 
 ### Scoring Rubric (50 Points)
-* (10 Points) *Professionalism*: You have used both code comments and markdown cells to professionally and clearly document your work including having a clear and clean notebook; linking to resources and documents; and doing so with code that is reasonable and efficient.  Your notebook is correct and contains the required links.
+* (10 Points) *Professionalism*: You have used both code comments and markdown cells to professionally and clearly document your work including having a clear and clean notebook; linking to resources and documents; and doing so with code that is reasonable and efficient.  Your notebook is correct and contains the required links.  In addition, you have written code that is interpretable -- it contains comments where needed to understand, variable names are reasonable, and code that is reasonable and efficient. You have followed directions to turn in the file, clearly labeling everything. You have cited all sources and how you used them in the written portion of your answers.
 * (10 Points) *Website*: Website is up, link was submitted and is correct.  Notebook is professional and clean, the names of the group members, a title for the project, and other good practices as this is *publicly posted*.
-* (10 Points) *Project Plan*: Project plan is in place, relevant data is identified and links are provided, there are draft questions or hypothesis that the student is going to explore.
-* (20 Points) *Data Collection*: Data set(s) are loaded correctly using web scraping or other techniques.  The data is imported and tidy according to the principles discussed in class.  Dtypes 
+* (10 Points) *Project Plan*: Project plan is in place, relevant data is identified and links are provided, there are draft questions or hypothesis that the student is going to explore.  Plan clearly explains how the data could be used to answer the question and addresses whether or not other data is needed.
+* (20 Points) *Extraction, Transform, and Load (ETL)*: At least one data set(s) are loaded correctly using web scraping other techniques.  The data is discussed in terms of what it is and how it could be used to answer the question of study.  Where the data comes from and how it is collected is clearly documented with links and other relevant details.  The data is imported and tidy according to the principles discussed in class.  Dtypes are set properly and displayed within the notebook, NaN's and other techniques are used following best practices discussed in class.
 
+| Full    |    80%  |    60%  |   40%   |   20%   | No Marks |
+| : ---- :| : ---- :| : ---- :| : ---- :| : ---- :| : ---- : |
+|You completely and fully met the criteria mentioned in depth. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed major components of the required criteria or they are incorrect / inappropriate. | You have missed most components of the required criteria and/or may of them are incorrect. | Little to no evidence of work and major missing components. | Missing or completely inadequate. | 
 
 ----
 
-## Milestone 2: Extraction, Transform, and Load (ETL) + Exploratory Data Analysis (EDA) - 10/29/2020.
+## Milestone 2: Additional Extraction, Transform, and Load (ETL) + Exploratory Data Analysis (EDA) - 10/29/2020.
 
-Your notebook from Part 1 but expanded to include the data being loaded and parsed into shape using the principles of tidy data discussed in class. This is to show that you have figured out how to get the data into your system.
+Your notebook from Part 1 but expanded to include any necessary additional data being loaded and parsed into shape using the principles of tidy data discussed in class. This is to show that you have figured out how to get the data into your system.
 
-In addition you should also have one or two graphs and summary statistics showing that you have started to investigate your data.  These graphs should be documented much as we did in Project 1 where you describe what the graph is showing and why.  Use of appropriate Markdown cells is essential.
+In addition you should also have at least 5 graphs and summary statistics/tables including cross-tabulations, groups, measures of central tendency, and/or any of the other EDA techniques discussed showing that you have started to investigate your data and have an understanding of what is in your dataset.  These graphs should be documented much as we did in Project 1 where you describe what the graph is showing and why.  Use of appropriate Markdown cells is essential.
 
 ### Submission
 
-You should submit the notebook through [Canvas](https://tulane.instructure.com/).  The first cell of your notebook in the markdown **must be a clickable link to the webpage and the webpage must be live**.  That is: the first cell of your notebook must be a markdown cell with a hyperlink to the generated webpage up at `yourname.github.io`.  If this is not correct you will lose points.
+You should submit the notebook through [Canvas](https://tulane.instructure.com/).  The first cell of your notebook in the markdown **must be a hyperlink in your notebook to the webpage at github.io, and the webpage must be publicly readable on the internet (i.e, live)**.  That is: the first cell of your notebook must be a markdown cell with a hyperlink to the generated webpage up at `yourname.github.io`.  If this is not correct you will lose points.
 
 *If you do this in a group, both students must submit the notebook through Canvas but it should be the same notebook.  Both students should have the same data uploaded to the site.*
 
@@ -100,15 +103,19 @@ You should submit the notebook through [Canvas](https://tulane.instructure.com/)
 
 ### Scoring Rubric (50 Points)
 
-* (10 Points) *Professionalism*: You have used both code comments and markdown cells to professionally and clearly document your work including having a clear and clean notebook; linking to resources and documents; and doing so with code that is reasonable and efficient.  Your notebook is correct and contains the required links.
-* (20 Points) *Data Collection*: Data set(s) are loaded correctly using web scraping or other techniques.  The data is imported and tidy according to the principles discussed in class.  Dtypes are set properly, columns are appropriate, etc.
-* (20 Points) *EDA:* Graphs are present in the notebook along with appropriate markdown cells explaining the meaning of the graphs and interpretations.
+* (10 Points) *Professionalism*: You have used both code comments and markdown cells to professionally and clearly document your work including having a clear and clean notebook; linking to resources and documents; and doing so with code that is reasonable and efficient.  Your notebook is correct and contains the required links.  In addition, you have written code that is interpretable -- it contains comments where needed to understand, variable names are reasonable, and code that is reasonable and efficient. You have followed directions to turn in the file, clearly labeling everything. You have cited all sources and how you used them in the written portion of your answers.
+* (20 Points) *Extraction, Transform, and Load (ETL)*: At least one data set(s) are loaded correctly using web scraping other techniques.  The data is discussed in terms of what it is and how it could be used to answer the question of study.  Where the data comes from and how it is collected is clearly documented with links and other relevant details.  The data is imported and tidy according to the principles discussed in class.  Dtypes are set properly and displayed within the notebook, NaN's and other techniques are used following best practices discussed in class.
+* (20 Points) *Exploratory Data Analysis (EDA)*: At least 5 graphs and/or summary statistics/tables including cross-tabulations, groups, measures of central tendency, and/or any of the other EDA techniques discussed showing that you have started to investigate your data and have an understanding of what is in your dataset.  Each of these pieces of analysis should have a corresponding markdown cell that clearly explains what is being shown and why.
+
+| Full    |    80%  |    60%  |   40%   |   20%   | No Marks |
+| : ---- :| : ---- :| : ---- :| : ---- :| : ---- :| : ---- : |
+|You completely and fully met the criteria mentioned in depth. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed major components of the required criteria or they are incorrect / inappropriate. | You have missed most components of the required criteria and/or may of them are incorrect. | Little to no evidence of work and major missing components. | Missing or completely inadequate. | 
 
 ---
 
 ## Deliverable 1: Final Presentation - 11/19+24/2020.
 
-You (and your partner) will give a 5 minute presentation in class to your peers.  In this presentation you are role playing a bit -- your job is to convince the audience that the problem you investigated was interesting and meaningful.  An ideal talk will cover every step of the Data Lifecycle that we have discussed in class: (1) where you got your data, (2) how you loaded and preprocessed your data, (3) some exploratory analysis to show important features, (4) a hypothesis about the data and supporting evidence, (5) an important conclusion to draw from your data.
+You (and your partner) will give a 5-8 minute presentation in class to your peers.  In this presentation you are role playing a bit -- your job is to convince the audience that the problem you investigated was interesting and meaningful.  An ideal talk will cover every step of the Data Lifecycle that we have discussed in class: (1) an introduction of the problem and what question you want to solve, (2) where you got your data, (2) how you loaded and preprocessed your data, (3) some exploratory analysis to show important features, (4) a hypothesis about the data and supporting evidence, (5) an important conclusion to draw from your data.
 
 Some resources for giving a good talk:
 1. Simon Peyton Jones, [How To Give a Great Research Talk](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/)
@@ -116,16 +123,22 @@ Some resources for giving a good talk:
 
 ### Scoring Rubric (50 Points)
 
-* 10 Points: *Professionalism.* Are the slides well constructed?  Are the graphs labeled and clear?  Did you speak clearly and have a plan for the discussion?
-* 10 Points: *Organization.* Was the talk clearly organized?  Did you explain where your data came from, why the question was important, and what the outcomes are?  You should address each stage of the DataScience LifeCycle in this talk.
-* 10 Points: *Motivation.* Does the talk make the reader believe the topic is important (a) in general and (b) with respect to data science?
-* 10 Points: *Science.* Did you clearly explain why you performed the analyses you chose?  Did you adequately defend any assumptions you made?
-* 10 Points: *Peer Evaluation.* Were you present in class both days during presentations, did you provide feedback to the other students on their projects and ask questions.
+* (10 Points) *Professionalism*: Are the slides well constructed?  Are the graphs labeled and clear?  Did you speak clearly and have a plan for the discussion? 
+* (10 Points) *Organization*: Was the talk clearly organized?  Did you explain where your data came from, why the question was important, and what the outcomes are?  You should address each stage of the DataScience LifeCycle in this talk.
+* (10 Points) *Motivation*: Does the talk make the reader believe the topic is important (a) in general and (b) with respect to data science? Does the data you selected allow you to answer the question you set out for?  Is there a clear and explainable question being answered by this data?
+* (10 Points) *Science*: Did you clearly explain why you performed the analyses you chose?  Did you adequately defend any assumptions you made?  Does your analysis support your conclusions?
+* (10 Points) *Peer Evaluation*: Were you present in class both days during presentations, did you provide feedback to the other students on their projects and ask questions.  Were you a good peer?
+
+| Full    |    80%  |    60%  |   40%   |   20%   | No Marks |
+| : ---- :| : ---- :| : ---- :| : ---- :| : ---- :| : ---- : |
+|You completely and fully met the criteria mentioned in depth. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed major components of the required criteria or they are incorrect / inappropriate. | You have missed most components of the required criteria and/or may of them are incorrect. | Little to no evidence of work and major missing components. | Missing or completely inadequate. | 
 
 ### Schedule
 
-**Note:** You must upload your slides through [Canvas]() before 10am on the day of your presentation.  Failure to do this will result in a minimum of 10 points lost for *professionalism*.  I will collate the slides on my laptop before class to make sure transitions go smoothly.
+**Note:** You must upload your slides through [Canvas](https://tulane.instructure.com/) before 10am on the day of your presentation.  Failure to do this will result in a minimum of 10 points lost for *Professionalism*.  I will collate the slides on my laptop before class to make sure transitions go smoothly.
 
+
+**Schedule TBD**
 
 ### Submission
 
@@ -133,7 +146,6 @@ You should submit your slides (PDF, Powerpoint, or Keynote only) through [Canvas
 
 *If you do this in a group, both students must submit the set of slides through Canvas.*
 
-**TBD**
 
 ## Deliverable 2: Final Tutorial - 11/24/2020.
 
@@ -141,14 +153,19 @@ In general, the tutorial should contain at least 1500 words of prose and 150 lin
 links to any external information that might help the reader.
 
 ### Scoring Rubric (100 Points)
-* Motivation: Does the tutorial make the reader believe the topic is important (a) in general and (b) with respect to data science?
-* 10 Points: *Understanding.* After reading the tutorial, does the reader understand the topic?
-* 5 Points: *Further Resources.* Does the tutorial “call out” to other resources that would help the reader understand basic concepts, deep dive, related work, etc?
-* 10 Points: *Prose and Professionalism.* Does the prose in the Markdown portion of the .ipynb add to the reader’s understanding of the tutorial?  Are the graphs labeled and clear? Is the writing clear and explained well.
-* 15 Points: *Organization.* Was the notebook clearly organized?  Did you explain where your data came from, why the question was important, and what the outcomes are?  You should address each stage of the DataScience LifeCycle.
-* 20 Points: *Code.* Does the code help solidify understanding, is it well documented, and does it include helpful examples?  Is the code correct?  Did you show that the results of intermediate steps are correct in the tutorial?  Is there enough code to be complex enough to require a tutorial?
-* 10 Points: *Science.* Did you clearly explain why you performed the analyses you chose?  Did you adequately defend any assumptions you made?
-* 5 Points: *Subjective Evaluation.* If somebody linked to this tutorial from Hacker News, would people actually read the whole thing?
+* (10 Points) *Motivation*: Does the tutorial make the reader believe the topic is important (a) in general and (b) with respect to data science?  Is there a clear, coherent argument for this at the beginning of the notebook?
+* (10 Points) *Understanding*: After reading the tutorial, does the reader understand the topic?
+* (10 Points) *Prose and Professionalism.* Does the prose in the Markdown portion of the .ipynb add to the reader’s understanding of the tutorial?  Are the graphs labeled and clear? Is the writing clear and explained well.
+* (10 Points) *Organization/Professionalism*: Was the notebook clearly organized?  Did you explain where your data came from, why the question was important, and what the outcomes are?  There should be a section heading for each step of the Data Science LifeCycle.
+* (20 Points) *Data*: Is the data selected appropriate? is it loaded in a coherent way? clean and Tidy? Dtypes set? are there issues in the data and if so are they explained? is enough data present and if not, why not? Is the data manipulated properly and coherently?
+* (20 Points) *Code*: Does the code help solidify understanding, is it well documented, and does it include helpful examples?  Is the code correct?  Did you show that the results of intermediate steps are correct in the tutorial?  Is there enough code to be complex enough to require a tutorial?
+* (10 Points) *Science.* Did you clearly explain why you performed the analyses you chose?  Did you adequately defend any assumptions you made? Does your analysis support your conclusions?
+* (5 Points) *Subjective Evaluation.* If somebody linked to this tutorial from Hacker News, Reddit, Towards Data Science, or some other general interest website, would people actually read the whole thing?
+* (5 Points) *Further Resources.* Does the tutorial “call out” to other resources that would help the reader understand basic concepts, deep dive, related work, etc?
+
+| Full    |    80%  |    60%  |   40%   |   20%   | No Marks |
+| : ---- :| : ---- :| : ---- :| : ---- :| : ---- :| : ---- : |
+|You completely and fully met the criteria mentioned in depth. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed major components of the required criteria or they are incorrect / inappropriate. | You have missed most components of the required criteria and/or may of them are incorrect. | Little to no evidence of work and major missing components. | Missing or completely inadequate. | 
 
 ### Submission
 
