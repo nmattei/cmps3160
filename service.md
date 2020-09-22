@@ -47,13 +47,14 @@ Thus through service learning and civic engagement students will be able to *app
 | 4 | 9/10 | No Class |  |
 | 5 | 9/17 | Meeting to Discuss Projects  |  |
 | 6 | 9/24 | Entering Communities Training |  |
-| 7 | 10/1 |  |  |
+| 7 | 10/1 | No Class  |  |
 | 8 | 10/8 |  |  |
-| 9 | 10/22 |  |  |
-| 10 | 10/29 |  |  |
-| 11 | 11/5 |  |  |
-| 12 | 11/12 |  |  |
-| 13 | 11/19 | Final Presentations |  |
+| 9 | 10/15 |  |  |
+| 10 | 10/22 |  |  |
+| 11 | 10/29 |  |  |
+| 12 | 11/5 |  |  |
+| 13 | 11/12 |  |  |
+| 14 | 11/19 | Final Presentations |  |
 
 ## Expectations and Grading
 
