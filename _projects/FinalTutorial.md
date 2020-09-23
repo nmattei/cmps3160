@@ -56,6 +56,7 @@ This list is just to give you some ideas.  Please feel free to scrape websites (
 * [CDC Data](https://wonder.cdc.gov/) Download basically everything the CDC publishes.
 * [US Federal Reserve, FRED](https://fred.stlouisfed.org/) Data on everything about the economy that the US Federal Reserve keeps track of.
 * [US Department of Ag](https://quickstats.nass.usda.gov/) Get data on crop yields, school lunch programs, and many other things from the US department of agriculture.
+* [Reddit Datasets](https://www.reddit.com/r/datasets/) A subreddit that points to other datasets that may be interesting.
 
 
 ### Github Pages

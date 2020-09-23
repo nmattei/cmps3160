@@ -67,12 +67,10 @@ This is an upper division computer science course, *it is hard*, there will be a
 
 ### Standard Rubric for Labs
 
-* (5 Points) *Professionalism*: You have written code that is interpretable -- it contains comments where needed to understand, variable names are reasonable, and code that is reasonable and efficient. You have followed directions to turn in the file, clearly labeling everything. You have cited all sources and how you used them in the written portion of your answers.
-* (5 Points) *Code*: Code is present for all cells, attempt was made to answer all questions.
-* (5 Points) *Written Answers*: Written answers are present for all cells where asked.
+* (5 Points) *Professionalism*: You have written code that is interpretable -- it contains comments where needed to understand, variable names are reasonable, and code that is reasonable and efficient. You have followed directions to turn in the file, clearly labeling everything. You have cited all sources and how you used them in the written portion of your answers.  There are no unused cells, there are no errors or other distractions.
+* (5 Points) *Code*: Code is present for all cells and code is correct and reasonable.
+* (5 Points) *Written Answers*: Written answers are present for all cells where asked.  Written answers are complete sentences and clear.
 
-| Category  | Full    |    75%  |    50%  |   25%   |   0%    |
-|:  ----  : | : ---- :| : ---- :| : ---- :| : ---- :| : ---- :|
-| Professionalism      | As above. | Some sloppiness, some code not well formatted/ documented. Uncleaned up strings / cells with errors. | More than above, some clearness, unused/unnecessary code. | Code is hard to interpret, many instances of unclear names, unused code, or unnecessary output.  | Many cells that are not necessary, no comments, variable names confused / multiply defined, unclear results. |
-| Code            | Code is present for all cells, attempt was made to answer all questions.  | | Code is missing from some cells and/or code is obviously not correct. | | Code missing from many / all answers and/or clearly incorrect / does not run.| 
-| Written Answers | Written answers are present for all cells where asked. | | Some written answers missing and/or answers are clearly not correct. | | Answers missing from many / all answers and/or is clearly incorrect / do not address question.
+| Full    |    Good |  Okay |   Lacking   |   Poor  | No Marks |
+| : ---- :| : ---- :| : ---- :| : ---- :| : ---- :| : ---- : |
+| You completely and fully met the criteria described. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed components of the required criteria and/or they are incorrect / inappropriate or lack depth. | You have missed major components of the required criteria and/or may of them are incorrect. | Little to no evidence of work and major missing components. | Missing or completely inadequate. | 
