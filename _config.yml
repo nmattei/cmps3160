@@ -185,12 +185,14 @@ defaults:
     values:
       layout: "post"
       comments: false  # add comments to all blog posts
+      ext-js: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"
       social-share: false # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # all files
     values:
       layout: "page"
+      ext-js: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"
       show-avatar: true
 
 # Use tags index page and make tags on each post clickable

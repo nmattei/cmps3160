@@ -52,8 +52,8 @@ This is an upper division computer science course, *it is hard*, there will be a
 | Project | Due Date | Link | Notes |
 |:-------:|:--------:|----|-----|
 | 0 | 8/27 | [Computing Environment](https://github.com/nmattei/cmps3160/tree/master/_projects/project0) |
-| 1 | 10/6 | [Fly Me To The Moon](https://github.com/nmattei/cmps3160/tree/master/_projects/project1) | 
-| 2 | TBD | [MoneyBall!](https://github.com/nmattei/cmps3160/tree/master/_projects/project2) | 
+| 1 | 10/6 | [Fly Me To The Moon](/_projects/Project1.md) | 
+| 2 | TBD | [MoneyBall!](/_projects/Project1.md) | 
 
 ## Final Tutorial
 

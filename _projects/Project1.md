@@ -1,4 +1,11 @@
-# Project 1
+---
+layout: page
+title: Project 1
+subtitle: Fly Me To The Moon
+published: true
+---
+
+# Project 1: Fly Me To The Moon
 
 **Posted:** September 9, 2020; <br>
 **Due:** October 6, 2020
@@ -267,7 +274,8 @@ Submit the resulting .ipynb to [Canvas](https://tulane.instructure.com/)
 
 ## Grading Rubric
 * (10 Points) *Professionalism*: You have used both code comments and markdown cells to professionally and clearly document your work including having a clear and clean notebook; linking to resources and documents; and doing so with code that is reasonable and efficient. 
-  * You should, using Markdown in your notebook, clearly label all parts of the project.. **Hint:** Copy this markdown into a notebook cells and *start from there!*.
+  * You should, using Markdown in your notebook, clearly label all parts of the project.. 
+  * **Hint:** Copy this markdown into a notebook cells and *start from there!*.
 * Scrape Your Competitor's Data (10 pts)
   * Documentation and Markdown cells used appropriately.
   * Code is correct to achieve task.
