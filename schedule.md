@@ -42,7 +42,7 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
    </td>
    <td><strong>No Class</strong>
    </td>
-   <td><strong>Due Before Class: </strong>Fill out Pre-Class Questionnaire
+   <td><strong>Due Before Class: </strong>Pre-Class Questionnaire
 <br><br>
 <strong>Lecture: </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Introduction to Data Science</a>
 <br><br>
@@ -70,9 +70,9 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
 <br><br>
 <strong>After Class: </strong>Lab 1, Project 0, Discussion 1
    </td>
-   <td><strong>Due Before Class: </strong>Project 0 Due
+   <td><strong>Due Before Class: </strong>Project 0
 <br><br>
-<strong>Lecture: </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Tools, Python, and Git </a><strong> </strong>and<strong> </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">What is Data </a>
+<strong>Lecture:</strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Tools, Python, and Git </a><strong> </strong>and<strong> </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">What is Data </a>
 <br><br>
 <strong>Demo Notebook: </strong><a href="https://github.com/nmattei/cmps3160/blob/master/_notebooks/03-Data.ipynb">Pandas, Plotting, and Fun!</a>
 <br><br>
@@ -94,13 +94,13 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
 <br><br>
 9/1+9/3
    </td>
-   <td><strong>Due Before Class: </strong>Lab 1 Due
+   <td><strong>Due Before Class: </strong>Lab 1
 <br><br>
 <strong>Lecture:</strong> <a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">What is Data</a> and<strong> </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Summary Statistics</a>
 <br><br>
 <strong>After Class: </strong>Lab 2
    </td>
-   <td><strong>Due Before Class: </strong>N/A
+   <td><strong>Due Before Class: </strong>None
 <br><br>
 <strong>Lecture: </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Summary Statistics</a>
 <br><br>
@@ -122,13 +122,13 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
 <br><br>
 9/8+9/10
    </td>
-   <td><strong>Due Before Class: </strong>Lab 2 Due
+   <td><strong>Due Before Class: </strong>Lab 2
 <br><br>
 <strong>Lecture: <a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Prof. Brain Summa - Visualizing Data</a></strong>
 <br><br>
 <strong>After Class: </strong>Work on Lab 3
    </td>
-   <td><strong>Due Before Class: </strong>N/A
+   <td><strong>Due Before Class: </strong>None
 <br><br>
 <strong>Lecture: </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Scraping Data</a>
 <br><br>
@@ -142,11 +142,7 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
 <br><br>
 <a href="https://github.com/nmattei/cmps3160/tree/master/_labs/">Lab 3: Visualizing Variables and Filtering Data</a>
    </td>
-   <td><a href="https://pythex.org/">Python RegEx Tester</a>
-<br><br>
-<a href="https://www.digitalocean.com/community/tutorials/how-to-scrape-web-pages-with-beautiful-soup-and-python-3">Beautiful Soup Tutorial</a>
-<br><br>
-<a href="https://matplotlib.org/3.3.1/tutorials/colors/colormaps.html">Using Colormaps in MatPlotLib</a>
+   <td><a href="https://matplotlib.org/3.3.1/tutorials/colors/colormaps.html">Using Colormaps in MatPlotLib</a>
 <br><br>
 <a href="https://seaborn.pydata.org/tutorial/color_palettes.html">Using Color Pallets in Seaborn</a>
    </td>
@@ -162,7 +158,7 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
 <br><br>
 <strong>After Class:</strong> Lab 3, Extra Class Videos
    </td>
-   <td><strong>Due Before Class: </strong>Lab 3 Due, Extra Class Quiz
+   <td><strong>Due Before Class: </strong>Lab 3, Extra Class Quiz
 <br><br>
 <strong>Lecture: </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Scraping Data</a> and<strong> </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Working With Data Tables</a>
 <br><br>
@@ -174,9 +170,9 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
 <br><br>
 <a href="https://github.com/nmattei/cmps3160/tree/master/_labs/">Lab 4: GroupBy+Pivot Tables</a>
    </td>
-   <td><a href="https://vita.had.co.nz/papers/tidy-data.pdf">Wickham, Tidy Data</a>
+   <td><a href="https://pythex.org/">Python RegEx Tester</a>
 <br><br>
-<a href="https://www.jeannicholashould.com/tidy-data-in-python.html">Tidy Data in Python</a>
+<a href="https://www.digitalocean.com/community/tutorials/how-to-scrape-web-pages-with-beautiful-soup-and-python-3">Beautiful Soup Tutorial</a>
 <br><br>
 <a href="https://www.sqltutorial.org/sql-cheat-sheet/">SQL Cheat Sheet</a>
    </td>
@@ -186,7 +182,7 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
 <br><br>
 9/22+9/24
    </td>
-   <td><strong>Due Before Class: </strong>Lab 4 Due
+   <td><strong>Due Before Class: </strong>Lab 4
 <br><br>
 <strong>Lecture: </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Working With Data Tables</a>
 <br><br>
@@ -194,13 +190,15 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
    </td>
    <td><strong>Due Before Class: </strong>Discussion 3
 <br><br>
-<strong>Lecture: </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Data Integration</a>
+<strong>Lecture: </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Working With Data Tables</a> and<strong> </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Data Integration</a>
 <br><br>
 <strong>After Class: </strong>Milestone 1, Lab 5
    </td>
    <td><a href="https://github.com/nmattei/cmps3160/tree/master/_labs/">Lab 5: Merging+Join</a> 
    </td>
-   <td>
+   <td><a href="https://vita.had.co.nz/papers/tidy-data.pdf">Wickham, Tidy Data</a>
+<br><br>
+<a href="https://www.jeannicholashould.com/tidy-data-in-python.html">Tidy Data in Python</a>
    </td>
   </tr>
   <tr>
@@ -210,7 +208,7 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
    </td>
    <td><strong>Due Before Class: </strong>Milestone 1 Due, Lab 5 Due
 <br><br>
-<strong>Lecture: </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Transforming Data and Relationships</a>
+<strong>Lecture: </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Data Relationships+SQL</a> and <a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Data Integration</a>
 <br><br>
 <strong>After Class: </strong>Midterm Cheat Sheet, Project 1
    </td>
@@ -220,7 +218,9 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
 <br><br>
 <strong>After Class: </strong>Project 1
    </td>
-   <td><a href="https://tulane.instructure.com/">Midterm Cheat Sheet</a>
+   <td>Milestone 2 Assignment
+<br><br>
+<a href="https://tulane.instructure.com/">Midterm Cheat Sheet</a>
    </td>
    <td><a href="http://users.umiacs.umd.edu/~getoor/Tutorials/ER_VLDB2012.pdf">Entity Resolution Tutorial </a>
    </td>
@@ -232,17 +232,19 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
    </td>
    <td><strong>Due Before Class: </strong>Project 1 Due
 <br><br>
-<strong>Lecture: </strong>Causality
+<strong>Lecture: </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Transforming Data and Relationships</a>
 <br><br>
 <strong>After Class: </strong>Lab 6
    </td>
    <td><strong>Due Before Class: </strong>None
 <br><br>
-<strong>Lecture</strong>
+<strong>Lecture: </strong>Causality
 <br><br>
-<strong>After Class: </strong>Lab 6<strong> </strong>
+<strong>After Class: </strong>Lab 6<strong>, </strong>Makeup Class - October 11th.
    </td>
-   <td><a href="https://github.com/nmattei/cmps3160/tree/master/_labs/">Lab 6: Transforming Data / Relationships</a>
+   <td>Project 2: Moneyball
+<br><br>
+<a href="https://github.com/nmattei/cmps3160/tree/master/_labs/">Lab 6: Transforming Data / </a>Quantitative Relationships
    </td>
    <td><a href="http://theconversation.com/what-does-gdpr-mean-for-me-an-explainer-96630">What Does GDPR Mean for Me?</a>
    </td>
@@ -262,7 +264,7 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
 <br><br>
 <strong>After Class: </strong>
    </td>
-   <td>Lab 7:
+   <td>Lab 7: Categorical Relationships / Distance Metrics
    </td>
    <td><a href="https://fivethirtyeight.com/features/science-isnt-broken/">Five Thirty Eight: Science Isn’t Broken</a>
    </td>
@@ -284,7 +286,7 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
 <br><br>
 <strong>After Class: </strong>
    </td>
-   <td>
+   <td>Lab 8: Machine Learning Regression Models
    </td>
    <td>
    </td>
@@ -304,7 +306,7 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
 <br><br>
 <strong>After Class: </strong>
    </td>
-   <td>Lab 8:
+   <td>
    </td>
    <td><a href="http://ciml.info/">Introduction to Machine Learning</a>
    </td>
@@ -314,7 +316,7 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
 <br><br>
 11/3+11/5
    </td>
-   <td><strong>Due Before Class: </strong>N/A
+   <td><strong>Due Before Class: </strong>None
 <br><br>
 <strong>Lecture:</strong>
    </td>
@@ -324,7 +326,7 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
 <br><br>
 <strong>After Class: </strong>Lab 9
    </td>
-   <td>Lab 9
+   <td>Lab 9: Model Error and Tuning
    </td>
    <td>
    </td>
@@ -340,7 +342,7 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
 <br><br>
 <strong>After Class: </strong>Lab 10<strong>, </strong>Final Tutorial and Presentations
    </td>
-   <td><strong>Due Before Class: </strong>
+   <td><strong>Due Before Class: </strong>None
 <br><br>
 <strong>Lecture:</strong>
 <br><br>
@@ -362,7 +364,11 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
 <br><br>
 <strong>After Class: </strong>Final Tutorial and Presentations
    </td>
-   <td><strong>Lecture: </strong>Final Presentations
+   <td><strong>Due Before Class: </strong>Final Presentations
+<br><br>
+<strong>Lecture: </strong>Final Presentations
+<br><br>
+<strong>After Class: </strong>Final Tutorial
    </td>
    <td>
    </td>
@@ -374,11 +380,17 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
 <br><br>
 11/24
    </td>
-   <td><strong>Lecture: </strong>Final Presentations
+   <td><strong>Due Before Class: </strong>Final Presentations
+<br><br>
+<strong>Lecture: </strong>Final Presentations
+<br><br>
+<strong>After Class: </strong>Final Cheat Sheet
    </td>
    <td><strong>No Class</strong>
    </td>
    <td><a href="https://nmattei.github.io/cmps3160/projects/FinalTutorial/">Final Notebooks / Websites Due</a>
+<br><br>
+Final Cheat Sheet Due before Final on 12/4!
    </td>
    <td>
    </td>
