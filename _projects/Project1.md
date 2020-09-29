@@ -306,7 +306,7 @@ Submit the resulting .ipynb to [Canvas](https://tulane.instructure.com/)
   * Graphs are clean and well labeled.
   * Interpretation is reasonable and well written.
 
-| Full    |    80%  |    60%  |   40%   |   20%   | No Marks |
+| Full    |    80%  |    60%  |   40%   |   Poor   | No Marks |
 | : ---- :| : ---- :| : ---- :| : ---- :| : ---- :| : ---- : |
 |You completely and fully met the criteria mentioned in depth. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed major components of the required criteria or they are incorrect / inappropriate. | You have missed most components of the required criteria and/or may of them are incorrect. | Little to no evidence of work and major missing components. | Missing or completely inadequate. | 
 

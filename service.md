@@ -48,8 +48,8 @@ Thus through service learning and civic engagement students will be able to *app
 | 5 | 9/17 | Meeting to Discuss Projects  |  |
 | 6 | 9/24 | Entering Communities Training |  |
 | 7 | 10/1 | No Class  |  |
-| 8 | 10/8 |  |  |
-| 9 | 10/15 |  |  |
+| 8 | 10/8 | No Class |  |
+| 9 | 10/15 | Milestone 1 Review with Ryan and Lamar  |  |
 | 10 | 10/22 |  |  |
 | 11 | 10/29 |  |  |
 | 12 | 11/5 |  |  |
