@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Final Tutorial
-subtitle:
+title: Project 2
+subtitle: Moneyball!
 published: true
 ---
 
 # Project 2
 
-**Posted:** XX, 2020; <br>
-**Due:** XX, 2020
+**Posted:** Sept 29, 2020; <br>
+**Due:** , 2020
 
 In this project you will apply your data wrangling and exploratory data analysis skills to baseball data. In particular, we want to know how well did Moneyball work for the Oakland A's. Was it worthy of a movie?
 

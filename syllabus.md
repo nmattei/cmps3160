@@ -169,10 +169,10 @@ Graduate students who enroll in this course will be required to complete their f
 * All work will be due **at class time on the day assigned**.  This means turning things in during or after class is considered one day late.  This will be consistant throughout the semester.
 
 ### Late Work Policy
-All work must be turned in on time unless explicit consent for outstanding circumstances is given beforehand (or in the case of illness, with a documented absence after).  Any late work will be penalized at **20% of the total assignment value per day up to 5 days late, after which it will not be accepted**.  The exception to this rule is if work solutions are presented in class (as is the case with labs and quizzes).  **After the work is presented in class, no late work will be accepted.**
+All work must be turned in on time unless explicit consent for outstanding circumstances is given beforehand (or in the case of illness, with a documented absence after).  Any late work will be penalized at **10% of the total assignment value per day up to 5 days late, after which it will not be accepted**.  The exception to this rule is if work solutions are presented in class (as is the case with labs and quizzes).  **After the work is presented in class, no late work will be accepted.**
 
 ### Late Tokens
-At the start of this semester you each are holding **3 late tokens** which can be redeemed at any time for **mini-projects labs only** .  Each token is worth one additional day, to use at your discretion.  These tokens have no cash value but are worth 1% to your mini-project grade at the end of the semester.  Note that you cannot use a late token if lab solutions have already been presented in class.
+At the start of this semester you each are holding **3 late tokens** which can be redeemed at any time for **mini-projects, labs, Milestone 1, and Milestone 2 only** .  Each token is worth one additional day, to use at your discretion.  These tokens have no cash value but are worth 1% to your mini-project grade at the end of the semester.  Note that you cannot use a late token if lab solutions have already been presented in class.
 
 ## Final Grade Policy 
 The weighted average will determine your letter grade roughly as follows, +/- grades will be given for borderline cases.

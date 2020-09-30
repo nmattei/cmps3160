@@ -46,10 +46,10 @@ This is an upper division computer science course, *it is hard*, there will be a
 | 4 | 9/22 | [GroupBy and Pivot Tables](https://github.com/nmattei/cmps3160/tree/master/_labs) | 
 | 5 | 9/29 | [Merging and Joining](https://github.com/nmattei/cmps3160/tree/master/_labs) | 
 | 6 | 10/13 | [Transforming Data / Relationships](https://github.com/nmattei/cmps3160/tree/master/_labs) |
-| 6 | 10/20 | [Categorical Relationships / Distance Metrics](https://github.com/nmattei/cmps3160/tree/master/_labs) |
-| 6 | 10/27 | [Machine Learning Regression Models](https://github.com/nmattei/cmps3160/tree/master/_labs) |
-| 6 | 11/10 | [Model Error and Tuning](https://github.com/nmattei/cmps3160/tree/master/_labs) |
-| 6 | 11/17 | [Machine Learning Classification Models](https://github.com/nmattei/cmps3160/tree/master/_labs) |
+| 7 | 10/20 | [Categorical Relationships / Distance Metrics](https://github.com/nmattei/cmps3160/tree/master/_labs) |
+| 8 | 10/27 | [Machine Learning Regression Models](https://github.com/nmattei/cmps3160/tree/master/_labs) |
+| 9 | 11/10 | [Model Error and Tuning](https://github.com/nmattei/cmps3160/tree/master/_labs) |
+| 10 | 11/17 | [Machine Learning Classification Models](https://github.com/nmattei/cmps3160/tree/master/_labs) |
 
 ## Mini-Projects
 
