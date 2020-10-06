@@ -204,7 +204,7 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
 <br><br>
 9/29+10/1
    </td>
-   <td><strong>Due Before Class: </strong>Milestone 1 Due, Lab 5 Due
+   <td><strong>Due Before Class: </strong>Milestone 1, Lab 5 Due
 <br><br>
 <strong>Lecture: </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Data Relationships+SQL</a>
 <br><br>
@@ -234,11 +234,11 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
 <br><br>
 <strong>After Class: </strong>Project 1<strong>, </strong>Lab 6
    </td>
-   <td><strong>Due Before Class: </strong>Project 1 Due
+   <td><strong>Due Before Class: </strong>N/A
 <br><br>
 <strong>Lecture: </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Data Integration</a>, <a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Transforming Data and Relationships</a> 
 <br><br>
-<strong>After Class: </strong>Lab 6<strong>, </strong>Makeup Class - October 11th.
+<strong>After Class: </strong>Project 1, Lab 6<strong>, </strong>Makeup Class - October 11th.
    </td>
    <td><a href="https://nmattei.github.io/cmps3160/projects/Project2/">Project 2: Moneyball</a>
 <br><br>
@@ -252,15 +252,15 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
 <br><br>
 10/13+10/15
    </td>
-   <td><strong>Due Before Class: </strong>Lab 6
+   <td><strong>Due Before Class: </strong>Project 1
 <br><br>
-<strong>Lecture: </strong>Causality and Hypothesis Testing 
+<strong>Lecture: </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Transforming Data and Relationships</a> , Causality and Hypothesis Testing 
 <br><br>
 <strong>After Class: </strong>Lab 7, Milestone 2
    </td>
-   <td><strong>Due Before Class: </strong>N/A
+   <td><strong>Due Before Class: </strong>Lab 6
 <br><br>
-<strong>Lecture: </strong>Lab 6 Review, Missing Data 
+<strong>Lecture: </strong>Missing Data 
 <br><br>
 <strong>After Class: </strong>Lab 7, Milestone 2
    </td>
@@ -278,7 +278,7 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
    </td>
    <td><strong>Due Before Class: </strong>Lab 7
 <br><br>
-<strong>Lecture: </strong>Machine Learning Regression Models
+<strong>Lecture: </strong>Lab 6 Review, Machine Learning Regression Models
 <br><br>
 <strong>After Class: </strong>Lab 8, Milestone 2
    </td>

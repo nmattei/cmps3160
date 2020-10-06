@@ -45,7 +45,7 @@ This is an upper division computer science course, *it is hard*, there will be a
 | 3 | ~~9/15~~ 9/17 | [Visualizing Variables and Filtering Data](https://github.com/nmattei/cmps3160/tree/master/_labs) | 
 | 4 | 9/22 | [GroupBy and Pivot Tables](https://github.com/nmattei/cmps3160/tree/master/_labs) | 
 | 5 | 9/29 | [Merging and Joining](https://github.com/nmattei/cmps3160/tree/master/_labs) | 
-| 6 | 10/13 | [Transforming Data / Relationships](https://github.com/nmattei/cmps3160/tree/master/_labs) |
+| 6 | ~~10/13~~ 10/15 | [Transforming Data / Relationships](https://github.com/nmattei/cmps3160/tree/master/_labs) |
 | 7 | 10/20 | [Categorical Relationships / Distance Metrics](https://github.com/nmattei/cmps3160/tree/master/_labs) |
 | 8 | 10/27 | [Machine Learning Regression Models](https://github.com/nmattei/cmps3160/tree/master/_labs) |
 | 9 | 11/10 | [Model Error and Tuning](https://github.com/nmattei/cmps3160/tree/master/_labs) |
@@ -56,7 +56,7 @@ This is an upper division computer science course, *it is hard*, there will be a
 | Project | Due Date | Link | Notes |
 |:-------:|:--------:|----|-----|
 | 0 | 8/27 | [Computing Environment](https://github.com/nmattei/cmps3160/tree/master/_projects/project0) |
-| 1 | ~~10/6~~ 10/8 | [Fly Me To The Moon](/_projects/Project1.md) | 
+| 1 | ~~10/6~~ 10/13 | [Fly Me To The Moon](/_projects/Project1.md) | 
 | 2 | 11/15 | [MoneyBall!](/_projects/Project2.md) | 
 
 ## Final Tutorial
