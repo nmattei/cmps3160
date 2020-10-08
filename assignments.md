@@ -35,6 +35,7 @@ This is an upper division computer science course, *it is hard*, there will be a
 | Finding A Project Partner | 9/8 | [Canvas Discussion Board](https://tulane.instructure.com/courses/2220511/discussion_topics)
 | Extra Class Videos & Quiz | 9/17 | [Canvas Quiz](https://tulane.instructure.com/)
 | Partner and Data | 9/24 | [Canvas Discussion Board](https://tulane.instructure.com/courses/2220511/discussion_topics)
+| Hurricane Makeup: Data Ethics | 10/15 | [Canvas Discussion Board](https://tulane.instructure.com/courses/2220511/discussion_topics)
 
 ## Labs
 

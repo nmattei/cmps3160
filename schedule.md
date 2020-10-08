@@ -216,9 +216,7 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
 <br><br>
 <strong>After Class: </strong>Project 1
    </td>
-   <td><a href="https://nmattei.github.io/cmps3160/projects/FinalTutorial/">Milestone 2 Assignment</a>
-<br><br>
-<a href="https://tulane.instructure.com/">Midterm Cheat Sheet</a>
+   <td><a href="https://tulane.instructure.com/">Midterm Cheat Sheet</a>
    </td>
    <td><a href="https://www.sqltutorial.org/sql-cheat-sheet/">SQL Cheat Sheet</a>
    </td>
@@ -236,11 +234,13 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
    </td>
    <td><strong>Due Before Class: </strong>N/A
 <br><br>
-<strong>Lecture: </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Data Integration</a>, <a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Transforming Data and Relationships</a> 
+<strong>Lecture: </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Data Integration</a>
 <br><br>
 <strong>After Class: </strong>Project 1, Lab 6<strong>, </strong>Makeup Class - October 11th.
    </td>
-   <td><a href="https://nmattei.github.io/cmps3160/projects/Project2/">Project 2: Moneyball</a>
+   <td><a href="https://nmattei.github.io/cmps3160/projects/FinalTutorial/">Milestone 2 Assignment</a>
+<br><br>
+<a href="https://tulane.instructure.com/courses/2220511/discussion_topics">Discussion: Data Ethics / Hurricane Makeup</a>
 <br><br>
 <a href="https://github.com/nmattei/cmps3160/tree/master/_labs/">Lab 6: Transforming Data / Quantitative Relationships</a>
    </td>
@@ -254,17 +254,19 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
    </td>
    <td><strong>Due Before Class: </strong>Project 1
 <br><br>
-<strong>Lecture: </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Transforming Data and Relationships</a> , Causality and Hypothesis Testing 
+<strong>Lecture: </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Data Integration</a>, <a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Transforming Data and Relationships</a> 
 <br><br>
 <strong>After Class: </strong>Lab 7, Milestone 2
    </td>
    <td><strong>Due Before Class: </strong>Lab 6
 <br><br>
-<strong>Lecture: </strong>Missing Data 
+<strong>Lecture: </strong><a href="https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing">Transforming Data and Relationships</a>, Causality and Hypothesis Testing 
 <br><br>
 <strong>After Class: </strong>Lab 7, Milestone 2
    </td>
-   <td><a href="https://github.com/nmattei/cmps3160/tree/master/_labs/">Lab 7: Categorical Relationships / Distance Metrics</a>
+   <td><a href="https://nmattei.github.io/cmps3160/projects/Project2/">Project 2: Moneyball</a>
+<br><br>
+<a href="https://github.com/nmattei/cmps3160/tree/master/_labs/">Lab 7: Categorical Relationships / Distance Metrics</a>
    </td>
    <td><a href="http://users.umiacs.umd.edu/~getoor/Tutorials/ER_VLDB2012.pdf">Entity Resolution Tutorial </a>
 <br><br>
@@ -278,13 +280,13 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
    </td>
    <td><strong>Due Before Class: </strong>Lab 7
 <br><br>
-<strong>Lecture: </strong>Lab 6 Review, Machine Learning Regression Models
+<strong>Lecture: </strong>Lab 6 Review, Causality and Hypothesis Testing 
 <br><br>
 <strong>After Class: </strong>Lab 8, Milestone 2
    </td>
    <td><strong>Due Before Class: </strong>N/A
 <br><br>
-<strong>Lecture: </strong>Lab 7 Review,<strong> </strong>Machine Learning Classification Models
+<strong>Lecture: </strong>Lab 7 Review,<strong> </strong>Machine Learning Regression Models
 <br><br>
 <strong>After Class: </strong>Lab 8, Milestone 2, Project 2
    </td>
@@ -300,13 +302,13 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
    </td>
    <td><strong>Due Before Class: </strong>Lab 8 Due
 <br><br>
-<strong>Lecture: </strong>Model Evaluation and Error
+<strong>Lecture: </strong>Machine Learning Regression Models
 <br><br>
 <strong>After Class: </strong>Milestone 2, Project 2
    </td>
    <td><strong>Due Before Class: </strong>Milestone 2 Due
 <br><br>
-<strong>Lecture: </strong>Lab 8 Review, Machine Learning Unsupervised Learning
+<strong>Lecture: </strong>Lab 8 Review, Model Evaluation and Error
 <br><br>
 <strong>After Class: </strong>Project 2
    </td>
@@ -322,13 +324,13 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
    </td>
    <td><strong>Due Before Class: </strong>N/A
 <br><br>
-<strong>Lecture:</strong>
+<strong>Lecture: </strong>Model Evaluation and Error
 <br><br>
 <strong>After Class: </strong>Project 2
    </td>
    <td><strong>Due Before Class: </strong>Project<strong> </strong>2 Due
 <br><br>
-<strong>Lecture:</strong>
+<strong>Lecture: </strong>Machine Learning Classification Models
 <br><br>
 <strong>After Class: </strong>Lab 9, Final Tutorial and Presentations
    </td>
@@ -344,13 +346,13 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
    </td>
    <td><strong>Due Before Class: </strong>Lab 9 Due<strong> </strong>
 <br><br>
-<strong>Lecture:</strong>
+<strong>Lecture: </strong>Machine Learning Deep Dive: Decision Trees
 <br><br>
 <strong>After Class: </strong>Lab 10<strong>, </strong>Final Tutorial and Presentations
    </td>
    <td><strong>Due Before Class: </strong>N/A
 <br><br>
-<strong>Lecture: </strong>Lab 9 Review,
+<strong>Lecture: </strong>Lab 9 Review, Machine Learning Deep Dive: Decision Trees
 <br><br>
 <strong>After Class: </strong>Lab 10, Final Tutorial and Presentations
    </td>
@@ -366,7 +368,7 @@ All recordings of every lecture is available in [Canvas](https://tulane.instruct
    </td>
    <td><strong>Due Before Class: </strong>Lab 10 Due
 <br><br>
-<strong>Lecture: </strong>Lab 10 Review, 
+<strong>Lecture: </strong>Lab 10 Review, Machine Learning Unsupervised, LearningCourse Wrapup
 <br><br>
 <strong>After Class: </strong>Final Tutorial and Presentations
    </td>
