@@ -86,11 +86,13 @@ Include as a cell the SQL code you used to create this relation. As a markdown c
 
 **If you read the whole database into a file you will lose points, the SQL query you write should do all processing on the server side as discussed in class.**
 
-**You must display the head of the resulting data table in your notebook.  You should also display the results of one team over the time range to make sure your data is correct.**
+**You must display the head of the resulting data table / dataframe in your notebook.  You should also display the results of one team over the time range to make sure your data is correct.  Note that this data table is the data frame you will use for the rest of the project.**
 
 **Hint:** For SQL you have to be mindful of integer vs. float division.  See the above tutorial on how to deal with this.
 
 ## Part 2: Exploratory Data Analysis
+
+Using the dataframe you made in Part 1, work on Part 2 and Part 3.
 
 ### Payroll Distribution
 
@@ -202,7 +204,7 @@ Note that code that does not work will not be graded and you will receive a 0 fo
   * (10 Points) Problem 1: You used a single SQL query and display the correct dataset.
   * (5 Points) Discussion of how missing data is dealt with is present.
  * (35 Points) Part 2: *Exploratory Data Analysis* 
-   * (10 Points) Problem 2: You have produced the a plot to show the distribution of payrolls across time.
+   * (10 Points) Problem 2: You have produced the plot to show the distribution of payrolls across time.
    * (5 Points) Question 1: There is a markdown cell explaining the statements about this plot and the statements are reasonable.
    * (5 Points) Problem 3: A plot exists and is well labeled to support the statements.
    * (10 Points) Problem 4: Code is present to discretize the data into 5 time periods.  Plot is present of winning percentage as a function of mean payroll.
