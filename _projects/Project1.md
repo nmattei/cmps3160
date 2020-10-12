@@ -8,7 +8,6 @@ published: true
 # Project 1: Fly Me To The Moon
 
 **Posted:** September 9, 2020; <br>
-**Due:** October 6, 2020
 
 You've been hired by a new space weather startup looking to disrupt the space weather reporting business. Your first project is to provide better data about the top 50 solar flares recorded so far than that shown by your competitor [SpaceWeatherLive.com](https://www.spaceweatherlive.com/en/solar-activity/top-50-solar-flares). To do this, they've pointed you to [this messy HTML page](http://cdaw.gsfc.nasa.gov/CME_list/radio/waves_type2.html) from NASA ([available here also](http://www.hcbravo.org/IntroDataSci/misc/waves_type2.html)) where you can get the extra data your startup is going to post in your new spiffy site.
 
@@ -306,9 +305,9 @@ Submit the resulting .ipynb to [Canvas](https://tulane.instructure.com/)
   * Graphs are clean and well labeled.
   * Interpretation is reasonable and well written.
 
-| Full    |    80%  |    60%  |   40%   |   Poor   | No Marks |
+| Full    |    Good |  Okay |   Lacking   |   Poor  | No Marks |
 | : ---- :| : ---- :| : ---- :| : ---- :| : ---- :| : ---- : |
-|You completely and fully met the criteria mentioned in depth. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed major components of the required criteria or they are incorrect / inappropriate. | You have missed most components of the required criteria and/or may of them are incorrect. | Little to no evidence of work and major missing components. | Missing or completely inadequate. | 
+| You completely and fully met the criteria described. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed components of the required criteria and/or they are incorrect / inappropriate or lack depth. | You have missed major components of the required criteria and/or may of them are incorrect. | Little to no evidence of work and major missing components. | Missing or completely inadequate. | 
 
 ### Credits
 
