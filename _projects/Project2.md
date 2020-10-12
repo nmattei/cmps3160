@@ -5,7 +5,7 @@ subtitle: Moneyball!
 published: true
 ---
 
-# Project 2
+# Project 2: Moneyball!
 
 **Posted:** Oct 12, 2020; <br>
 

@@ -82,9 +82,9 @@ You should submit the notebook through [Canvas](https://tulane.instructure.com/)
 * (10 Points) *Project Plan*: Project plan is in place, relevant data is identified and links are provided, there are draft questions or hypothesis that the student is going to explore.  Plan clearly explains how the data could be used to answer the question and addresses whether or not other data is needed.
 * (20 Points) *Extraction, Transform, and Load (ETL)*: At least one data set(s) are loaded correctly using web scraping other techniques.  The data is discussed in terms of what it is and how it could be used to answer the question of study.  Where the data comes from and how it is collected is clearly documented with links and other relevant details.  The data is imported and tidy according to the principles discussed in class.  Dtypes are set properly and displayed within the notebook, NaN's and other techniques are used following best practices discussed in class.
 
-| Full    |    80%  |    60%  |   40%   |   20%   | No Marks |
+| Full    |    Good |  Okay |   Lacking   |   Poor  | No Marks |
 | : ---- :| : ---- :| : ---- :| : ---- :| : ---- :| : ---- : |
-|You completely and fully met the criteria mentioned in depth. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed major components of the required criteria or they are incorrect / inappropriate. | You have missed most components of the required criteria and/or may of them are incorrect. | Little to no evidence of work and major missing components. | Missing or completely inadequate. | 
+| You completely and fully met the criteria described. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed components of the required criteria and/or they are incorrect / inappropriate or lack depth. | You have missed major components of the required criteria and/or may of them are incorrect. | Little to no evidence of work and major missing components. | Missing or completely inadequate. | 
 
 ----
 
@@ -108,9 +108,9 @@ You should submit the notebook through [Canvas](https://tulane.instructure.com/)
 * (20 Points) *Extraction, Transform, and Load (ETL)*: At least one data set(s) are loaded correctly using web scraping other techniques.  The data is discussed in terms of what it is and how it could be used to answer the question of study.  Where the data comes from and how it is collected is clearly documented with links and other relevant details.  The data is imported and tidy according to the principles discussed in class.  Dtypes are set properly and displayed within the notebook, NaN's and other techniques are used following best practices discussed in class.
 * (20 Points) *Exploratory Data Analysis (EDA)*: At least 5 graphs and/or summary statistics/tables including cross-tabulations, groups, measures of central tendency, and/or any of the other EDA techniques discussed showing that you have started to investigate your data and have an understanding of what is in your dataset.  Each of these pieces of analysis should have a corresponding markdown cell that clearly explains what is being shown and why.
 
-| Full    |    80%  |    60%  |   40%   |   20%   | No Marks |
+| Full    |    Good |  Okay |   Lacking   |   Poor  | No Marks |
 | : ---- :| : ---- :| : ---- :| : ---- :| : ---- :| : ---- : |
-|You completely and fully met the criteria mentioned in depth. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed major components of the required criteria or they are incorrect / inappropriate. | You have missed most components of the required criteria and/or may of them are incorrect. | Little to no evidence of work and major missing components. | Missing or completely inadequate. | 
+| You completely and fully met the criteria described. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed components of the required criteria and/or they are incorrect / inappropriate or lack depth. | You have missed major components of the required criteria and/or may of them are incorrect. | Little to no evidence of work and major missing components. | Missing or completely inadequate. | 
 
 ---
 
@@ -130,16 +130,42 @@ Some resources for giving a good talk:
 * (10 Points) *Science*: Did you clearly explain why you performed the analyses you chose?  Did you adequately defend any assumptions you made?  Does your analysis support your conclusions?
 * (10 Points) *Peer Evaluation*: Were you present in class both days during presentations, did you provide feedback to the other students on their projects and ask questions.  Were you a good peer?
 
-| Full    |    80%  |    60%  |   40%   |   20%   | No Marks |
+| Full    |    Good |  Okay |   Lacking   |   Poor  | No Marks |
 | : ---- :| : ---- :| : ---- :| : ---- :| : ---- :| : ---- : |
-|You completely and fully met the criteria mentioned in depth. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed major components of the required criteria or they are incorrect / inappropriate. | You have missed most components of the required criteria and/or may of them are incorrect. | Little to no evidence of work and major missing components. | Missing or completely inadequate. | 
+| You completely and fully met the criteria described. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed components of the required criteria and/or they are incorrect / inappropriate or lack depth. | You have missed major components of the required criteria and/or may of them are incorrect. | Little to no evidence of work and major missing components. | Missing or completely inadequate. | 
 
 ### Schedule
 
 **Note:** You must upload your slides through [Canvas](https://tulane.instructure.com/) before 10am on the day of your presentation.  Failure to do this will result in a minimum of 10 points lost for *Professionalism*.  I will collate the slides on my laptop before class to make sure transitions go smoothly.
 
+**Schedule TBD, Full list of Teams and Links**
 
-**Schedule TBD**
+
+| Team                                      | Topic                | Link                                         
+| ----------------- | -------------------- | -------------------------------------------- |
+| Ballagh, Josh and Waller, Ellen          | Public Education and Policy in Louisiana     | [https://ballaghjoshua.github.io/](https://ballaghjoshua.github.io/) |
+| Bruchhaus, Sam                           | NFL Data                                     | [https://sbruchhaus.github.io/](https://sbruchhaus.github.io/) |
+| Caplin, Mason                            | Mortality Rates                              | [https://mcaplin98.github.io/](https://mcaplin98.github.io/) |
+| Casas, Isabella and Kellner, Josh        | Stop and Frisk                               | [https://icasas101.github.io/FinalDSTutorial/](https://icasas101.github.io/FinalDSTutorial/) |
+| Chiariello, Sarah                        | Cervical Cancer                              | [https://schiariello.github.io/](https://schiariello.github.io/) |
+| Childs, Sam and Rajasekaran, Vasanth     | Travel Ratings                               | [https://vasanth16.github.io/](https://vasanth16.github.io/) |
+| Davis, Madison and Sussman, Lauren       | World Happiness                              | [https://lsussman1.github.io/DataScienceTutorial/](https://lsussman1.github.io/DataScienceTutorial/) |
+| Donahue, Annie and Prinz, Shay           | 911 Call Data                                | [https://srprinz.github.io/CMPS3160\_Final/](https://srprinz.github.io/CMPS3160_Final/) |
+| Doochin, Rebekah and Ziman, David        | Housing                                      | [https://rdoochin.github.io/](https://rdoochin.github.io/) |
+| Ellsworth, Daniel and Pratt, Alden       | Sentiment Analysis on Twitter / Stock Prices | [https://danellsworth.github.io/](https://danellsworth.github.io/) |
+| Geisberg, Jacob and Harris, Gabe         | Fantasy Football Draft                       | [https://jberg1999.github.io/Fantasy/](https://jberg1999.github.io/Fantasy/) |
+| Hardy, Lindsay and O'Connell, Emily      | MOMA Dataset                                 | [https://lindsayhardy17.github.io/](https://lindsayhardy17.github.io/) |
+| Hecht, Dylan                             |                                              |  |
+| Jesusa, Sara                             | Song Popularity                              | [https://sjesusa1.github.io/](https://sjesusa1.github.io/) |
+| Kuperman, Leah and Simanonok, Leo        | Gentrification in NOLA                       | [https://leosimanonok.github.io/DataScienceFinalTutorial/](https://leosimanonok.github.io/DataScienceFinalTutorial/) |
+| Levyne, Aidan and Streit, Dave           | Music Popularity                             | [https://dwstreit.github.io/](https://dwstreit.github.io/) |
+| Lisi, Mark and Tutuncuoglu, Sarper       | NOLA Jobs                                    | [https://marklisi1.github.io/](https://marklisi1.github.io/) |
+| Lyons, Molly and Rinaldi, Phil           | Mouse Protein                                | [https://prinaldi3.github.io/](https://prinaldi3.github.io/) |
+| Margulies, Daniel and Pluscht, Paul      | NOLA Restaurants                             | [https://ppluscht.github.io/DSFinal/](https://ppluscht.github.io/DSFinal/) |
+| Ojalvo, Marc and Strougo, Kyle           | Income and Police Shootings                  | [https://mojalvo.github.io/](https://mojalvo.github.io/) |
+| Rau, Matthew                             | Coronavirus and Problems                     | [https://mrau1.github.io/](https://mrau1.github.io/) |
+| Shanley, Erin                            | Food Access                                  | [https://eshanley.github.io/](https://eshanley.github.io/) |
+
 
 ### Submission
 
@@ -164,9 +190,9 @@ links to any external information that might help the reader.
 * (5 Points) *Subjective Evaluation.* If somebody linked to this tutorial from Hacker News, Reddit, Towards Data Science, or some other general interest website, would people actually read the whole thing?
 * (5 Points) *Further Resources.* Does the tutorial “call out” to other resources that would help the reader understand basic concepts, deep dive, related work, etc?
 
-| Full    |    80%  |    60%  |   40%   |   20%   | No Marks |
+| Full    |    Good |  Okay |   Lacking   |   Poor  | No Marks |
 | : ---- :| : ---- :| : ---- :| : ---- :| : ---- :| : ---- : |
-|You completely and fully met the criteria mentioned in depth. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed major components of the required criteria or they are incorrect / inappropriate. | You have missed most components of the required criteria and/or may of them are incorrect. | Little to no evidence of work and major missing components. | Missing or completely inadequate. | 
+| You completely and fully met the criteria described. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed components of the required criteria and/or they are incorrect / inappropriate or lack depth. | You have missed major components of the required criteria and/or may of them are incorrect. | Little to no evidence of work and major missing components. | Missing or completely inadequate. | 
 
 ### Submission
 
