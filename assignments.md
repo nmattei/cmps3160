@@ -58,7 +58,7 @@ This is an upper division computer science course, *it is hard*, there will be a
 |:-------:|:--------:|----|-----|
 | 0 | 8/27 | [Computing Environment](https://github.com/nmattei/cmps3160/tree/master/_projects/project0) |
 | 1 | ~~10/6~~ 10/13 | [Fly Me To The Moon](/_projects/Project1.md) | 
-| 2 | 11/15 | [MoneyBall!](/_projects/Project2.md) | 
+| 2 | 11/5 | [MoneyBall!](/_projects/Project2.md) | 
 
 ## Final Tutorial
 
