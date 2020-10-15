@@ -40,6 +40,13 @@ A large debt for this course is owed to John P. Dickerson at UMD and his course 
   * [GitHub Repo](https://github.com/dlsun/Data301Winter2019)
   * [Dennis PODS Book](https://github.com/dlsun/pods)
 
+* DSC80 and DSC10 at UCSD:
+  * [Aaron Fraenkel's Webpage](https://afraenkel.github.io/)
+  * [Online Book](https://afraenkel.github.io/practical-data-science/)
+  * [DSC Githubs](https://github.com/ucsd-ets)
+  * [DSC Summer 2020](https://github.com/ucsd-ets/dsc10-su20-public)
+
+
 * Data8 Resources (Berkeley Data Science Course)
   * [Data8](http://data8.org/) 
   * [Data8 Spring 2019 Github repo (has notebooks)](https://github.com/data-8/materials-sp19)
