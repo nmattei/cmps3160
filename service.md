@@ -96,8 +96,19 @@ Reflections will be equally spaced throughout the semester including after the f
   * What topic(s) mentioned interest you?  Which one(s) do you think you can provide help with over the semester?
   * Any other thoughts about the topics discussed at the kickoff meeting.
 
+*Prompt 2*: For our Second Reflection we will think about both our meeting with our partners, our entering communities training, and the Data Ethics discussions that have happened in class.  Please make sure to read the following articles:
 
-*Prompt 2*: Respond to the readings from Cathy O'Neil's Weapons of Math Destruction.  Specifically, think about some of the ways data science can have unintended consequences.  Is there anything you might reveal in the course of your project that you are concerned about? 
+* Opengovdata.io: Civic Hacking. https://opengovdata.io/2014/civic-hacking/
+* White Privilege: Unpacking the Invisible Knapsack: https://www.racialequitytools.org/resourcefiles/mcintosh.pdf
+
+For this reflection think about some of the following issues given your readings and the meetings with our partners.  Feel free to address other issues as well, I encourage you to bring outside thoughts and information to the reflections as well.
+
+* Thinking about the start of the project to now, can you identify any assumptions you made / thought / felt that have changed regarding the use of data in our communities?  If what, explain and why.
+* Think about who could be impacted by your analysis, either positively or negatively, list out these stakeholders and identify some risks and rewards for each.
+* Did the partners raise any questions that you hadn't thought of before?
+* Have any of the readings brought specific assumptions or aspects of your tutorial into focus in a different light?
+* What changes could you / are you planning for your project in light of this?
+
 
 *Prompt 3*: Read S. Barocas and d. boyd (2017) "Engaging the Ethics of Data Science in Practice," Communications of the ACM, Vol. 60 No. 11, Pages 23-25.  This paper deals directly with ethics and community impact in the area of data science.  Think about your project, where the data comes from, who it impacts, and what you hope to achieve.  Discuss the ethical implications of your work in this context.
 
@@ -112,6 +123,26 @@ Reflections will be equally spaced throughout the semester including after the f
 | Full    |    80%  |    60%  |   30%   |   0%    |
 | : ---- :| : ---- :| : ---- :| : ---- :| : ---- :|
 |You completely and fully met the criteria mentioned in depth. | You have met most of the criteria but missed a key issue. | You have missed major components of the required criteria or they are incorrect / inappropriate. | You have missed most components of the required criteria and/or may of them are incorrect. | You have failed to answer or provided little to no evidence of work.|
+
+## Other Reading Assignments.
+
+All,
+
+One of the aspects of class that we've had to skip out on a bit is ideas around data privacy and the societal implications there of.  So, to remedy that please read the following four articles for your hurricane makeup.
+
+* Engaging the Ethics of Data Science In Practice, Communications of the ACM, 2017. https://cacm.acm.org/magazines/2017/11/222176-engaging-the-ethics-of-data-science-in-practice/ 
+* Palantir Has Secretly Been Using New Orleans to Test It's Predictive Policing Technology, The Verge, 2018. https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd 
+* Welcome to the Age of Privacy Nihilism, The Atlantic, 2018. https://www.theatlantic.com/technology/archive/2018/08/the-age-of-privacy-nihilism-is-here/568198/ 
+* What Does GDPR Mean for Me? An Explainer. The Conversation, 2018. https://theconversation.com/what-does-gdpr-mean-for-me-an-explainer-96630 
+
+These are four somewhat different articles.  The first deals with some issues in DS education and things to think about as you go forth and work with data.  The second is an example (and a local one) of some of the unchecked issues surrounding data.  The last two deal with privacy in the modern age, the implications of joining data together (what we just learned to do!) and some new regulations in the EU about data privacy.
+
+We'll try to take some time in class next week to discuss these but after you have read the articles you should do the following to get the conversation going here.
+
+1. For ONE of the articles, write a post about what you felt was the main take away, and how it relates to an issue in your planned professional life or even your personal/student life now.  What are the data or ethical issues at play?  Is there anything that you can identify to change?
+2. Followup with TWO other people's posts -- is there something that was overlooked from the articles, is there another resource or perspective to their post you can bring?  You should try to comment on someone writing about an article other than the one you did.
+
+Complete all of these tasks by class time on Thursday October 15th!
 
 
 

@@ -46,7 +46,7 @@ This list is just to give you some ideas.  Please feel free to scrape websites (
 * [Data.Nola.Gov](https://data.nola.gov/browse) list of open datasets from NOLA including lots of financial, voting, etc.
 * [IPUMS](https://ipums.org/) provides census and survey data from around the world integrated across time and space. IPUMS integration and documentation makes it easy to study change, conduct comparative research, merge information across data types, and analyze individuals within family and community contexts. 
 * [Pew Research Center Data](https://www.pewresearch.org/download-datasets/) Data from the Pew Research Center, mostly public opinion polls of thousands of different things!
-* [US Census](https://data.census.gov/cedsci/) Easy to use data from all the Censuses including many things like names, income, and more!
+* [US Census](https://data.census.gov/cedsci/) Easy to use data from all the Censuses including many things like names, income, and more! -- More specifically https://www.census.gov/programs-surveys/acs
 * [IRS](https://www.irs.gov/statistics) The IRS publishes all kinds of data including incomes and historical time series.
 * [The Data Center New Orleans](https://www.datacenterresearch.org/data-resources/) New Orleans specific data of all kinds!
 * [Five Thirty Eight Data](https://github.com/fivethirtyeight/data) Data from the website FiveThirtyEight -- much of this is cleaned and used for their reporting.  If you use one of these datasets I expect you to link to an article of theirs using it!
@@ -57,6 +57,9 @@ This list is just to give you some ideas.  Please feel free to scrape websites (
 * [US Federal Reserve, FRED](https://fred.stlouisfed.org/) Data on everything about the economy that the US Federal Reserve keeps track of.
 * [US Department of Ag](https://quickstats.nass.usda.gov/) Get data on crop yields, school lunch programs, and many other things from the US department of agriculture.
 * [Reddit Datasets](https://www.reddit.com/r/datasets/) A subreddit that points to other datasets that may be interesting.
+* https://www.policedatainitiative.org/datasets/
+* https://github.com/CSSEGISandData/COVID-19
+* http://us-cities.survey.okfn.org/ 
 
 
 ### Github Pages
