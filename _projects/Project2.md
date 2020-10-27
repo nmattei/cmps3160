@@ -136,12 +136,12 @@ It looks like comparing payrolls across years is problematic so let's do a trans
 
 Create a new variable in your dataset that standardizes payroll conditioned on year.  For this we will compute the [Z-score of the variables](https://en.wikipedia.org/wiki/Standard_score). So, this column for team `i` in year `j` should equal:
 
-$$ standardized\_payroll_{ij} = \frac{payroll_{ij} - avg\_payroll_{ij}}{s_j} $$
+$$ standardized\_payroll_{ij} = \frac{payroll_{ij} - avg\_payroll_{j}}{s_j} $$
 
 
 for team `i` in year `j`.
 
-where <em>avg\_payroll<sub>j</sub></em> is the average payroll for year `j`, and <em>s<sub>j</sub></em> is the standard deviation of payroll for year `j`.
+where <em>avg\_payroll<sub>j</sub></em> is the average payroll, over all teams, for year `j`, and <em>s<sub>j</sub></em> is the standard deviation of payroll for year `j`.
 
 You must display the head of this DataFrame in your notebook to receive credit.
 
