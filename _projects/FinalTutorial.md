@@ -139,35 +139,38 @@ Some resources for giving a good talk:
 
 ### Schedule
 
-**Note:** You must upload your slides through [Canvas](https://tulane.instructure.com/) before 10am on the day of your presentation.  Failure to do this will result in a minimum of 10 points lost for *Professionalism*.  I will collate the slides on my laptop before class to make sure transitions go smoothly.
+**Note:** You must upload your slides through [Canvas](https://tulane.instructure.com/) before 10am on the day of your presentation.  Failure to do this will result in a minimum of 10 points lost for *Professionalism*.  As we will all be on Zoom you are responsible for being ready to share your screen and talk through your slides for 6 mins.
 
-**Schedule TBD, Full list of Teams and Links**
+#### Presentations on 11/19
 
+| Team Member 1     | Team Member 2       | Topic                                    | Link                                                     |
+|-------------------|---------------------|------------------------------------------|----------------------------------------------------------|
+| Casas, Isabella   | Kellner, Josh       | Stop and Frisk                           | https://icasas101.github.io/FinalDSTutorial/             |
+| Donahue, Annie    | Prinz, Shay         | 911 Call Data                            | https://srprinz.github.io/CMPS3160_Final/                |
+| Kuperman, Leah    | Simanonok, Leo      | Gentrification in NOLA                   | https://leosimanonok.github.io/DataScienceFinalTutorial/ |
+| Lisi, Mark        | Tutuncuoglu, Sarper | NOLA Jobs                                | https://marklisi1.github.io/                             |
+| Margulies, Daniel | Pluscht, Paul       | NOLA Restaurants                         | https://ppluscht.github.io/DSFinal/                      |
+| Shanley, Erin     |                     | Food Access                              | https://eshanley.github.io/                              |
+| Ojalvo, Marc      | Strougo, Kyle       | Income and Police Shootings              | https://mojalvo.github.io/                               |
+| Rau, Matthew      |                     | Coronavirus and Problems                 | https://mrau1.github.io/                                 |
+| Ballagh, Josh     | Waller, Ellen       | Public Education and Policy in Louisiana | https://ballaghjoshua.github.io/                         |
+| Caplin, Mason     |                     | Mortality Rates                          | https://mcaplin98.github.io/                             |
 
-| Team                                      | Topic                | Link                                         
-| ----------------- | -------------------- | -------------------------------------------- |
-| Ballagh, Josh and Waller, Ellen          | Public Education and Policy in Louisiana     | [https://ballaghjoshua.github.io/](https://ballaghjoshua.github.io/) |
-| Bruchhaus, Sam                           | NFL Data                                     | [https://sbruchhaus.github.io/](https://sbruchhaus.github.io/) |
-| Caplin, Mason                            | Mortality Rates                              | [https://mcaplin98.github.io/](https://mcaplin98.github.io/) |
-| Casas, Isabella and Kellner, Josh        | Stop and Frisk                               | [https://icasas101.github.io/FinalDSTutorial/](https://icasas101.github.io/FinalDSTutorial/) |
-| Chiariello, Sarah                        | Cervical Cancer                              | [https://schiariello.github.io/](https://schiariello.github.io/) |
-| Childs, Sam and Rajasekaran, Vasanth     | Travel Ratings                               | [https://vasanth16.github.io/](https://vasanth16.github.io/) |
-| Davis, Madison and Sussman, Lauren       | World Happiness                              | [https://lsussman1.github.io/DataScienceTutorial/](https://lsussman1.github.io/DataScienceTutorial/) |
-| Donahue, Annie and Prinz, Shay           | 911 Call Data                                | [https://srprinz.github.io/CMPS3160\_Final/](https://srprinz.github.io/CMPS3160_Final/) |
-| Doochin, Rebekah and Ziman, David        | Housing                                      | [https://rdoochin.github.io/](https://rdoochin.github.io/) |
-| Ellsworth, Daniel and Pratt, Alden       | Sentiment Analysis on Twitter / Stock Prices | [https://danellsworth.github.io/](https://danellsworth.github.io/) |
-| Geisberg, Jacob and Harris, Gabe         | Fantasy Football Draft                       | [https://jberg1999.github.io/Fantasy/](https://jberg1999.github.io/Fantasy/) |
-| Hardy, Lindsay and O'Connell, Emily      | MOMA Dataset                                 | [https://lindsayhardy17.github.io/](https://lindsayhardy17.github.io/) |
-| Hecht, Dylan                             |                                              |  |
-| Jesusa, Sara                             | Song Popularity                              | [https://sjesusa1.github.io/](https://sjesusa1.github.io/) |
-| Kuperman, Leah and Simanonok, Leo        | Gentrification in NOLA                       | [https://leosimanonok.github.io/DataScienceFinalTutorial/](https://leosimanonok.github.io/DataScienceFinalTutorial/) |
-| Levyne, Aidan and Streit, Dave           | Music Popularity                             | [https://dwstreit.github.io/](https://dwstreit.github.io/) |
-| Lisi, Mark and Tutuncuoglu, Sarper       | NOLA Jobs                                    | [https://marklisi1.github.io/](https://marklisi1.github.io/) |
-| Lyons, Molly and Rinaldi, Phil           | Mouse Protein                                | [https://prinaldi3.github.io/](https://prinaldi3.github.io/) |
-| Margulies, Daniel and Pluscht, Paul      | NOLA Restaurants                             | [https://ppluscht.github.io/DSFinal/](https://ppluscht.github.io/DSFinal/) |
-| Ojalvo, Marc and Strougo, Kyle           | Income and Police Shootings                  | [https://mojalvo.github.io/](https://mojalvo.github.io/) |
-| Rau, Matthew                             | Coronavirus and Problems                     | [https://mrau1.github.io/](https://mrau1.github.io/) |
-| Shanley, Erin                            | Food Access                                  | [https://eshanley.github.io/](https://eshanley.github.io/) |
+#### Presentations on 11/24
+
+| Team Member 1     | Team Member 2        | Topic                                        | Link                                             |
+|-------------------|----------------------|----------------------------------------------|--------------------------------------------------|
+| Bruchhaus, Sam    |                      | NFL Data                                     | https://sbruchhaus.github.io/                    |
+| Geisberg, Jacob   | Harris, Gabe         | Fantasy Football Draft                       | https://jberg1999.github.io/Fantasy/             |
+| Lyons, Molly      | Rinaldi, Phil        | Mouse Protein                                | https://prinaldi3.github.io/                     |
+| Childs, Sam       | Rajasekaran, Vasanth | Travel Ratings                               | https://vasanth16.github.io/                     |
+| Davis, Madison    | Sussman, Lauren      | World Happiness                              | https://lsussman1.github.io/DataScienceTutorial/ |
+| Doochin, Rebekah  | Ziman, David         | Housing                                      | https://rdoochin.github.io/                      |
+| Ellsworth, Daniel | Pratt, Alden         | Sentiment Analysis on Twitter / Stock Prices | https://danellsworth.github.io/                  |
+| Hardy, Lindsay    | O'Connell, Emily     | MOMA Dataset                                 | https://lindsayhardy17.github.io/                |
+| Jesusa, Sara      |                      | Song Popularity                              | https://sjesusa1.github.io/                      |
+| Levyne, Aidan     | Streit, Dave         | Music Popularity                             | https://dwstreit.github.io/                      |
+| Chiariello, Sarah |                      | Cervical Cancer                              | https://schiariello.github.io/                   |
 
 
 ### Submission
