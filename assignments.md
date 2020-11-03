@@ -36,6 +36,7 @@ This is an upper division computer science course, *it is hard*, there will be a
 | Extra Class Videos & Quiz | 9/17 | [Canvas Quiz](https://tulane.instructure.com/)
 | Partner and Data | 9/24 | [Canvas Discussion Board](https://tulane.instructure.com/courses/2220511/discussion_topics)
 | Hurricane Makeup: Data Ethics | 10/20 | [Canvas Discussion Board](https://tulane.instructure.com/courses/2220511/discussion_topics)
+| 2/3 Semester Bonus | 10/27 | [Canvas Quiz](https://tulane.instructure.com/)
 
 ## Labs
 
@@ -49,8 +50,8 @@ This is an upper division computer science course, *it is hard*, there will be a
 | 6 | ~~10/13~~ 10/15 | [Transforming Data / Relationships](https://github.com/nmattei/cmps3160/tree/master/_labs) |
 | 7 | 10/20 | [Categorical Relationships / Distance Metrics](https://github.com/nmattei/cmps3160/tree/master/_labs) |
 | 8 | 10/27 | [Machine Learning Regression Models](https://github.com/nmattei/cmps3160/tree/master/_labs) |
-| 9 | 11/10 | [Model Error and Tuning](https://github.com/nmattei/cmps3160/tree/master/_labs) |
-| 10 | 11/17 | [Machine Learning Classification Models](https://github.com/nmattei/cmps3160/tree/master/_labs) |
+| 9 | ~~11/10~~ 11/12 | [Model Error and Tuning](https://github.com/nmattei/cmps3160/tree/master/_labs) |
+| 10 | 11/24 | [BONUS: Machine Learning Classification Models](https://github.com/nmattei/cmps3160/tree/master/_labs) |
 
 ## Mini-Projects
 
@@ -58,7 +59,7 @@ This is an upper division computer science course, *it is hard*, there will be a
 |:-------:|:--------:|----|-----|
 | 0 | 8/27 | [Computing Environment](https://github.com/nmattei/cmps3160/tree/master/_projects/project0) |
 | 1 | ~~10/6~~ 10/13 | [Fly Me To The Moon](/_projects/Project1.md) | 
-| 2 | 11/5 | [MoneyBall!](/_projects/Project2.md) | 
+| 2 | ~~11/5~~ 11/10 | [MoneyBall!](/_projects/Project2.md) | 
 
 ## Final Tutorial
 
