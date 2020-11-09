@@ -11,6 +11,14 @@ published: true
 
 In this project you will apply your data wrangling and exploratory data analysis skills to baseball data. In particular, we want to know how well did Moneyball work for the Oakland A's. Was it worthy of a movie?
 
+### Groups and Collaboration Plan
+
+You are allowed to complete this project in a group of exactly size 2, no exceptions.  If you choose to complete this project as a group you must:
+ 1. Both members of the group must **turn in exaclty the same notebook on Canvas**.
+ 2. As the top cell in your notebook, you must also include a short *collaboration plan* describing how you are working together, what technologies you are using, and when / how often you are meeting to work on this project.  Examples include: we setup a private Github repo to coordinate code and we met on Zoom X times…. or even we used [Teletype for Atom](https://teletype.atom.io/) or [RemoteCollab for Sublime](https://packagecontrol.io/packages/RemoteCollab). Failure to turn in a collaboration plan that shows you coordinated will be a loss of professionalism points. The turned in result will need to reflect the understanding of both students
+
+----
+
 ## A Bit of Background
 
 We'll be looking at data about teams in Major League Baseball. A couple of important points:
