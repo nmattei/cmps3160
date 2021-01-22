@@ -22,6 +22,8 @@ These books come from a more statistical background and are mainly taught in R, 
 
 * A good Book on [Data Mining in Java](https://www.cs.waikato.ac.nz/ml/weka/book.html)!
 
+* Another good book on [probability for Data Science](http://theanalysisofdata.com/).
+
 Some Fun readings about Data Science and some key figures.
 * [John W. Tukey: His Life and Professional Contributions](https://cmsc320.github.io/files/tukey.pdf).  David R. Brillinger.  The Annals of Statistics Vol 30, No. 6, 2002.
 * [50 Years of Data Science](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf). David Donoho.  Manuscript Based on Invited Talk, Princeton 2015.

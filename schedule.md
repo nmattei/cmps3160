@@ -19,5 +19,5 @@ All Slides can be found [(Powerpoint and PDF) here on Google Drive!](https://dri
 All recordings of every lecture is available in [Canvas](https://tulane.instructure.com/)
 
 
-<iframe style="width: 100%; height: 3500px; border: none" src="https://docs.google.com/document/d/e/2PACX-1vR0PW7ETZNpoLlYvaIBGhWtsu7CUlRP0eVum8Ns_9uIt28zsEfC-E_KrRvk0wYVkPaBD0323qqXQYY-/pub?embedded=true"></iframe>
+<iframe style="width: 100%; height: 3500px; border: none" src="https://docs.google.com/document/d/e/2PACX-1vSojQ-r1294TcMLBLoSamfRoOf_Cr5e5h7X0nT6zF22UFkDqlQGlb2khK_X8AemGoycMjrhz1Xghym_/pub?embedded=true"></iframe>
 

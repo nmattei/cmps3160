@@ -51,7 +51,7 @@ Thus through service learning and civic engagement students will be able to *app
 | 8 | 10/8 | No Class |  |
 | 9 | 10/15 | Milestone 1 Review with Ryan and Lamar  |  |
 | 10 | 10/22 |  |  |
-| 11 | 10/29 |  |  |
+| 11 | 10/29 |Checkin Updates!  |  |
 | 12 | 11/5 |  |  |
 | 13 | 11/12 |  |  |
 | 14 | 11/19 | Final Presentations |  |
@@ -95,6 +95,7 @@ Reflections will be equally spaced throughout the semester including after the f
   * What does this say about our community and the city?
   * What topic(s) mentioned interest you?  Which one(s) do you think you can provide help with over the semester?
   * Any other thoughts about the topics discussed at the kickoff meeting.
+  * Read Ethics of Big Data Research. https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399
 
 *Prompt 2*: For our Second Reflection we will think about both our meeting with our partners, our entering communities training, and the Data Ethics discussions that have happened in class.  Please make sure to read the following articles:
 

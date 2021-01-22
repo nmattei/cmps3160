@@ -8,7 +8,7 @@ published: true
 * CMPS-3160/3660: Introduction to Data Science
 * Tulane University
 * 3 Credit Hours
-* Prerequisite Courses: CMPS 1600 Intro to Computer Science II and CMPS/MATH 2170 Discrete Mathematics.
+* Prerequisite Courses: CMPS 1600 Intro to Computer Science II and CMPS/MATH 2170 Discrete Mathematics, or consent of instructor.
 
 ## Time and Location
 * **Lectures:** Tuesdays and Thursdays 
@@ -120,7 +120,7 @@ There is no required textbook for this course, however there are two texts that 
 ---
 
 # Evaluation Procedures and Grading Criteria
-This course will consist of four distinct grading areas.  Note that all point values described below for individual assignments are subject to change, the area percentages will remain the same.
+This course will consist of seven distinct grading areas.  Note that all point values described below for individual assignments are subject to change, the area percentages will remain the same.
 *	  5% - In Class Activities, Participation, Online Questions.
 *   5% - Attendance
 *   25% - Mini-Projects
@@ -226,7 +226,7 @@ Please come talk to us if you feel you are behind or overwhelmed in this class. 
 Tulane University strives to make all learning experiences as accessible as possible. If you anticipate or experience academic barriers based on your disability, please let me know immediately so that we can privately discuss options. I will never ask for medical documentation from you to support potential accommodation needs. Instead, to establish reasonable accommodations, I may request that you register with the Goldman Center for Student Accessibility.  After registration, make arrangements with me as soon as possible to discuss your accommodations so that they may be implemented in a timely fashion. Goldman Center contact information: goldman@tulane.edu; (504) 862-8433; [http://accessibility.tulane.edu](http://accessibility.tulane.edu).
 
 ## Recording of Class Sessions
-Recording class sessions: Classes will be recorded and the recordings will be posted to Canvas. Students may not post a class recording elsewhere, either wholly or in part. Instructors may not use a class recording in another course or in a subsequent semester. 
+Recording class sessions: Classes will be recorded and the recordings will be posted to Canvas. Students may not post a class recording elsewhere, either wholly or in part. Instructors may use a class recording in another course or in a subsequent semester. 
 
 ## Code of Academic Conduct and Academic Integrity
 This course will follow Tulane's Code of Academic Conduct. Cheating will be reported to the Associate Dean of Newcomb-Tulane College. Discussion is encouraged. However, what you turn in must be your own. You may not read another classmate’s solutions or copy a solution from the web.  **I will be running checks on the code turned in for plagiarism.  If plagiarism is detected the minimum penalty is a 0 on the assignment and being reported, however, you may automatically fail this course at my discretion.**
