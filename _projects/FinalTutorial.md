@@ -21,6 +21,8 @@ Examples of high quality notebooks from past Data Science classes:
 * Addie, [Deaths in Louisiana: An Analysis of Available Data](https://ajasica.github.io/)
 * John (Dung), [Airbnb in New York City](https://dungngotan99.github.io/)
 
+**All final tutorials from past years can be found on the [Past Final Tutorials Page](./PastFinal.md)**
+
 ----
 
 ## Milestone 1: Groups, Data, Website, and Extraction, Transform, and Load (ETL) - 9/24/2020.

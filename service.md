@@ -50,10 +50,10 @@ Thus through service learning and civic engagement students will be able to *app
 | 7 | 10/1 | No Class  |  |
 | 8 | 10/8 | No Class |  |
 | 9 | 10/15 | Milestone 1 Review with Ryan and Lamar  |  |
-| 10 | 10/22 |  |  |
+| 10 | 10/22 | No Class |  |
 | 11 | 10/29 |Checkin Updates!  |  |
-| 12 | 11/5 |  |  |
-| 13 | 11/12 |  |  |
+| 12 | 11/5 | No Class |  |
+| 13 | 11/12 | No Class |  |
 | 14 | 11/19 | Final Presentations |  |
 
 ## Expectations and Grading

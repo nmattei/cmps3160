@@ -23,6 +23,7 @@ navbar-links:
   Syllabus: "syllabus"
   Schedule: "schedule"
   Assignments: "assignments"
+  Final Tutorial: "./projects/FinalTutorial"
   Service Learning: "service"
   Links & Resources: "resources"
 
