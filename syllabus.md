@@ -1,31 +1,33 @@
 ---
 layout: page
-title: Fall 2020 Syllabus
+title: Fall 2021 Syllabus
 subtitle:
 published: true
 ---
-# Introduction to Data Science Fall 
-* CMPS-3160/3660: Introduction to Data Science
+# Introduction to Data Science
+* CMPS-3160/3160: Introduction to Data Science
 * Tulane University
 * 3 Credit Hours
 * Prerequisite Courses: CMPS 1600 Intro to Computer Science II and CMPS/MATH 2170 Discrete Mathematics, or consent of instructor.
 
 ## Time and Location
 * **Lectures:** Tuesdays and Thursdays 
-* **Room:** Dinwiddie Hall ([Building 3](https://tulane.edu/maps-directions))
-* **Online:** All Lectures will be on Zoom, see [Tulane Canvas](https://tulane.instructure.com/) for details.
-* **Time:** 14:00 - 15:10
+* **Room:** Gibson Hall ([Building 1](https://tulane.edu/maps-directions))
+* **Online:** All lectures will be available and recorded on Zoom, see [Tulane Canvas](https://tulane.instructure.com/) for details.
+* **Time:** 15:30 -- 16:45
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
+* **GitHub:** [https://github.com/nmattei/cmps3160](https://github.com/nmattei/cmps3160)
 * **Canvas Page:** [Tulane Canvas](https://tulane.instructure.com/)
 
-## Instructor and TA Information
+### Instructor and TA Information
 **Instructor:** Dr. Nicholas Mattei, <nsmattei@tulane.edu>
 * **Office:** Stanley Thomas 402B
-* **Office Hours:** **M 11:00 - 12:30** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+* **Office Hours:** **TBD** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 
-**Teaching Assistants:** Sri Korrapati <skorrapati@tulane.edu> and Eli Mendels <emendels1@tulane.edu>
-*  Sri's Office Hours: **TR 11:00 - 12:15** and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
-* Eli's Office Hours: **MW 14:00 - 16:00** and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+**Teaching Assistants:** Leon Li <lli23@tulane.edu>, Eli Mendels <emendels1@tulane.edu>, and Philip Rinaldi <prinaldi1@tulane.edu>
+* Leon's Office Hours: **TBD**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+* Eli's Office Hours: **TBD**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+* Phil's Office Hours: **TBD**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 
 ## Course Communication Policy
 There are a variety of methods you can use to get in touch with us, and we expect to be able to get in touch with you.  A few general policies.
@@ -138,14 +140,15 @@ Throughout the semester we will regularly complete short in class exercises such
 ### Mini-Projects (15 hours each) 
 There will be between 2-3 "mini-projects" assigned over the course of the semester (plus one simple setup assignment that will walk you through using git, Docker, and Jupyter).  The projects will be posted on the [Assignments Page](./assignments.md) and will be assigned in [Tulane Canvas](https://tulane.instructure.com/). The best way to learn is by doing, so these will largely be applied assignments that provide hands-on experience with the basic skills a data scientist needs in industry. **Posting solutions publicly online without the staff's express consent is a direct violation of our academic integrity policy. Late assignments will not be accepted.** \~50 points for the first project, \~100 for all others).
 
-**Note:** For the Fall 2020 semester Project 1 and 2 may be completed as a group.  We will post more details when they are assigned.  Collaboration plans will be required.
+**Note:** Project 1 and 2 may be completed as a group.  We will post more details when they are assigned.  Collaboration plans will be required.
 
 ### Labs (2 hours each)
-We will run Labs in class a couple of times throughout the semester and give you an opportunity to work through problems hands on with me and the TAs.  On these days it will be important to bring a laptop to class to participate in the work.  Labs will be worth \~15 points each and graded based on completion / effort.
+We will run Labs in class a couple of times throughout the semester and give you an opportunity to work through problems hands on with the professor and the TAs.  On these days it will be important to bring a laptop to class to participate in the work.  Labs will be worth \~15 points each and graded based on completion / effort.
 
 ### Midterm and Final Exam 
 This will be a written, close book, in class (online) exam.  You are allowed one **hand-written** cheat sheet, front and back, 8.5x11 inch paper.  You will be required to turn in this cheat sheet **before** the actual exam and it will be graded for completeness. The final is cumulative.  This semester both exams will take place online, however you must be in the Zoom call to turn in and receive credit for taking the exam unless prior arrangements have been made. **You must earn at least a 60% average between the two exams to pass the course.**
 
+**TBD on this part -- if we are in person then the tests will be in person**
 To take the tests you need to get ready and get a Scan to PDF app ([see useful links here](https://fossbytes.com/best-android-scanner-apps/)).  Scanning is built into many phones now so please get ready, we will have a participation assignment that has you do this before the tests.  **We will not accept pictures, you must upload PDFs to Canvas.  It is also your responsibility to check your PDFs when they are submitted -- if we can't read them we can't grade them.  If you cannot do this please contact me ASAP.**
 
 ### Final Project 
@@ -153,7 +156,7 @@ In the interest of building students' public portfolios, and in the spirit of "l
 1. Identifying a dataset and establishing a GitHub.io Site, Extraction, Transform, and Load (ETL). (50 points).
 2. Exploratory Data Analysis (EDA) Your notebook from Part 1 but expanded to include graphs, visualizations, and stats that show you can manipulate your data and understand the dataset you are working with. (50 points).
 3. A final, in class presentation. (50 points).
-4. A final tutorial and website. (100 points).
+4. A final tutorial and website which must include in addition to ETL and EDA a statistical or predictive model and testing. (100 points).
 
 **A complete version of the assignment can be found at the [Final Tutorial Page](/_projects/FinalTutorial.md).**
 
@@ -172,7 +175,7 @@ Graduate students who enroll in this course will be required to complete their f
 All work must be turned in on time unless explicit consent for outstanding circumstances is given beforehand (or in the case of illness, with a documented absence after).  Any late work will be penalized at **10% of the total assignment value per day up to 5 days late, after which it will not be accepted**.  The exception to this rule is if work solutions are presented in class (as is the case with labs and quizzes).  **After the work is presented in class, no late work will be accepted.**
 
 ### Late Tokens
-At the start of this semester you each are holding **3 late tokens** which can be redeemed at any time for **mini-projects, labs, Milestone 1, and Milestone 2 only** .  Each token is worth one additional day, to use at your discretion.  These tokens have no cash value but are worth 1% to your mini-project grade at the end of the semester.  Note that you cannot use a late token if lab solutions have already been presented in class.
+At the start of this semester you each are holding **3 late tokens** which can be redeemed at any time for **mini-projects, labs, Milestone 1, and Milestone 2 only -- Late tokens may not be applied to the final projects**.  Each token is worth one additional day, to use at your discretion.  These tokens have no cash value but are worth 1% to your mini-project grade at the end of the semester.  Note that you cannot use a late token if lab solutions have already been presented in class.
 
 ## Final Grade Policy 
 The weighted average will determine your letter grade roughly as follows, +/- grades will be given for borderline cases.

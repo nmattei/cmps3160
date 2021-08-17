@@ -7,10 +7,10 @@ published: true
 
 ## Optional Service Learning Component
 
-* **Lectures:** Thursdays, August 20 - November 24th, 2020.
+* **Lectures:** Thursdays, August 26 - December 9th, 2020.
 * **Room:** Stanley Thomas Hall ([Building 10](https://tulane.edu/maps-directions)) 
-* **Online:** All Lectures will be on Zoom, see [Tulane Canvas](https://tulane.instructure.com/) for details.
-* **Time:** 18:25 - 19:20
+* **Online:** TBD -- some lectures will be on Zoom and we will not meet every week, see [Tulane Canvas](https://tulane.instructure.com/) for details.
+* **Time:** 18:00 - 19:00
 
 The Partners for this semester are:
 * **Partner:** [Code For New Orleans](http://codeforneworleans.org/)
@@ -41,9 +41,9 @@ Thus through service learning and civic engagement students will be able to *app
 
 |   Week  | Class Day | Activity | Notes / Links |
 |:-------:|:--------:|----|-----|
-| 1 | 8/20 | Overview, Partner Introduction | [Slides](https://drive.google.com/file/d/1wqmRt46d3Zt5za3HA-34_qBK_hrcpjOu/view?usp=sharing) |
-| 2 | 8/27 | Additional Overview with CPS Staff | [Slides](https://drive.google.com/file/d/1wqmRt46d3Zt5za3HA-34_qBK_hrcpjOu/view?usp=sharing) |
-| 3 | 9/3 | No Class |  |
+| 1 | 8/26 | Overview, Introduction to CPS | [Slides](https://drive.google.com/file/d/1wqmRt46d3Zt5za3HA-34_qBK_hrcpjOu/view?usp=sharing) |
+| 2 | 9/2 | Partner Introduction | [Slides](https://drive.google.com/file/d/1wqmRt46d3Zt5za3HA-34_qBK_hrcpjOu/view?usp=sharing) |
+| 3 | 9/9 | No Class |  |
 | 4 | 9/10 | No Class |  |
 | 5 | 9/17 | Meeting to Discuss Projects  |  |
 | 6 | 9/24 | Entering Communities Training |  |

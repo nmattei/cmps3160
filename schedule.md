@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fall 2020 Schedule
+title: Fall 2021 Schedule
 published: true
 ---
 
@@ -16,8 +16,9 @@ All Demo Notebooks can be [found here on Github](https://github.com/nmattei/cmps
 
 All Slides can be found [(Powerpoint and PDF) here on Google Drive!](https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing)
 
-All recordings of every lecture is available in [Canvas](https://tulane.instructure.com/)
+Recordings of every lecture is available in [Canvas](https://tulane.instructure.com/)
 
+** Due to a weird iframe glitch you need to right click and open in new window links below :-) **
 
-<iframe style="width: 100%; height: 3500px; border: none" src="https://docs.google.com/document/d/e/2PACX-1vSojQ-r1294TcMLBLoSamfRoOf_Cr5e5h7X0nT6zF22UFkDqlQGlb2khK_X8AemGoycMjrhz1Xghym_/pub?embedded=true"></iframe>
+<iframe style="width: 100%; height: 5000px; border: none" src="https://docs.google.com/document/d/e/2PACX-1vQhyDGJc9a5xuMrk5DGgNTCfWbAhCax4RJBw7Nm14h6Bn6uoEKsF4LK0Jtcd7fAXnb0IyUHO4O9oALR/pub?embedded=true"></iframe>
 
