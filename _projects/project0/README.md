@@ -1,6 +1,6 @@
 # Project 0: Computing Environment
 
-**Last Revision:** 8/20/2020
+**Last Revision:** 8/20/2021
 
 Over the course of the semester, you will work with a variety of software packages, including Python, Pandas, Jupyter Notebook, and others. Installing those packages and getting started can often be a hassle because of software dependencies.  *However, maintaining your environment is an integral part of your job as a data scientist so you'll need to get used to it!  Luckily Docker makes this really easy and also allows you to share runnable code and increase reproducibility!*
 
@@ -16,7 +16,8 @@ We will use GitHub to distribute the assignments, and other class materials. Our
 
 If you are uncomfortable with the command line interfaces below you can try a variety of IDEs that are designed to make this easier.  
 * I personally use [SourceTree](https://www.sourcetreeapp.com/), though it is a bit more advanced and may have lots of options you do not need for this course.
-* The [GitHub Desktop](https://desktop.github.com/) is also a popular choice and is very easy to use.  
+* The [GitHub Desktop](https://desktop.github.com/) is also a popular choice and is very easy to use. 
+* [VS Code](https://code.visualstudio.com/) is a really nice, fully integrated development environment that can manage Docker, Python, Git, and many more things -- you should try it!
 
 If you have a Windows machine then I highly suggest using one of these, if you have a Mac, the git command line is pre-installed on your computer.
 

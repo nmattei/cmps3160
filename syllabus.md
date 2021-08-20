@@ -19,15 +19,15 @@ published: true
 * **GitHub:** [https://github.com/nmattei/cmps3160](https://github.com/nmattei/cmps3160)
 * **Canvas Page:** [Tulane Canvas](https://tulane.instructure.com/)
 
-### Instructor and TA Information
+## Instructor and TA Information
 **Instructor:** Dr. Nicholas Mattei, <nsmattei@tulane.edu>
 * **Office:** Stanley Thomas 402B
 * **Office Hours:** **TBD** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 
 **Teaching Assistants:** Leon Li <lli23@tulane.edu>, Eli Mendels <emendels1@tulane.edu>, and Philip Rinaldi <prinaldi1@tulane.edu>
-* Leon's Office Hours: **TBD**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
-* Eli's Office Hours: **TBD**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
-* Phil's Office Hours: **TBD**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+* Leon's Office Hours: **Friday: 17:00 - 18:00**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+* Eli's Office Hours: **Monday/Wednesday 15:30 - 17:30**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+* Phil's Office Hours: **Tuesday/Thursday 14:00 - 15:30 and Friday 14:00 - 15:00**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 
 ## Course Communication Policy
 There are a variety of methods you can use to get in touch with us, and we expect to be able to get in touch with you.  A few general policies.

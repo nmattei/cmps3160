@@ -4,19 +4,14 @@ title: Fall 2021 Schedule
 published: true
 ---
 
-[Link to the Git Repo for the Course!](https://github.com/nmattei/cmps3160)
+## Important Resources for the Semester:
+* [Link to the Git Repo for the Course!](https://github.com/nmattei/cmps3160)
+* For a detailed list of assignments, learning time, and grading rubrics, pleasee go to the [Assignments Page.](./assignments.md)
+    * **While I make every effort to keep these tables up to date, if there is ever a conflict on due date, the assignment due date in [Canvas](https://tulane.instructure.com/) supersedes anything posted here.**
+* All Demo Notebooks can be [found here on Github](https://github.com/nmattei/cmps3160/tree/master/_notebooks).
 
-**While I make every effort to keep these tables up to date, if there is ever a conflict on due date, the assignment due date in [Canvas](https://tulane.instructure.com/) supersedes anything posted here.**
-
-For a detailed list of assignments, learning time, and grading rubrics, pleasee go to the [Assignments Page.](./assignments.md)
-
-All pre-class slides and comics (with announcements) can be found here: [Powerpoint](https://drive.google.com/file/d/1OVhQuoP_JjSB7G7B192WoTO9vr0G6hvy/view?usp=sharing) and [PDF](https://drive.google.com/file/d/1TMY_IRjXXh9zSmO8vEa1IvRVXEbquCwH/view?usp=sharing).
-
-All Demo Notebooks can be [found here on Github](https://github.com/nmattei/cmps3160/tree/master/_notebooks).
-
-All Slides can be found [(Powerpoint and PDF) here on Google Drive!](https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing)
-
-Recordings of every lecture is available in [Canvas](https://tulane.instructure.com/)
+* All slides including the pre-class announcements can be found [(Powerpoint and PDF) here on Google Drive!](https://drive.google.com/drive/folders/1uGrhWzhXbiqoChTK0fQXg340X319REks?usp=sharing)
+* Recordings of every lecture is available in [Canvas](https://tulane.instructure.com/)
 
 ** Due to a weird iframe glitch you need to right click and open in new window links below :-) **
 
