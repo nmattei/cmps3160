@@ -35,4 +35,4 @@ Leon, Eli, Phil, and Prof. Mattei have drop in office hours and are available by
 
 ### Course Announcements and Links:
 
-If you need help please check the [discussion board on Canvas!](https://tulane.instructure.com/courses/2220511/discussion_topics). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
+If you need help please check the [discussion board on Canvas!](https://tulane.instructure.com/courses/2236831/discussion_topics). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
