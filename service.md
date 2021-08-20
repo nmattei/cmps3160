@@ -7,7 +7,7 @@ published: true
 
 ## Optional Service Learning Component
 
-* **Lectures:** Thursdays, August 26 - December 9th, 2020.
+* **Lectures:** Thursdays, August 26 - December 9th, 2021.
 * **Room:** Stanley Thomas Hall ([Building 10](https://tulane.edu/maps-directions)) 
 * **Online:** TBD -- some lectures will be on Zoom and we will not meet every week, see [Tulane Canvas](https://tulane.instructure.com/) for details.
 * **Time:** 18:00 - 19:00
@@ -42,11 +42,11 @@ Thus through service learning and civic engagement students will be able to *app
 |   Week  | Class Day | Activity | Notes / Links |
 |:-------:|:--------:|----|-----|
 | 1 | 8/26 | Overview, Introduction to CPS | [Slides](https://drive.google.com/file/d/1wqmRt46d3Zt5za3HA-34_qBK_hrcpjOu/view?usp=sharing) |
-| 2 | 9/2 | Partner Introduction | [Slides](https://drive.google.com/file/d/1wqmRt46d3Zt5za3HA-34_qBK_hrcpjOu/view?usp=sharing) |
-| 3 | 9/9 | No Class |  |
-| 4 | 9/10 | No Class |  |
-| 5 | 9/17 | Meeting to Discuss Projects  |  |
-| 6 | 9/24 | Entering Communities Training |  |
+| 2 | 9/2 | No Class |  |
+| 3 | 9/9 | Partner Introduction | [Slides](https://drive.google.com/file/d/1wqmRt46d3Zt5za3HA-34_qBK_hrcpjOu/view?usp=sharing) |
+| 4 | 9/16 | No Class |  |
+| 5 | 9/23 | Meeting to Discuss Projects  |  |
+| 6 | 9/30 | Entering Communities Training |  |
 | 7 | 10/1 | No Class  |  |
 | 8 | 10/8 | No Class |  |
 | 9 | 10/15 | Milestone 1 Review with Ryan and Lamar  |  |
