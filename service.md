@@ -145,8 +145,6 @@ We'll try to take some time in class next week to discuss these but after you ha
 
 Complete all of these tasks by class time on Thursday October 15th!
 
-
-
 ## Old Pre-Covid Plans
 
 Before COVID the plan was to have students attend the regular Code For NOLA Meetings.  This is **NOT REQUIRED FOR FALL 2020**.
