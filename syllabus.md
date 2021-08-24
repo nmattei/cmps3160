@@ -12,7 +12,7 @@ published: true
 
 ## Time and Location
 * **Lectures:** Tuesdays and Thursdays 
-* **Room:** Gibson Hall ([Building 1](https://tulane.edu/maps-directions))
+* **Room:** Gibson Hall ([Building 1](https://tulane.edu/maps-directions)) -- Room 126A
 * **Online:** All lectures will be available and recorded on Zoom, see [Tulane Canvas](https://tulane.instructure.com/) for details.
 * **Time:** 15:30 -- 16:45
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
@@ -31,10 +31,10 @@ published: true
 
 ## Course Communication Policy
 There are a variety of methods you can use to get in touch with us, and we expect to be able to get in touch with you.  A few general policies.
-* When emailing, please email all TA's and Prof. Mattei.  We will respond within 24 hours, except on weekends.  Turn around may be faster, but do not rely on it.
+* When emailing, please email all TAs and Prof. Mattei.  We will respond within 24 hours, except on weekends.  Turn around may be faster, but do not rely on it.
 * We expect the same from you: that you will check your email/Canvas every 24 hours, except on weekends.  All major announcements will be distributed via the Announcements function of Canvas.
-* Eli, Sri, and Prof. Mattei have drop in office hours and are available by appointment.  Please reach out to us directly to setup extra time if you need more support during the semester.
-* If you have a general question, please check or post on the [discussion board on Canvas!](https://tulane.instructure.com/courses/2220511/discussion_topics). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
+* We are all available to have drop in office hours and are available by appointment.  Please reach out to us directly to setup extra time if you need more support during the semester.
+* If you have a general question, please check or post on the [discussion board on Canvas!](https://tulane.instructure.com/). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
 
 ## Service Learning
 There is an optional Service Learning component to this course that satisfies a [Tier I or Tier II Service Learning Requirement](https://cps.tulane.edu/).  This is a small section with and participation is **hard capped at 10**, if there is no room on the [Registrar's Website](https://classschedule.tulane.edu/Search.aspx), *there is no room*.

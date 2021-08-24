@@ -14,7 +14,7 @@ published: true
 
 ### Time and Location
 * **Lectures:** Tuesdays and Thursdays 
-* **Room:** Gibson Hall ([Building 1](https://tulane.edu/maps-directions))
+* **Room:** Gibson Hall ([Building 1](https://tulane.edu/maps-directions)) -- Room 126A
 * **Online:** All lectures will be available and recorded on Zoom, see [Tulane Canvas](https://tulane.instructure.com/) for details.
 * **Time:** 15:30 -- 16:45
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
