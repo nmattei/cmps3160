@@ -22,11 +22,11 @@ published: true
 ## Instructor and TA Information
 **Instructor:** Dr. Nicholas Mattei, <nsmattei@tulane.edu>
 * **Office:** Stanley Thomas 402B
-* **Office Hours:** **TBD** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+* **Office Hours:** **Tuesday 11:00 -- 12:00 and Wednesday 10:00 -- 11:00** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 
 **Teaching Assistants:** Leon Li <lli23@tulane.edu>, Eli Mendels <emendels1@tulane.edu>, and Philip Rinaldi <prinaldi1@tulane.edu>
 * Leon's Office Hours: **Friday: 17:00 - 18:00**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
-* Eli's Office Hours: **Monday/Wednesday 15:30 - 17:30**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+* Eli's Office Hours: **Monday/Wednesday 16:15 - 18:15**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 * Phil's Office Hours: **Tuesday/Thursday 14:00 - 15:30 and Friday 14:00 - 15:00**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 
 ## Course Communication Policy
