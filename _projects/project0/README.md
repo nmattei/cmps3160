@@ -64,6 +64,7 @@ Docker is perhaps the most popular container technology at this time, and is wid
 	- Macs: https://docs.docker.com/docker-for-mac/
 	- Windows: https://docs.docker.com/docker-for-windows/
 	- **Note:** If you have Windows 10 Home you need to use [Docker Toolbox](https://docs.docker.com/toolbox/toolbox_install_windows/) which you can find the installation instructions for here: .  If you are having trouble mounting your filesystem in Docker Toolbox for Windows please go over [this troubleshooting guide](https://medium.com/@Charles_Stover/fixing-volumes-in-docker-toolbox-4ad5ace0e572).
+    - **Note:** On Windows if you get the error *Error: invalid reference format: repository name must be lowercase.* then this means that you need to change the `PATH` below to not have any spaces. This may involve moving the folder you want to map.
 - We will use the `Jupyter Notebook Data Science Stack` for now. You can start it using the following command in the command line -- **replace PATH with the path to where you have saved or checked out the git repository on your machine!** if you do not do this your `notebook` folder on the Docker image will be empty. More detailed description of the image is available at: https://hub.docker.com/r/jupyter/datascience-notebook/
 	- `docker run -it -v PATH/:/home/jovyan/notebooks --rm -p 8888:8888 jupyter/datascience-notebook`
 - Quick explanation of the above command (don't worry if you don't follow this right now):
