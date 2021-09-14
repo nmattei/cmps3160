@@ -31,7 +31,7 @@ This is an upper division computer science course, *it is hard*, there will be a
 | Discussion Topic | Due Date | Link |
 |:-------:|:--------:|----|
 | Pre Semester Survey | 8/26 | [Canvas](https://tulane.instructure.com/)
-| Introduce Yourself + Response | 8/31, 9/7  | [Canvas](https://tulane.instructure.com/)
+| Introduce Yourself + Response | 9/16, 9/21  | [Canvas](https://tulane.instructure.com/)
 | Finding A Project Partner | -- | [Canvas Discussion Board]()
 | Partner and Data | -- | [Canvas Discussion Board]()
 
@@ -40,8 +40,8 @@ This is an upper division computer science course, *it is hard*, there will be a
 
 | Lab     | Due Date | Link |
 |:-------:|:--------:|----  |
-| 1 | 9/7 | [Tabular Data and Variables](https://github.com/nmattei/cmps3160/tree/master/_labs) |
-| 2 | 9/14 | [Summarizing Variables](https://github.com/nmattei/cmps3160/tree/master/_labs) |
+| 1 | 9/21 | [Tabular Data and Variables](https://github.com/nmattei/cmps3160/tree/master/_labs) |
+| 2 | 9/30 | [Summarizing Variables](https://github.com/nmattei/cmps3160/tree/master/_labs) |
 | 3 | 9/21 | [Visualizing Variables and Filtering Data](https://github.com/nmattei/cmps3160/tree/master/_labs) | 
 | 4 | -- | [GroupBy and Pivot Tables](https://github.com/nmattei/cmps3160/tree/master/_labs) | 
 | 5 | -- | [Merging and Joining](https://github.com/nmattei/cmps3160/tree/master/_labs) | 
