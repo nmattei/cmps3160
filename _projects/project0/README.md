@@ -73,6 +73,10 @@ Docker is perhaps the most popular container technology at this time, and is wid
 	- `jupyter/datascience-notebook` tells docker which image to pull from the Docker Hub. The first time you do this, it will take a few minutes (go grab a drink) to download everything it needs.  **Note that the download is several gigs so you will want to be on a fast, i.e., school, network if possible.**
 - Once everything is initialized and the notebook starts, you can connect it to by opening your web browser and going to: http://localhost:8888/tree?token=279fb5e0fc0f240a90f913e7b9c9c068f36543a7d9544663  --- the `token` will be different for you. Look for it in the output of the command above.
 
+Some other trouble shooting notes for Docker:
+ - You can use the Docker GUI on Mac to start the notebooks as well - when you press run you'll need to enter in all the details for the container to make sure it works.
+ - If you are having trouble with the token you can try to start the notebook without a security token, however this is generally not recommended. Try the appending `start-notebook.sh --NotebookApp.token=''` to the above command.
+
 **Note:** You can just install Anaconda or Python3 yourself and develop there if you wish.  However, you should ensure any code you run works on a Docker installation as described above.
 
 ## Python and Jupyter/IPython
@@ -98,11 +102,9 @@ Complete the function in `Project0` Notebook, and upload the `Project0.ipynb` fi
 * (10 Points) *Professionalism*: You have written code that is interpretable -- it contains comments where needed to understand, variable names are reasonable, and code that is reasonable and efficient. You have followed directions to turn in the file, clearly labeling everything. You have cited all sources and how you used them in the written portion of your answers.
 * (10 Points) *Visiting Office Hours*: You have visited office hours of at least one instructor of this course *before the assignment is due!*.
 * (10 Points): *Docker Setup*: The project runs on the correct Docker image and the environment is setup correctly.
-* (20 Points): *Function Correctness*: Function is implemented and correct.  There are many right answers but we will take points if you do it extremely inefficiently.
+* (10 Points): *Function Correctness*: Function to count the letters is implemented and correct.  There are many right answers but we will take points if you do it extremely inefficiently.
+* (10 Points): *Counters and Testing*: You have placed the correct amount of testing and demonstrated the max, min, and average functions. They are correct and implemented properly.
 
-| Category  | Full    |    75%  |    50%  |   25%   |   0%    |
-|:  ----  : | : ---- :| : ---- :| : ---- :| : ---- :| : ---- :|
-| Professionalism      | As above. | Some sloppiness, some code not well formatted/ documented. Uncleaned up strings / cells with errors. | More than above, some clearness, unused/unnecessary code. | Code is hard to interpret, many instances of unclear names, unused code, or unnecessary output.  | Many cells that are not necessary, no comments, variable names confused / multiply defined, unclear results. |
-| Office Hours         | Visited Hours | | | | Did Not Visit | 
-| Docker Setup         | Code runs in appropriate container. | | | | Code does not run in appropriate container. | 
-| Function Correctness | Code iterates once, no unnecessary counters, efficient. | Code could be more streamlined, mostly correct. | Code runs and produces correct output but is very inefficient or does lots of extra work. | Code runs but is too narrow in scope or does not produce correct output. | Code does not run / output incorrect. | 
+| Full    |    Good |  Okay |   Lacking   |   Poor  | No Marks |
+| : ---- :| : ---- :| : ---- :| : ---- :| : ---- :| : ---- : |
+| You completely and fully met the criteria described. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed components of the required criteria and/or they are incorrect / inappropriate or lack depth. | You have missed major components of the required criteria and/or may of them are incorrect. | Little to no evidence of work and major missing components. | Missing or completely inadequate. | 
