@@ -93,7 +93,7 @@ You should submit the notebook through [Canvas](https://tulane.instructure.com/)
 
 ----
 
-## Milestone 2: Additional Extraction, Transform, and Load (ETL) + Exploratory Data Analysis (EDA) - 10/29/2020.
+## Milestone 2: Additional Extraction, Transform, and Load (ETL) + Exploratory Data Analysis (EDA)
 
 Your notebook from Part 1 but expanded to include any necessary additional data being loaded and parsed into shape using the principles of tidy data discussed in class. This is to show that you have figured out how to get the data into your system.
 
@@ -119,7 +119,7 @@ You should submit the notebook through [Canvas](https://tulane.instructure.com/)
 
 ---
 
-## Deliverable 1: Final Presentation - 11/19+24/2020.
+## Deliverable 1: Final Presentation
 
 You (and your partner) will give a 5-8 minute presentation in class to your peers.  In this presentation you are role playing a bit -- your job is to convince the audience that the problem you investigated was interesting and meaningful.  An ideal talk will cover every step of the Data Lifecycle that we have discussed in class: (1) an introduction of the problem and what question you want to solve, (2) where you got your data, (2) how you loaded and preprocessed your data, (3) some exploratory analysis to show important features, (4) a hypothesis about the data and supporting evidence, (5) an important conclusion to draw from your data.
 
@@ -182,7 +182,7 @@ You should submit your slides (PDF, Powerpoint, or Keynote only) through [Canvas
 *If you do this in a group, both students must submit the set of slides through Canvas.*
 
 
-## Deliverable 2: Final Tutorial - 11/24/2020.
+## Deliverable 2: Final Tutorial
 
 In general, the tutorial should contain at least 1500 words of prose and 150 lines of (nonpadded, legitimate) Python code, along with appropriate documentation, visualization, and
 links to any external information that might help the reader.
