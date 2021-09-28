@@ -7,16 +7,16 @@ published: true
 
 # Final Tutorial
 
-Instead of a Final Exam in this course you will be responsible for generating a tutorial that will walk users through the entire data science pipeline: data curation, parsing, and management; exploratory data analysis; hypothesis testing and machine learning to provide analysis; and then the curation of a message or messages covering insights learned during the tutorial. Students may choose an application area and dataset(s) that are of interest to them; please feel free to be creative about this!
+In this course you will be responsible for generating a tutorial that will walk users through the entire data science pipeline: data curation, parsing, and management; exploratory data analysis; model building as either hypothesis testing and/or machine learning; and then the curation of a message or messages covering insights learned during the tutorial. Students may choose an application area and dataset(s) that are of interest to them; please feel free to be creative about this!
 
-In the interest of building students' public portfolios, and in the spirit of "learning by doing", students will create a self-contained online tutorial to be posted publicly and a 7-10 minute presentation in class. This tutorial can be created individually or in a small group (max 2 people). This assignment will be a publicly-accessible website that provides an end-to-end walk-through of identifying and scraping a specific data source, performing some exploratory analysis, and providing some sort of managerial or operational insight from that data.  We will have several milestones associated with the final project including the following.  These are each discussed below in more detail.
+In the interest of building students' public portfolios, and in the spirit of "learning by doing", students will create a self-contained online tutorial to be posted publicly and a 5-8 minute presentation in class. This tutorial will be completed in pairs of students (except for graduate students who will work solo). This assignment will be a publicly-accessible website that provides an end-to-end walk-through of identifying and scraping a specific data source, performing some exploratory analysis, and providing some sort of managerial or operational insight from that data. We will have several milestones associated with the final project including the following. These are each discussed below in more detail.
 
 1. **Milestone 1:** Identifying a dataset and establishing a GitHub.io Site, Extraction, Transform, and Load (ETL). (50 points)
 2. **Milestone 2:** Additional Extraction, Transform, and Load (ETL) + Exploratory Data Analysis (EDA). (50 points)
 3. **Deliverable 1:** In Class Presentation. (50 points)
 4. **Deliverable 2:** Final Website. (100 points)
 
-Examples of high quality notebooks from past Data Science classes:
+Some examples of high quality notebooks from past Data Science classes:
 * Eli and Matt, [The Happiness Project](https://mcatalano26.github.io/Data-Science-Final-Project/)
 * Addie, [Deaths in Louisiana: An Analysis of Available Data](https://ajasica.github.io/)
 * John (Dung), [Airbnb in New York City](https://dungngotan99.github.io/)
@@ -27,11 +27,11 @@ Examples of high quality notebooks from past Data Science classes:
 
 ## Milestone 1: Groups, Data, Website, and Extraction, Transform, and Load (ETL) - 9/24/2020.
 
-For Milestone 1 you should generate a roughly 1 page writeup (500 words) listing a partner and one to three datasets that you are considering working with and why.  This is just an outline to make sure you are thinking.  This will be published on your GitHub IO page so this also makes sure you’ve figured out how to get it uploaded!
+**For Milestone 1 you should generate a roughly 1 page writeup (~500 words) listing a partner and one to three datasets that you are considering working with and why. For each dataset you should generate at least one question you hope to answer with that data.**  This is just an outline to make sure you are thinking and is not a commitment in any way.  This will be published on your GitHub IO page so this also makes sure you’ve figured out how to get it uploaded!
 
-You must also include a short *collaboration plan* describing how you are working together, what technologies you are using, and when / how often you are meeting to work on this project.  Examples include: we setup a private Github repo to coordinate code and we met on Zoom X times…. or even we used [Teletype for Atom](https://teletype.atom.io/) or [RemoteCollab for Sublime](https://packagecontrol.io/packages/RemoteCollab). Failure to turn in a collaboration plan that shows you coordinated will be a loss of professionalism points. The turned in result will need to reflect the understanding of both students
+You must also include a short *collaboration plan* describing how you are working together, what technologies you are using, and when / how often you are meeting to work on this project.  Examples include: we setup a private Github repo to coordinate code and we met on Zoom X times…. or even we used [LiveShare for CS Code](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) [Teletype for Atom](https://teletype.atom.io/) or [RemoteCollab for Sublime](https://packagecontrol.io/packages/RemoteCollab). Failure to turn in a collaboration plan that shows you coordinated will be a loss of professionalism points. The turned in result will need to reflect the understanding of both students
 
-You should load one of these datasets and parse it into shape using the principles of tidy data discussed in class. This is to show that you have figured out how to get the data into your system.  You should clearly discuss the data and what challenges you had in formatting it.
+You should load one of these datasets and parse it into shape using the principles of tidy data discussed in class and display the data table in a reasonable format so demonstrating what data you have. This is to show that you have figured out how to get the data into your system and does not need to be a final version, but it should show that you can read in **a data source** for your project.  You should clearly discuss the data and what challenges you had in formatting it.
 
 ### Possible Sources of Data
 
@@ -77,7 +77,7 @@ In order to make your webpage open up the notebook and make sure everything is a
 
 ### Submission
 
-You should submit the notebook through [Canvas](https://tulane.instructure.com/).  The first cell of your notebook in the markdown **must be a hyperlink in your notebook to the webpage at github.io, and the webpage must be publicly readable on the internet (i.e, live)**.  That is: the first cell of your notebook must be a markdown cell with a hyperlink to the generated webpage up at `yourname.github.io`.  If this is not correct you will lose points.
+You should submit the notebook through [Canvas](https://tulane.instructure.com/).  In the first cell of your notebook should be an explanation of the project goals and **a hyperlink to your webpage at github.io; the webpage must be publicly readable on the internet (i.e, live) and must contain the same work that is in the submitted notebook**.  That is: the first cell of your notebook must be a markdown cell with a hyperlink to the generated webpage up at `yourname.github.io`.  If this is not correct you will lose points.
 
 *Both students in the group must submit the notebook through Canvas but it should be the same notebook.  Both students should have the same data uploaded to the site.*
 
@@ -95,9 +95,11 @@ You should submit the notebook through [Canvas](https://tulane.instructure.com/)
 
 ## Milestone 2: Additional Extraction, Transform, and Load (ETL) + Exploratory Data Analysis (EDA)
 
-Your notebook from Part 1 but expanded to include any necessary additional data being loaded and parsed into shape using the principles of tidy data discussed in class. This is to show that you have figured out how to get the data into your system.
+Your notebook from Part 1 but expanded to include any additional data being loaded and parsed into shape using the principles of tidy data discussed in class. This is to show that you have figured out how to get the data into your system. You should remove any data sources or questions that are not being used and you should now have a focused discussion at the top of your notebook on what questions you will attack and a discussion of why the data you are using is correct.
 
 In addition you should also have at least 5 graphs and summary statistics/tables including cross-tabulations, groups, measures of central tendency, and/or any of the other EDA techniques discussed showing that you have started to investigate your data and have an understanding of what is in your dataset.  These graphs should be documented much as we did in Project 1 where you describe what the graph is showing and why.  Use of appropriate Markdown cells is essential.
+
+At the end of your notebook you should outline at least two ideas of what model you will be building to in the rest of your notebook. Example ideas include "We plan to use the time and date variable to predict parking violations in a zip code" or "We plan to test if there is a statistically significant positive correlation between income and happiness." **The graphs and summary statistics should inform what questions you have decided to ask here, if they don't, compute more summary statistics!**
 
 ### Submission
 
@@ -110,8 +112,10 @@ You should submit the notebook through [Canvas](https://tulane.instructure.com/)
 ### Scoring Rubric (50 Points)
 
 * (10 Points) *Professionalism*: You have used both code comments and markdown cells to professionally and clearly document your work including having a clear and clean notebook; linking to resources and documents; and doing so with code that is reasonable and efficient.  Your notebook is correct and contains the required links.  In addition, you have written code that is interpretable -- it contains comments where needed to understand, variable names are reasonable, and code that is reasonable and efficient. You have followed directions to turn in the file, clearly labeling everything. You have cited all sources and how you used them in the written portion of your answers.
-* (20 Points) *Extraction, Transform, and Load (ETL)*: At least one data set(s) are loaded correctly using web scraping other techniques.  The data is discussed in terms of what it is and how it could be used to answer the question of study.  Where the data comes from and how it is collected is clearly documented with links and other relevant details.  The data is imported and tidy according to the principles discussed in class.  Dtypes are set properly and displayed within the notebook, NaN's and other techniques are used following best practices discussed in class.
-* (20 Points) *Exploratory Data Analysis (EDA)*: At least 5 graphs and/or summary statistics/tables including cross-tabulations, groups, measures of central tendency, and/or any of the other EDA techniques discussed showing that you have started to investigate your data and have an understanding of what is in your dataset.  Each of these pieces of analysis should have a corresponding markdown cell that clearly explains what is being shown and why.
+* (15 Points) *Extraction, Transform, and Load (ETL)*: At least one data set(s) are loaded correctly using web scraping other techniques.  The data is discussed in terms of what it is and how it could be used to answer the question of study.  Where the data comes from and how it is collected is clearly documented with links and other relevant details.  The data is imported and tidy according to the principles discussed in class.  Dtypes are set properly and displayed within the notebook, NaN's and other techniques are used following best practices discussed in class.
+* (15 Points) *Exploratory Data Analysis (EDA)*: At least 5 graphs and/or summary statistics/tables including cross-tabulations, groups, measures of central tendency, and/or any of the other EDA techniques discussed showing that you have started to investigate your data and have an understanding of what is in your dataset.  Each of these pieces of analysis should have a corresponding markdown cell that clearly explains what is being shown and why.
+* (10 Points) *Model Questions*: You have identified at least two plausible models that you could build using your data and the graphs in your EDA section support continuing the investigation. You have clearly identified independent and dependent variables and appropriate test/prediction methodology for each question.
+
 
 | Full    |    Good |  Okay |   Lacking   |   Poor  | No Marks |
 | : ---- :| : ---- :| : ---- :| : ---- :| : ---- :| : ---- : |
@@ -132,7 +136,7 @@ Some resources for giving a good talk:
 * (10 Points) *Professionalism*: Are the slides well constructed?  Are the graphs labeled and clear?  Did you speak clearly and have a plan for the discussion? 
 * (10 Points) *Organization*: Was the talk clearly organized?  Did you explain where your data came from, why the question was important, and what the outcomes are?  You should address each stage of the DataScience LifeCycle in this talk.
 * (10 Points) *Motivation*: Does the talk make the reader believe the topic is important (a) in general and (b) with respect to data science? Does the data you selected allow you to answer the question you set out for?  Is there a clear and explainable question being answered by this data?
-* (10 Points) *Science*: Did you clearly explain why you performed the analyses you chose?  Did you adequately defend any assumptions you made?  Does your analysis support your conclusions?
+* (10 Points) *Science*: Did you clearly explain why you performed the analyses you chose?  Did you adequately defend any assumptions you made for your model?  Does your analysis support your conclusions?
 * (10 Points) *Peer Evaluation*: Were you present in class both days during presentations, did you provide feedback to the other students on their projects and ask questions.  Were you a good peer?
 
 | Full    |    Good |  Okay |   Lacking   |   Poor  | No Marks |
@@ -142,37 +146,6 @@ Some resources for giving a good talk:
 ### Schedule
 
 **Note:** You must upload your slides through [Canvas](https://tulane.instructure.com/) before 10am on the day of your presentation.  Failure to do this will result in a minimum of 10 points lost for *Professionalism*.  As we will all be on Zoom you are responsible for being ready to share your screen and talk through your slides for 6 mins.
-
-#### Presentations on 11/19
-
-| Team Member 1     | Team Member 2       | Topic                                    | Link                                                     |
-|-------------------|---------------------|------------------------------------------|----------------------------------------------------------|
-| Casas, Isabella   | Kellner, Josh       | Stop and Frisk                           | https://icasas101.github.io/FinalDSTutorial/             |
-| Donahue, Annie    | Prinz, Shay         | 911 Call Data                            | https://srprinz.github.io/CMPS3160_Final/                |
-| Kuperman, Leah    | Simanonok, Leo      | Gentrification in NOLA                   | https://leosimanonok.github.io/DataScienceFinalTutorial/ |
-| Lisi, Mark        | Tutuncuoglu, Sarper | NOLA Jobs                                | https://marklisi1.github.io/                             |
-| Margulies, Daniel | Pluscht, Paul       | NOLA Restaurants                         | https://ppluscht.github.io/DSFinal/                      |
-| Shanley, Erin     |                     | Food Access                              | https://eshanley.github.io/                              |
-| Ojalvo, Marc      | Strougo, Kyle       | Income and Police Shootings              | https://mojalvo.github.io/                               |
-| Rau, Matthew      |                     | Coronavirus and Problems                 | https://mrau1.github.io/                                 |
-| Ballagh, Josh     | Waller, Ellen       | Public Education and Policy in Louisiana | https://ballaghjoshua.github.io/                         |
-| Caplin, Mason     |                     | Mortality Rates                          | https://mcaplin98.github.io/                             |
-
-#### Presentations on 11/24
-
-| Team Member 1     | Team Member 2        | Topic                                        | Link                                             |
-|-------------------|----------------------|----------------------------------------------|--------------------------------------------------|
-| Bruchhaus, Sam    |                      | NFL Data                                     | https://sbruchhaus.github.io/                    |
-| Geisberg, Jacob   | Harris, Gabe         | Fantasy Football Draft                       | https://jberg1999.github.io/Fantasy/             |
-| Lyons, Molly      | Rinaldi, Phil        | Mouse Protein                                | https://prinaldi3.github.io/                     |
-| Childs, Sam       | Rajasekaran, Vasanth | Travel Ratings                               | https://vasanth16.github.io/                     |
-| Davis, Madison    | Sussman, Lauren      | World Happiness                              | https://lsussman1.github.io/DataScienceTutorial/ |
-| Doochin, Rebekah  | Ziman, David         | Housing                                      | https://rdoochin.github.io/                      |
-| Ellsworth, Daniel | Pratt, Alden         | Sentiment Analysis on Twitter / Stock Prices | https://danellsworth.github.io/                  |
-| Hardy, Lindsay    | O'Connell, Emily     | MOMA Dataset                                 | https://lindsayhardy17.github.io/                |
-| Jesusa, Sara      |                      | Song Popularity                              | https://sjesusa1.github.io/                      |
-| Levyne, Aidan     | Streit, Dave         | Music Popularity                             | https://dwstreit.github.io/                      |
-| Chiariello, Sarah |                      | Cervical Cancer                              | https://schiariello.github.io/                   |
 
 
 ### Submission
@@ -184,19 +157,19 @@ You should submit your slides (PDF, Powerpoint, or Keynote only) through [Canvas
 
 ## Deliverable 2: Final Tutorial
 
-In general, the tutorial should contain at least 1500 words of prose and 150 lines of (nonpadded, legitimate) Python code, along with appropriate documentation, visualization, and
-links to any external information that might help the reader.
+In general, the tutorial should contain at least 1500 words of prose and 150 lines of (non-padded, legitimate) Python code, along with appropriate documentation, visualization, and
+links to any external information that might help the reader. The big difference between Milestone 2 and the final is the inclusion of your model and testing -- your final notebook should clearly identify the model and then use that model to support conclusions and inform the construction of the rest of the notebook.
 
 ### Scoring Rubric (100 Points)
-* (10 Points) *Motivation*: Does the tutorial make the reader believe the topic is important (a) in general and (b) with respect to data science?  Is there a clear, coherent argument for this at the beginning of the notebook?
-* (10 Points) *Understanding*: After reading the tutorial, does the reader understand the topic?
-* (10 Points) *Prose and Professionalism.* Does the prose in the Markdown portion of the .ipynb add to the reader’s understanding of the tutorial?  Are the graphs labeled and clear? Is the writing clear and explained well.
-* (10 Points) *Organization/Professionalism*: Was the notebook clearly organized?  Did you explain where your data came from, why the question was important, and what the outcomes are?  There should be a section heading for each step of the Data Science LifeCycle.
+* (5 Points) *Motivation*: Does the tutorial make the reader believe the topic is important (a) in general and (b) with respect to data science?  Is there a clear, coherent argument for this at the beginning of the notebook? Is the model question well motivated.
+* (5 Points) *Understanding*: After reading the tutorial, does the reader understand the topic?
+* (5 Points) *Subjective Evaluation* If somebody linked to this tutorial from Hacker News, Reddit, Towards Data Science, or some other general interest website, would people actually read the whole thing?
+* (5 Points) *Further Resources* Does the tutorial “call out” to other resources that would help the reader understand basic concepts, deep dive, related work, etc?
+* (15 Points) *Prose/Organization/Professionalism.* Does the prose in the Markdown portion of the .ipynb add to the reader’s understanding of the tutorial?  Are the graphs labeled and clear? Is the writing clear and explained well. Was the notebook clearly organized?  Did you explain where your data came from, why the question was important, and what the outcomes are?  There should be a section heading for each step of the Data Science LifeCycle.
 * (20 Points) *Data*: Is the data selected appropriate? is it loaded in a coherent way? clean and Tidy? Dtypes set? are there issues in the data and if so are they explained? is enough data present and if not, why not? Is the data manipulated properly and coherently?
 * (20 Points) *Code*: Does the code help solidify understanding, is it well documented, and does it include helpful examples?  Is the code correct?  Did you show that the results of intermediate steps are correct in the tutorial?  Is there enough code to be complex enough to require a tutorial?
-* (10 Points) *Science.* Did you clearly explain why you performed the analyses you chose?  Did you adequately defend any assumptions you made? Does your analysis support your conclusions?
-* (5 Points) *Subjective Evaluation.* If somebody linked to this tutorial from Hacker News, Reddit, Towards Data Science, or some other general interest website, would people actually read the whole thing?
-* (5 Points) *Further Resources.* Does the tutorial “call out” to other resources that would help the reader understand basic concepts, deep dive, related work, etc?
+* (20 Points) *Science/Model* Did you clearly explain why you built the model you chose?  Did you adequately defend any assumptions you made? Does your analysis support your conclusions? Is the model correct and follow proper data science techniques?
+
 
 | Full    |    Good |  Okay |   Lacking   |   Poor  | No Marks |
 | : ---- :| : ---- :| : ---- :| : ---- :| : ---- :| : ---- : |
