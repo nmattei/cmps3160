@@ -16,6 +16,8 @@ In the interest of building students' public portfolios, and in the spirit of "l
 3. **Deliverable 1:** In Class Presentation. (50 points)
 4. **Deliverable 2:** Final Website. (100 points)
 
+Important to all coding in this class is becomign a better coder! One handy resource for this is [Arie's Coding Guide](https://nmattei.github.io/cmps3140/codingguide). Note that this was written for Intro. to AI CMPS 3140 but many of the same issues apply to this course.
+
 Some examples of high quality notebooks from past Data Science classes:
 * Eli and Matt, [The Happiness Project](https://mcatalano26.github.io/Data-Science-Final-Project/)
 * Addie, [Deaths in Louisiana: An Analysis of Available Data](https://ajasica.github.io/)
