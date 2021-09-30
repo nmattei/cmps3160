@@ -32,7 +32,7 @@ This is an upper division computer science course, *it is hard*, there will be a
 |:-------:|:--------:|----|
 | Pre Semester Survey | 8/26 | [Canvas](https://tulane.instructure.com/)
 | Introduce Yourself + Response | 9/16, 9/21  | [Canvas](https://tulane.instructure.com/)
-| Finding A Project Partner | -- | [Canvas Discussion Board]()
+| Data + Groups | 10/7, 10/12 | [Canvas Discussion Board]()
 | Partner and Data | -- | [Canvas Discussion Board]()
 
 
@@ -41,9 +41,9 @@ This is an upper division computer science course, *it is hard*, there will be a
 | Lab     | Due Date | Link |
 |:-------:|:--------:|----  |
 | 1 | 9/21 | [Tabular Data and Variables](https://github.com/nmattei/cmps3160/tree/master/_labs) |
-| 2 | 9/30 | [Summarizing Variables](https://github.com/nmattei/cmps3160/tree/master/_labs) |
-| 3 | 9/21 | [Visualizing Variables and Filtering Data](https://github.com/nmattei/cmps3160/tree/master/_labs) | 
-| 4 | -- | [GroupBy and Pivot Tables](https://github.com/nmattei/cmps3160/tree/master/_labs) | 
+| 2 | 10/5 | [Summarizing Variables](https://github.com/nmattei/cmps3160/tree/master/_labs) |
+| 3 | 10/12 | [Visualizing Variables and Filtering Data](https://github.com/nmattei/cmps3160/tree/master/_labs) | 
+| 4 | 10/19 | [GroupBy and Pivot Tables](https://github.com/nmattei/cmps3160/tree/master/_labs) | 
 | 5 | -- | [Merging and Joining](https://github.com/nmattei/cmps3160/tree/master/_labs) | 
 | 6 | -- | [Transforming Data / Relationships](https://github.com/nmattei/cmps3160/tree/master/_labs) |
 | 7 | -- | [Categorical Relationships / Distance Metrics](https://github.com/nmattei/cmps3160/tree/master/_labs) |
@@ -55,17 +55,18 @@ This is an upper division computer science course, *it is hard*, there will be a
 
 | Project | Due Date | Link | Notes |
 |:-------:|:--------:|----|-----|
-| 0 | 9/2 | [Computing Environment](https://github.com/nmattei/cmps3160/tree/master/_projects/project0) |
-| 1 | -- | [Fly Me To The Moon](/_projects/Project1.md) | 
-| 2 | -- | [MoneyBall!](/_projects/Project2.md) | 
-| 3 | -- | [TBD]() | 
+| 0 | 9/16 | [Computing Environment](https://github.com/nmattei/cmps3160/tree/master/_projects/project0) |
+| 1 | 10/14 | [Fly Me To The Moon - Part 1](/_projects/Project1.md) | 
+| 2 | -- | [Fly Me To The Moon - Part 2](/_projects/Project1.md) | 
+| 3 | -- | [MoneyBall!](/_projects/Project2.md) | 
+| 4 | -- | [TBD]() | 
 
 
 ## Final Tutorial
 
 | Part    | Due Date | Link | Notes |
 |:-------:|:--------:|----  |----- |
-| Milestone 1 | 9/30 | [Groups, Data, Website, ETL](/_projects/FinalTutorial.md) |
+| Milestone 1 | 10/26 | [Groups, Data, Website, ETL](/_projects/FinalTutorial.md) |
 | Milestone 2 | -- | [Additional ETL and EDA](/_projects/FinalTutorial.md) | 
 | In Class Presentations | -- | [Presentation](/_projects/FinalTutorial.md) | 
 | Final Notebook Due | -- | [Final Deliverable](/_projects/FinalTutorial.md) | 

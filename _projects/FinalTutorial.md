@@ -27,7 +27,7 @@ Some examples of high quality notebooks from past Data Science classes:
 
 ----
 
-## Milestone 1: Groups, Data, Website, and Extraction, Transform, and Load (ETL) - 9/24/2020.
+## Milestone 1: Groups, Data, Website, and Extraction, Transform, and Load (ETL)
 
 **For Milestone 1 you should generate a roughly 1 page writeup (~500 words) listing a partner and one to three datasets that you are considering working with and why. For each dataset you should generate at least one question you hope to answer with that data.**  This is just an outline to make sure you are thinking and is not a commitment in any way.  This will be published on your GitHub IO page so this also makes sure you’ve figured out how to get it uploaded!
 
