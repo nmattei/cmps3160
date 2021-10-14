@@ -32,8 +32,7 @@ This is an upper division computer science course, *it is hard*, there will be a
 |:-------:|:--------:|----|
 | Pre Semester Survey | 8/26 | [Canvas](https://tulane.instructure.com/)
 | Introduce Yourself + Response | 9/16, 9/21  | [Canvas](https://tulane.instructure.com/)
-| Data + Groups | 10/7, 10/12 | [Canvas Discussion Board]()
-| Partner and Data | -- | [Canvas Discussion Board]()
+| Data + Groups | 10/7, 10/14 | [Canvas Discussion Board]()
 
 
 ## Labs
@@ -44,21 +43,21 @@ This is an upper division computer science course, *it is hard*, there will be a
 | 2 | 10/5 | [Summarizing Variables](https://github.com/nmattei/cmps3160/tree/master/_labs) |
 | 3 | 10/12 | [Visualizing Variables and Filtering Data](https://github.com/nmattei/cmps3160/tree/master/_labs) | 
 | 4 | 10/19 | [GroupBy and Pivot Tables](https://github.com/nmattei/cmps3160/tree/master/_labs) | 
-| 5 | -- | [Merging and Joining](https://github.com/nmattei/cmps3160/tree/master/_labs) | 
-| 6 | -- | [Transforming Data / Relationships](https://github.com/nmattei/cmps3160/tree/master/_labs) |
-| 7 | -- | [Categorical Relationships / Distance Metrics](https://github.com/nmattei/cmps3160/tree/master/_labs) |
-| 8 | -- | [Machine Learning Regression Models](https://github.com/nmattei/cmps3160/tree/master/_labs) |
-| 9 | -- | [Model Error and Tuning](https://github.com/nmattei/cmps3160/tree/master/_labs) |
-| 10 | -- | [Machine Learning Classification Models](https://github.com/nmattei/cmps3160/tree/master/_labs) |
+| 5 | 11/2 | [Merging and Joining](https://github.com/nmattei/cmps3160/tree/master/_labs) | 
+| 6 | 11/9 | [Transforming Data / Relationships](https://github.com/nmattei/cmps3160/tree/master/_labs) |
+| 7 | 11/16 | [Categorical Relationships / Distance Metrics](https://github.com/nmattei/cmps3160/tree/master/_labs) |
+| 8 | 11/30 | [Machine Learning Regression Models](https://github.com/nmattei/cmps3160/tree/master/_labs) |
+| 9 | 12/7 | [Model Error and Tuning](https://github.com/nmattei/cmps3160/tree/master/_labs) |
+| 10 | 12/14 | [Machine Learning Classification Models](https://github.com/nmattei/cmps3160/tree/master/_labs) |
 
 ## Mini-Projects
 
 | Project | Due Date | Link | Notes |
 |:-------:|:--------:|----|-----|
 | 0 | 9/16 | [Computing Environment](https://github.com/nmattei/cmps3160/tree/master/_projects/project0) |
-| 1 | 10/14 | [Fly Me To The Moon - Part 1](/_projects/Project1.md) | 
-| 2 | -- | [Fly Me To The Moon - Part 2](/_projects/Project1.md) | 
-| 3 | -- | [MoneyBall!](/_projects/Project2.md) | 
+| 1 | 10/26 | [Fly Me To The Moon - Part 1](/_projects/Project1.md) | 
+| 2 | 11/11 | [Fly Me To The Moon - Part 2](/_projects/Project1.md) | 
+| 3 | 12/2 | [MoneyBall!](/_projects/Project2.md) | 
 | 4 | -- | [TBD]() | 
 
 
@@ -67,9 +66,9 @@ This is an upper division computer science course, *it is hard*, there will be a
 | Part    | Due Date | Link | Notes |
 |:-------:|:--------:|----  |----- |
 | Milestone 1 | 10/26 | [Groups, Data, Website, ETL](/_projects/FinalTutorial.md) |
-| Milestone 2 | -- | [Additional ETL and EDA](/_projects/FinalTutorial.md) | 
-| In Class Presentations | -- | [Presentation](/_projects/FinalTutorial.md) | 
-| Final Notebook Due | -- | [Final Deliverable](/_projects/FinalTutorial.md) | 
+| Milestone 2 | 11/18 | [Additional ETL and EDA](/_projects/FinalTutorial.md) | 
+| In Class Presentations | 12/14-16 | [Presentation](/_projects/FinalTutorial.md) | 
+| Final Notebook Due | 12/18 | [Final Deliverable](/_projects/FinalTutorial.md) | 
 
 
 ### Standard Rubric for Labs
