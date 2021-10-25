@@ -185,6 +185,7 @@ Now, we tidy up the NASA table. Here we will code missing observations properly,
 4.  Combine date and time columns for start, end and cme so they can be encoded as datetime objects.
   * **Note:** You may use the start *year* for the end *year* and cme *year*.
   * **Note:** You may need to convert some times to be 23:59 instead of 24:00
+  * **Note:** Also useful is the [Pandas NaT (Not a Time)](https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html#datetimes)
 5. Once you have cleaned the table, make sure the types of the columns are correct (numeric columns should be numeric, objects objects, datetimes should be datetimes) and drop any unecessary columns.
 
 The output of this step should be similar to this:
