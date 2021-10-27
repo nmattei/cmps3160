@@ -151,7 +151,7 @@ Some resources for giving a good talk:
 
 | Team Members                                      | Title / Topic                                | Link                                                          |
 |---------------------------------------------------|----------------------------------------------|---------------------------------------------------------------|
-| Ajit Alapati and Samuel Kellum                    | Police Brutality in New Orleans              | Missing                                                       |
+| Ajit Alapati and Samuel Kellum                    | Police Brutality in New Orleans              | <https://samuelkellum.github.io/FinalTutorial/>               |
 | Jacob Masur and Daniel Cohen                      | Internet Access in Orleans Parish            | <https://jnmasur.github.io/>                                   |
 | Mina Saleh and Ryan Park                          | Louisiana Hydrographic Data Analysis         | <https://minassaleh.github.io/>                                 |
 | Rena Repenning and Eduardo Salazar                | WePlay Data Analysis                         | <https://renarepenning.github.io/>                              |
