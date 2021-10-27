@@ -149,6 +149,34 @@ Some resources for giving a good talk:
 
 **Note:** You must upload your slides through [Canvas](https://tulane.instructure.com/) before 10am on the day of your presentation.  Failure to do this will result in a minimum of 10 points lost for *Professionalism*.  As we will all be on Zoom you are responsible for being ready to share your screen and talk through your slides for 6 mins.
 
+| Team Members                                      | Title / Topic                                | Link                                                          |
+|---------------------------------------------------|----------------------------------------------|---------------------------------------------------------------|
+| Ajit Alapati and Samuel Kellum                    | Police Brutality in New Orleans              | Missing                                                       |
+| Jacob Masur and Daniel Cohen                      | Internet Access in Orleans Parish            | https://jnmasur.github.io/                                    |
+| Mina Saleh and Ryan Park                          | Louisiana Hydrographic Data Analysis         | https://minassaleh.github.io/                                 |
+| Rena Repenning and Eduardo Salazar                | WePlay Data Analysis                         | https://renarepenning.github.io/                              |
+| Max Sender and Sam Traylor                        | NOLA 911 Call Analysis                       | https://m-sender.github.io/ServiceLearning/                   |
+| Diego Oldenburg, Benedicte Knudson and Alex Abadi | COVID-19 on Economy and Employment           | https://bknudson1.github.io/                                  |
+| Blake Anderson and Ethan Sollender                | Financial Data Analysis                      | https://blandersonw.github.io/                                |
+| Julian Esparza and Sam Broth                      | Baseball Pitcher Data                        | https://jesparza17.github.io/Jesparza17/                      |
+| Hailey Dusablon and Jordan Stein                  | Demographics and Health                      | https://hduece.github.io/finaltutorial/                       |
+| Sarah Fox and Emily Powers                        | Billboard Top 100 Songs Theme Analysis       | https://emily-powers.github.io/                               |
+| Nick Ouellet and Garrett Gilliom                  | Education in Louisiana                       | https://nickouellet.github.io/                                |
+| Aidan Levyne and William Healy                    | Discogs Price Analysis                       | https://yearlytime.github.io/                                 |
+| Ila Keshishian and Bennett Kahn                   | NOLA Court Dockets Data Analysis             | https://thegenghiskahn.github.io/courtwatchNOLA/              |
+| Jaclyn Wilson and Maygan Miguez                   | Exploratory Analysis of The Gender Gap Index | https://datasciencegendergapindex.github.io/                  |
+| Jacob Waxman and Chloe Uhls                       | Homelessness in the United States            | https://github.com/jwaxman11/DataScienceProject               |
+| Yuxuan Zhang and Haowen Weng                      | Videogame Sales                              | https://github.com/XuanShay/XuanShay.github.io                |
+| Lydia Yampolsky                                   | Word Associations of English Speakers        | https://lydsy7.github.io/                                     |
+| Zachary Airington                                 | Big 5 and Conspiracy                         | https://zair87.github.io/                                     |
+| Nadim Hashmeh                                     | Mars Polar Ice Caps                          | https://nhashmeh.github.io/                                   |
+| Hang He                                           | NOLA Crime Rates                             | https://gavinhhe.github.io/                                   |
+| Lucien Mensah                                     | Trans* Twitter Data Analysis                 | https://lucienmensah.github.io/blogpages/2021_10_24_post.html |
+| Haoyuan Huang                                     | Customer Presonality Analysis                | https://mihcaelhuang.github.io/                               |
+| Diana Carolina Hurtado Pulido                     | Water Wells in Baton Rouge, LA               | https://carolinah23.github.io/                                |
+
+
+
 
 ### Submission
 
