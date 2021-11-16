@@ -165,7 +165,7 @@ Some resources for giving a good talk:
 | Aidan Levyne and William Healy                    | Discogs Price Analysis                       | <https://yearlytime.github.io/>                                 |
 | Ila Keshishian and Bennett Kahn                   | NOLA Court Dockets Data Analysis             | <https://thegenghiskahn.github.io/courtwatchNOLA/>              |
 | Jaclyn Wilson and Maygan Miguez                   | Exploratory Analysis of The Gender Gap Index | <https://datasciencegendergapindex.github.io/>                  |
-| Jacob Waxman and Chloe Uhls                       | Homelessness in the United States            | <https://github.com/jwaxman11/DataScienceProject>               |
+| Jacob Waxman and Chloe Uhls                       | Homelessness in the United States            | <https://chloeu99.github.io/>                                    |
 | Yuxuan Zhang and Haowen Weng                      | Videogame Sales                              | <https://github.com/XuanShay/XuanShay.github.io>               |
 | Lydia Yampolsky                                   | Word Associations of English Speakers        | <https://lydsy7.github.io/>                                     |
 | Zachary Airington                                 | Big 5 and Conspiracy                         | <https://zair87.github.io/>                                     |
