@@ -46,8 +46,8 @@ This is an upper division computer science course, *it is hard*, there will be a
 | 5 | 11/2 | [Merging and Joining](https://github.com/nmattei/cmps3160/tree/master/_labs) | 
 | 6 | 11/9 | [Transforming Data / Relationships](https://github.com/nmattei/cmps3160/tree/master/_labs) |
 | 7 | 11/16 | [Categorical Relationships / Distance Metrics](https://github.com/nmattei/cmps3160/tree/master/_labs) |
-| 8 | 11/30 | [Machine Learning Regression Models](https://github.com/nmattei/cmps3160/tree/master/_labs) |
-| 9 | 12/7 | [Model Error and Tuning](https://github.com/nmattei/cmps3160/tree/master/_labs) |
+| 8 | 12/2 | [Machine Learning Regression Models](https://github.com/nmattei/cmps3160/tree/master/_labs) |
+| 9 | 12/9 | [Model Error and Tuning](https://github.com/nmattei/cmps3160/tree/master/_labs) |
 | 10 | 12/14 | [Machine Learning Classification Models](https://github.com/nmattei/cmps3160/tree/master/_labs) |
 
 ## Mini-Projects
@@ -57,7 +57,7 @@ This is an upper division computer science course, *it is hard*, there will be a
 | 0 | 9/16 | [Computing Environment](https://github.com/nmattei/cmps3160/tree/master/_projects/project0) |
 | 1 | 10/26 | [Fly Me To The Moon - Part 1](/_projects/Project1.md) | 
 | 2 | 11/11 | [Fly Me To The Moon - Part 2](/_projects/Project1.md) | 
-| 3 | 12/2 | [MoneyBall!](/_projects/Project2.md) | 
+| 3 | 12/7 | [MoneyBall!](/_projects/Project2.md) | 
 | 4 | -- | [TBD]() | 
 
 
