@@ -47,7 +47,7 @@ This is an upper division computer science course, *it is hard*, there will be a
 | 6 | 11/9 | [Transforming Data / Relationships](https://github.com/nmattei/cmps3160/tree/master/_labs) |
 | 7 | 11/16 | [Categorical Relationships / Distance Metrics](https://github.com/nmattei/cmps3160/tree/master/_labs) |
 | 8 | 12/2 | [Machine Learning Regression Models](https://github.com/nmattei/cmps3160/tree/master/_labs) |
-| 9 | 12/9 | [Model Error and Tuning](https://github.com/nmattei/cmps3160/tree/master/_labs) |
+| 9 | 12/14 | [Model Error and Tuning](https://github.com/nmattei/cmps3160/tree/master/_labs) |
 | 10 | 12/14 | [Machine Learning Classification Models](https://github.com/nmattei/cmps3160/tree/master/_labs) |
 
 ## Mini-Projects
@@ -68,7 +68,7 @@ This is an upper division computer science course, *it is hard*, there will be a
 | Milestone 1 | 10/26 | [Groups, Data, Website, ETL](/_projects/FinalTutorial.md) |
 | Milestone 2 | 11/18 | [Additional ETL and EDA](/_projects/FinalTutorial.md) | 
 | In Class Presentations | 12/14-16 | [Presentation](/_projects/FinalTutorial.md) | 
-| Final Notebook Due | 12/18 | [Final Deliverable](/_projects/FinalTutorial.md) | 
+| Final Notebook Due | 12/17 | [Final Deliverable](/_projects/FinalTutorial.md) | 
 
 
 ### Standard Rubric for Labs
