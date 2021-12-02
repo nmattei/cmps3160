@@ -127,7 +127,7 @@ You should submit the notebook through [Canvas](https://tulane.instructure.com/)
 
 ## Deliverable 1: Final Presentation
 
-You (and your partner) will give a 5-8 minute presentation in class to your peers.  In this presentation you are role playing a bit -- your job is to convince the audience that the problem you investigated was interesting and meaningful.  An ideal talk will cover every step of the Data Lifecycle that we have discussed in class: (1) an introduction of the problem and what question you want to solve, (2) where you got your data, (2) how you loaded and preprocessed your data, (3) some exploratory analysis to show important features, (4) a hypothesis about the data and supporting evidence, (5) an important conclusion to draw from your data.
+You (and your partner) will give a 5-7 minute presentation in class to your peers.  In this presentation you are role playing a bit -- your job is to convince the audience that the problem you investigated was interesting and meaningful.  An ideal talk will cover every step of the Data Lifecycle that we have discussed in class: (1) an introduction of the problem and what question you want to solve, (2) where you got your data, (2) how you loaded and preprocessed your data, (3) some exploratory analysis to show important features, (4) a hypothesis about the data and supporting evidence, (5) an important conclusion to draw from your data. **Your presentation should only consist of 5 slides -- one for each step!** 
 
 Some resources for giving a good talk:
 1. Simon Peyton Jones, [How To Give a Great Research Talk](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/)
@@ -137,9 +137,9 @@ Some resources for giving a good talk:
 
 * (10 Points) *Professionalism*: Are the slides well constructed?  Are the graphs labeled and clear?  Did you speak clearly and have a plan for the discussion? 
 * (10 Points) *Organization*: Was the talk clearly organized?  Did you explain where your data came from, why the question was important, and what the outcomes are?  You should address each stage of the DataScience LifeCycle in this talk.
-* (10 Points) *Motivation*: Does the talk make the reader believe the topic is important (a) in general and (b) with respect to data science? Does the data you selected allow you to answer the question you set out for?  Is there a clear and explainable question being answered by this data?
-* (10 Points) *Science*: Did you clearly explain why you performed the analyses you chose?  Did you adequately defend any assumptions you made for your model?  Does your analysis support your conclusions?
-* (10 Points) *Peer Evaluation*: Were you present in class both days during presentations, did you provide feedback to the other students on their projects and ask questions.  Were you a good peer?
+* (10 Points) *Data and Motivation*: Does the talk make the reader believe the topic is important (a) in general and (b) with respect to data science? Does the data you selected allow you to answer the question you set out for?  Is there a clear and explainable question being answered by this data?
+* (10 Points) *Model and Science*: Did you clearly explain why you performed the analyses you chose?  Did you adequately defend any assumptions you made for your model?  Does your analysis support your conclusions?
+* (10 Points) *Peer Evaluation*: Were you present in class both days during presentations, did you provide feedback to the other students on their projects and ask questions on the message board.  Were you a good peer?
 
 | Full    |    Good |  Okay |   Lacking   |   Poor  | No Marks |
 | : ---- :| : ---- :| : ---- :| : ---- :| : ---- :| : ---- : |
@@ -147,33 +147,8 @@ Some resources for giving a good talk:
 
 ### Schedule
 
-**Note:** You must upload your slides through [Canvas](https://tulane.instructure.com/) before 10am on the day of your presentation.  Failure to do this will result in a minimum of 10 points lost for *Professionalism*.  As we will all be on Zoom you are responsible for being ready to share your screen and talk through your slides for 6 mins.
+**Note:** You must upload your slides through [Canvas](https://tulane.instructure.com/) before 10am on the day of your presentation.  Failure to do this will result in a minimum of 10 points lost for *Professionalism*. You will be required to be in person to present unless you have made other arrangements with me. I will compile all slides into one deck for the individual presentation days.
 
-| Team Members                                      | Title / Topic                                | Link                                                          |
-|---------------------------------------------------|----------------------------------------------|---------------------------------------------------------------|
-| Ajit Alapati and Samuel Kellum                    | Police Brutality in New Orleans              | <https://samuelkellum.github.io/FinalTutorial/>               |
-| Jacob Masur and Daniel Cohen                      | Internet Access in Orleans Parish            | <https://jnmasur.github.io/>                                   |
-| Mina Saleh and Ryan Park                          | Louisiana Hydrographic Data Analysis         | <https://minassaleh.github.io/>                                 |
-| Rena Repenning and Eduardo Salazar                | WePlay Data Analysis                         | <https://renarepenning.github.io/>                              |
-| Max Sender and Sam Traylor                        | NOLA 911 Call Analysis                       | <https://m-sender.github.io/ServiceLearning/>                   |
-| Diego Oldenburg, Benedicte Knudson and Alex Abadi | COVID-19 on Economy and Employment           | <https://bknudson1.github.io/>                                  |
-| Blake Anderson and Ethan Sollender                | Financial Data Analysis                      | <https://blandersonw.github.io/>                                |
-| Julian Esparza and Sam Broth                      | Baseball Pitcher Data                        | <https://jesparza17.github.io/Jesparza17/>                      |
-| Hailey Dusablon and Jordan Stein                  | Demographics and Health                      | <https://hduece.github.io/finaltutorial/>                       |
-| Sarah Fox and Emily Powers                        | Billboard Top 100 Songs Theme Analysis       | <https://emily-powers.github.io/>                               |
-| Nick Ouellet and Garrett Gilliom                  | Education in Louisiana                       | <https://nickouellet.github.io/>                                |
-| Aidan Levyne and William Healy                    | Discogs Price Analysis                       | <https://yearlytime.github.io/>                                 |
-| Ila Keshishian and Bennett Kahn                   | NOLA Court Dockets Data Analysis             | <https://thegenghiskahn.github.io/courtwatchNOLA/>              |
-| Jaclyn Wilson and Maygan Miguez                   | Exploratory Analysis of The Gender Gap Index | <https://datasciencegendergapindex.github.io/>                  |
-| Jacob Waxman and Chloe Uhls                       | Homelessness in the United States            | <https://chloeu99.github.io/>                                    |
-| Yuxuan Zhang and Haowen Weng                      | Videogame Sales                              | <https://github.com/XuanShay/XuanShay.github.io>               |
-| Lydia Yampolsky                                   | Word Associations of English Speakers        | <https://lydsy7.github.io/>                                     |
-| Zachary Airington                                 | Big 5 and Conspiracy                         | <https://zair87.github.io/>                                     |
-| Nadim Hashmeh                                     | Mars Polar Ice Caps                          | <https://nhashmeh.github.io/>                                   |
-| Hang He                                           | NOLA Crime Rates                             | <https://gavinhhe.github.io/>                                   |
-| Lucien Mensah                                     | Trans* Twitter Data Analysis                 | <https://lucienmensah.github.io/blogpages/2021_10_24_post.html> |
-| Haoyuan Huang                                     | Customer Presonality Analysis                | <https://mihcaelhuang.github.io/>                               |
-| Diana Carolina Hurtado Pulido                     | Water Wells in Baton Rouge, LA               | <https://carolinah23.github.io/>                                |
 
 
 
@@ -187,8 +162,9 @@ You should submit your slides (PDF, Powerpoint, or Keynote only) through [Canvas
 
 ## Deliverable 2: Final Tutorial
 
-In general, the tutorial should contain at least 1500 words of prose and 150 lines of (non-padded, legitimate) Python code, along with appropriate documentation, visualization, and
-links to any external information that might help the reader. The big difference between Milestone 2 and the final is the inclusion of your model and testing -- your final notebook should clearly identify the model and then use that model to support conclusions and inform the construction of the rest of the notebook.
+In general, the tutorial should contain at least 1500 words of prose and 150 lines of (non-padded, legitimate) Python code, along with appropriate documentation, visualization, and links to any external information that might help the reader. The big difference between Milestone 2 and the final is the inclusion of your model and testing -- your final notebook should clearly identify the model and then use that model to support conclusions and inform the construction of the rest of the notebook. 
+
+**You should make sure the top of your notebook is well organized and provides a clear motivation for the questions. You may need to rewrite significant parts of what you have done to accomplish this but you should consider the final notebook to be a portfolio piece!**
 
 ### Scoring Rubric (100 Points)
 * (5 Points) *Motivation*: Does the tutorial make the reader believe the topic is important (a) in general and (b) with respect to data science?  Is there a clear, coherent argument for this at the beginning of the notebook? Is the model question well motivated.
