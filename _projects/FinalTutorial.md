@@ -158,7 +158,7 @@ Some resources for giving a good talk:
 | Lucien Mensah                      | Trans* Twitter Data Analysis                 | https://lucienmensah.github.io/blogpages/2021_10_24_post.html |
 | Haoyuan Huang                      | Customer Presonality Analysis                | https://mihcaelhuang.github.io/                               |
 | Zachary Airington                  | Big 5 and Conspiracy                         | https://zair87.github.io/                                     |
-| Aidan Levyne and William Healy     | Discogs Price Analysis                       | https://yearlytime.github.io/                                 |
+| William Healy                  | Discogs Price Analysis                       | https://whealy4.github.io                                 |
 | Yuxuan Zhang and Haowen Weng       | Videogame Sales                              | https://xuanshay.github.io/                                   |
 | Blake Anderson and Ethan Sollender | Financial Data Analysis                      | https://blandersonw.github.io/                                |
 | Sarah Fox and Emily Powers         | Billboard Top 100 Songs Theme Analysis       | https://emily-powers.github.io/                               |
