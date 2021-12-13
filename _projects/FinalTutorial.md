@@ -158,7 +158,6 @@ Some resources for giving a good talk:
 | Lucien Mensah                      | Trans* Twitter Data Analysis                 | https://lucienmensah.github.io/blogpages/2021_10_24_post.html |
 | Haoyuan Huang                      | Customer Presonality Analysis                | https://mihcaelhuang.github.io/                               |
 | Zachary Airington                  | Big 5 and Conspiracy                         | https://zair87.github.io/                                     |
-| William Healy                  | Discogs Price Analysis                       | https://whealy4.github.io                                 |
 | Yuxuan Zhang and Haowen Weng       | Videogame Sales                              | https://xuanshay.github.io/                                   |
 | Blake Anderson and Ethan Sollender | Financial Data Analysis                      | https://blandersonw.github.io/                                |
 | Sarah Fox and Emily Powers         | Billboard Top 100 Songs Theme Analysis       | https://emily-powers.github.io/                               |
@@ -179,6 +178,7 @@ Some resources for giving a good talk:
 | Diego Oldenburg, Benedicte Knudson and Alex Abadi | COVID-19 on Economy and Employment   | https://bknudson1.github.io/                     |
 | Hang He                                           | Blood Pressure and Health            | https://gavinhhe.github.io/                      |
 | Hailey Dusablon and Jordan Stein                  | Demographics and Health              | https://hduece.github.io/finaltutorial/          |
+| William Healy                  | Discogs Price Analysis                       | https://whealy4.github.io                                 |
 | Nadim Hashmeh                                     | Mars Polar Ice Caps                  | https://nhashmeh.github.io/                      |
 | Diana Carolina Hurtado Pulido                     | Water Wells in Baton Rouge, LA       | https://carolinah23.github.io/                   |
 
