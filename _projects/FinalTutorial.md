@@ -174,7 +174,7 @@ Some resources for giving a good talk:
 | Mina Saleh and Ryan Park                          | Louisiana Hydrographic Data Analysis | https://minassaleh.github.io/                    |
 | Rena Repenning and Eduardo Salazar                | WePlay Data Analysis                 | https://www.renarepenning.com/weplaynoladata/    |
 | Max Sender and Sam Traylor                        | NOLA 911 Call Analysis               | https://m-sender.github.io/ServiceLearning/      |
-| Ila Keshishian and Bennett Kahn                   | NOLA Court Dockets Data Analysis     | https://thegenghiskahn.github.io/dataScienceFinalProject/ |
+| Ila Keshishian and Bennett Kahn                   | NOLA Court Dockets Data Analysis     | https://bennettkahn.github.io/dataScienceFinalProject/ |
 | Diego Oldenburg, Benedicte Knudson and Alex Abadi | COVID-19 on Economy and Employment   | https://bknudson1.github.io/                     |
 | Hang He                                           | Blood Pressure and Health            | https://gavinhhe.github.io/                      |
 | Hailey Dusablon and Jordan Stein                  | Demographics and Health              | https://hduece.github.io/finaltutorial/          |
