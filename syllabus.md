@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fall 2021 Syllabus
+title: Fall 2022 Syllabus
 subtitle:
 published: true
 ---
@@ -8,7 +8,7 @@ published: true
 * CMPS-3160/3160: Introduction to Data Science
 * Tulane University
 * 3 Credit Hours
-* Prerequisite Courses: CMPS 1600 Intro to Computer Science II and CMPS/MATH 2170 Discrete Mathematics, or consent of instructor.
+* Prerequisite Courses: CMPS 1100  Foundations of Programming or CMPS 1500  Intro to Computer Science I, or consent of instructor.
 
 ## Time and Location
 * **Lectures:** Tuesdays and Thursdays 
@@ -76,7 +76,7 @@ There is an optional Service Learning component to this course that satisfies a 
 # Catalog / Course Description
 The aim of this course is to provide the student with an introduction to the main concepts and techniques required for collecting, processing, and deriving insight into data. Data Science is an interdisciplinary set of topics that includes everything you need to create data driven answers and solutions to specific business, scientific, or sociological questions. Topics typically covered include an introduction to one or more data collection and management systems, e.g., SQL, web scraping, and various data repositories; exploratory and statistical data analysis, e.g., bootstrapping, measures of central tendency, hypothesis testing and machine learning techniques including linear regression and clustering; data and information visualization, e.g., plotting and interactive charts using various technologies; and presentation and communication of the results of these analyses.
 
-**Prerequisite:** CMPS 1600 Intro to Computer Science II and CMPS/MATH 2170 Discrete Mathematics.
+**Prerequisite:** CMPS 1100  Foundations of Programming or CMPS 1500  Intro to Computer Science I
 
 **Note:** This is a programming and mathematics intensive class.  Students are expected to know the basics of Python and be able to navigate a Linux/Unix command prompt (the first programming assignment will test these abilities).  Likewise a working understanding of graph theory, probability theory, and an understanding of basic algorithms is expected.
 
@@ -91,7 +91,7 @@ This course will cover:
 
 The course will use Python and be largely project and case study driven with students expected to analyze real datasets and post an analysis/tutorial publicly on GitHub at the end of the course. **Note that this is a programming intensive course and familiarity with Python is expected.**
 
-Students should be comfortable with programming in at least one language (preferably [Python](https://www.python.org/)) and have had a reasonable amount of math including some linear algebra and algorithms.  You you should know what a matrix is and you should be comfortable with everything in CMPS/MATH 2170.  There are many helpful tutorials and background material at the [Links & Resources Page](./resources.md), please make use of it.
+Students should be comfortable with programming in at least one language (preferably [Python](https://www.python.org/)) and have had a reasonable amount of math background including one college level math course. There are many helpful tutorials and background material at the [Links & Resources Page](./resources.md), please make use of it.
 
 We’ll be using [Anaconda](https://www.continuum.io/) and a number of packages including [NumPy](http://www.numpy.org/), [SciPy](https://www.scipy.org/), [SciKit](https://scikit-learn.org/stable/), and [Pandas](https://pandas.pydata.org/index.html).  You’ll be turning in projects using [GitHub](https://education.github.com/students) and [Git](https://git-scm.com/) so make sure you have an account!
 
