@@ -21,8 +21,7 @@ description: Intro to Data Science - Fall 2020
 # List of links in the navigation bar
 navbar-links:
   Syllabus: "syllabus"
-  Schedule: "schedule"
-  Assignments: "assignments"
+  Schedule and Assignments: "schedule"
   Final Tutorial: "./projects/FinalTutorial"
   Links & Resources: "resources"
 
