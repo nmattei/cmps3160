@@ -61,12 +61,6 @@ There are a variety of methods you can use to get in touch with us, and we expec
 
 ---
 
-## Table of Contents
-
-TBD
-
----
-
 ## Catalog / Course Description
 
 The aim of this course is to provide the student with an introduction to the main concepts and techniques required for collecting, processing, and deriving insight into data. Data Science is an interdisciplinary set of topics that includes everything you need to create data driven answers and solutions to specific business, scientific, or sociological questions. Topics typically covered include an introduction to one or more data collection and management systems, e.g., SQL, web scraping, and various data repositories; exploratory and statistical data analysis, e.g., bootstrapping, measures of central tendency, hypothesis testing and machine learning techniques including linear regression and clustering; data and information visualization, e.g., plotting and interactive charts using various technologies; and presentation and communication of the results of these analyses.
