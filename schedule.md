@@ -8,9 +8,8 @@ published: true
 
 * [Link to the Git Repo for the Course!](https://github.com/nmattei/cmps3160)
 * While we make every effort to keep these tables up to date, if there is ever a conflict on due date, the assignment due date in [Canvas](https://tulane.instructure.com/) supersedes anything posted here.**
-* All Demo Notebooks can be [found here on Github](https://github.com/nmattei/cmps3160/tree/master/_notebooks).
-* All slides including the pre-class announcements can be found [(Powerpoint and PDF) here on Google Drive!](https://drive.google.com/drive/folders/1MHB57vsMR-00BocZjxsRy2i-ZGSmZhPP?usp=sharing)
-* Recordings of every lecture is available in [Canvas](https://tulane.instructure.com/)
+* All Demo Notebooks can be [found here on Github](https://github.com/nmattei/cmps3160/tree/master/_demos).
+* All slides including the pre-class announcements can be found [(Powerpoint and PDF) here on Google Drive!](https://drive.google.com/drive/folders/1dS5_nX22YrWm3Ohm_psQaHgZtdMXrikS?usp=sharing)
 
 **Due to a weird iframe glitch you need to right click and open in new window links below :-)**
 
