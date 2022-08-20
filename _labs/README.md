@@ -1,0 +1,2 @@
+- [![Lab01: Getting Started](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nmattei/cmps3160/blob/master/_labs/Lab01/Lab01.ipynb)
+- [![Lab02: Loading and Representing Data](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nmattei/cmps3160/blob/master/_labs/Lab02/Lab02.ipynb)
