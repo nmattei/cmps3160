@@ -16,4 +16,4 @@ You can start each lab in Colab by clicking on the link below.
 |09| Classification| [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nmattei/cmps3160/blob/master/_labs/Lab09/Lab09.ipynb)|
 |10| Scraping| [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nmattei/cmps3160/blob/master/_labs/Lab10/Lab10.ipynb)|
 |11| Messy Data| [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nmattei/cmps3160/blob/master/_labs/Lab11/Lab11.ipynb)|
-|12| Probabilstic Modeling| [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nmattei/cmps3160/blob/master/_labs/Lab12/Lab12.ipynb)|
+|12| Probabilistic Modeling| [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nmattei/cmps3160/blob/master/_labs/Lab12/Lab12.ipynb)|
