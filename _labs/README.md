@@ -1,3 +1,8 @@
+# Labs
+
+You can start each lab in Colab by clicking on the link below.
+
+
 | Lab   | Topic  | Link |
 |-------|--------|------|
 |01| Getting Started | [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nmattei/cmps3160/blob/master/_labs/Lab01/Lab01.ipynb)|
