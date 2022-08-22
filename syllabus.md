@@ -48,7 +48,7 @@ Karthik, Sam, Prof. Mattei, and Prof. Culotta all have drop in office hours and 
 * **Lectures Times:** Monday, Wednesday, Friday, 13:00 - 13:50
 * **Room:** Gibson ([Building 1](https://tulane.edu/maps-directions)) -- Room 126A
 * **Office:** Stanley Thomas 303B
-* **Office Hours:** **TBD** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+* **Office Hours:** **M 2-3p** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 
 ## Course Communication Policy
 
