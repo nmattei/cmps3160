@@ -141,7 +141,7 @@ Throughout the semester we will regularly complete short in class exercises such
 
 ### Labs and Pre-Lab Questions
 
-Every Friday in class will be interactive lab time. **Before Friday** you will be required to answer a few short questions in the form of a Canvas Quiz. In class you will have the oppertunity to work on the Labs with the instructor and TAs. On these days it will be important to bring a laptop to class to participate in the work.  Labs will be worth 10 points each and graded based the rubric in Canvas.
+Every Friday in class will be interactive lab time. **Before Friday** you will be required to answer a few short questions in the form of a Canvas Quiz. In class you will have the opportunity to work on the Labs with the instructor and TAs. On these days it will be important to bring a laptop to class to participate in the work.  Labs will be worth 10 points each and graded based the rubric in Canvas.
 
 The best way to learn is by doing, so these will largely be applied assignments that provide hands-on experience with the basic skills a data scientist needs in industry. **Posting solutions publicly online without the staff's express consent is a direct violation of our academic integrity policy. Late assignments will not be accepted.**
 
@@ -236,6 +236,8 @@ Recording class sessions: Classes will be recorded and the recordings will be po
 
 ### Code of Academic Conduct and Academic Integrity
 This course will follow Tulane's Code of Academic Conduct. Cheating will be reported to the Associate Dean of Newcomb-Tulane College. Discussion is encouraged. However, what you turn in must be your own. You may not read another classmate’s solutions or copy a solution from the web.  **I will be running checks on the code turned in for plagiarism.  If plagiarism is detected the minimum penalty is a 0 on the assignment and being reported, however, you may automatically fail this course at the discretion of the instructor or Honor Board.**
+
+For more information about the honor board process and the code of academic conduct please see the [NTC Academic Integrity Website](https://college.tulane.edu/academics/academic-integrity).
 
 To be more clear (text from Hal Daumé III): **Any assignment or exam that is handed in must be your own work (unless otherwise stated). However, talking with one another to understand the material better is strongly encouraged.** Recognizing the distinction between cheating and cooperation is very important. If you copy someone else's solution, you are cheating. If you let someone else copy your solution, you are cheating (this includes posting solutions online in a public place). If someone dictates a solution to you, you are cheating.
 
