@@ -1,3 +1,0 @@
-- Make sure students open by navigating to github and clicking on the "open in collab" button. Some people navigated in the folder in collab and tried to open the notebook there, but that just shows you the file in markdown.
-- People have multiple gmail accounts. Need to make sure they're using one in all places.
-- FIXME: Decimal places count variable - expected output of .describe should show .00000. Currently it's the output of .to_markdown(), which rounds. 
