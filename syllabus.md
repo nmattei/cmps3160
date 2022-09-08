@@ -109,7 +109,7 @@ There is no required textbook for this course, however there are two texts that 
 
 * *Data Science from Scratch: First Principles with Python, Second Edition*, Joel Grus. O’Reilly Media, 2019. Code but not text available on [GitHub](https://github.com/joelgrus/data-science-from-scratch).
 
-* *Practical Statistics for Data Scientists: 50 Essential Concepts*, Peter Bruce and Andrew Bruce. O'Reilly Media, 2017.  [Text of 2nd Printing available online](https://math2510.coltongrainger.com/books/2017-bruce-and-bruce-pratical-statistics-for-data-scientists.pdf).  Code available on [GitHub](https://github.com/andrewgbruce/statistics-for-data-scientists).
+* *Practical Statistics for Data Scientists: 50 Essential Concepts*, Peter Bruce and Andrew Bruce. O'Reilly Media, 2017.  [Text of 2nd Printing available online](https://github.com/ghoshark/E_Books/blob/master/Practical%20Statistics%20for%20Data%20Scientists.pdf).  Code available on [GitHub](https://github.com/andrewgbruce/statistics-for-data-scientists).
 
 **Other Good Online Books:**
 
@@ -174,9 +174,10 @@ Graduate students who enroll in this course will be required to complete their f
 
 All work must be turned in on time unless explicit consent for outstanding circumstances is given beforehand (or in the case of illness, with a documented absence after).  **Any late work without prior authorization will not be accepted and count as a 0.**
 
-### Final Grade Policy 
+### Final Grade Policy
 
 The weighted average will determine your letter grade roughly as follows, +/- grades will be given for borderline cases.
+
 * A >= 90%
 * B >= 80%
 * C >= 70%
@@ -235,6 +236,7 @@ Tulane University strives to make all learning experiences as accessible as poss
 Recording class sessions: Classes will be recorded and the recordings will be posted to Canvas. Students may not post a class recording elsewhere, either wholly or in part. Instructors may use a class recording in another course or in a subsequent semester.
 
 ### Code of Academic Conduct and Academic Integrity
+
 This course will follow Tulane's Code of Academic Conduct. Cheating will be reported to the Associate Dean of Newcomb-Tulane College. Discussion is encouraged. However, what you turn in must be your own. You may not read another classmate’s solutions or copy a solution from the web.  **I will be running checks on the code turned in for plagiarism.  If plagiarism is detected the minimum penalty is a 0 on the assignment and being reported, however, you may automatically fail this course at the discretion of the instructor or Honor Board.**
 
 For more information about the honor board process and the code of academic conduct please see the [NTC Academic Integrity Website](https://college.tulane.edu/academics/academic-integrity).
