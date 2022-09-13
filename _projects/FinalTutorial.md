@@ -88,6 +88,8 @@ You should submit the notebook through [Canvas](https://tulane.instructure.com/)
 
 ### Milestone 1 Scoring Rubric (20 Points)
 
+If you want to see some good examples of **Milestone 1**, see [Example 1](https://github.com/nmattei/cmps3160/blob/master/_projects/nick_final.ipynb) and [Example 2](https://github.com/nmattei/cmps3160/blob/master/_projects/wilson_final.ipynb). Note that some of the required elements of Milestone 1 have changed so always check the grading rubric to make sure you have all the required elements!
+
 * (4 Points) *Professionalism*: You have used both code comments and markdown cells to professionally and clearly document your work including having a clear and clean notebook; linking to resources and documents; and doing so with code that is reasonable and efficient.  Your notebook is correct and contains the required links.  In addition, you have written code that is interpretable -- it contains comments where needed to understand, variable names are reasonable, and code that is reasonable and efficient. You have followed directions to turn in the file, clearly labeling everything. You have cited all sources and how you used them in the written portion of your answers.
 * (4 Points) *Website*: Website is up, link was submitted and is correct.  Notebook is professional and clean, the names of the group members, a title for the project, and other good practices as this is *publicly posted*.
 * (4 Points) *Project Plan*: Project plan is in place, relevant data is identified and links are provided, there are draft questions or hypothesis that the student is going to explore.  Plan clearly explains how the data could be used to answer the question and addresses whether or not other data is needed.
