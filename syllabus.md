@@ -129,7 +129,7 @@ This course will consist of seven distinct grading areas.  Note that all point v
 * 24 (6%) Pre-Lab Questions
 * 55 (14%) Test 1
 * 55 (14%) Test 2
-* 125 (31%) Project (Milestone 1: 20, Milestone 2: 20, Milestone 3: 85)
+* 125 (31%) Project (Milestone 1: 20, Milestone 2: 20, Project Presentation: 20, Final Notebook: 65)
 
 An important aspect of this course is becoming a better coder. Hence all coding assignments will consist of a *Professionalism* component. One handy resource for this is [Arie’s Coding Guide](https://nmattei.github.io/cmps3140/codingguide). Note that this was written for Intro. to AI CMPS 3140 but many of the same issues apply to this course.
 
