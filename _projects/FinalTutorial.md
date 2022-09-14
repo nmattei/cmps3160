@@ -72,7 +72,7 @@ This list is just to give you some ideas.  Please feel free to scrape websites (
 
 GitHub provides a service called Pages <https://pages.github.com/> that provides website hosting functionality backed by a GitHub-based git repository. We would like you to host your final project on a GitHub Pages project site. To do this, you will need to:
 
-1. Create a GitHub account (or use the one you already have from Project0) with your username `username`. Note that if you want to make it a repository specific webpage instead of your userpage then please go ahead.
+1. Create a GitHub account (or use the one you already have) with your username `username`. Note that if you want to make it a repository specific webpage instead of your userpage then please go ahead.
 2. Create a git repository titled `username.github.io`; make sure `username` is the same as whatever you chose for your global GitHub account.
 3. Create a project within this repository. This is where you’ll dump your iPython Notebook file and an HTML export of that Notebook file.
 
@@ -82,7 +82,7 @@ In order to make your webpage open up the notebook and make sure everything is a
 
 ### Milestone 1 Submission
 
-You should submit the notebook through [Canvas](https://tulane.instructure.com/).  In the absolute first cell of your notebook you must include your names, project title, and a **a hyperlink to your webpage at github.io; the webpage must be publicly readable on the internet (i.e, live) and must contain the same work that is in the submitted notebook**.  That is: the first cell of your notebook must be a markdown cell with a hyperlink to the generated webpage up at `yourname.github.io`.  If this is not correct you will lose points. After this first cell you should continue with the other requirements including a description of your project, links to the data and other relevant resources, a collaboration plan, and the project goals.
+You should submit the notebook through [Canvas](https://tulane.instructure.com/).  In the absolute first cell of your notebook you must include your names, project title, and **a hyperlink to your webpage at github.io; the webpage must be publicly readable on the internet (i.e, live) and must contain the same work that is in the submitted notebook**.  That is: the first cell of your notebook must be a markdown cell with a hyperlink to the generated webpage up at `yourname.github.io`.  If this is not correct you will lose points. After this first cell you should continue with the other requirements including a description of your project, links to the data and other relevant resources, a collaboration plan, and the project goals.
 
 *If you do this in a group, only one student per group needs to upload the notebook to canvas, but both names should be clearly at the beginning of the notebook.*
 
