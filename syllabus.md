@@ -109,7 +109,7 @@ There is no required textbook for this course, however there are two texts that 
 
 * *Data Science from Scratch: First Principles with Python, Second Edition*, Joel Grus. O’Reilly Media, 2019. Code but not text available on [GitHub](https://github.com/joelgrus/data-science-from-scratch).
 
-* *Practical Statistics for Data Scientists: 50 Essential Concepts*, Peter Bruce and Andrew Bruce. O'Reilly Media, 2017.  [Text of 2nd Printing available online](https://math2510.coltongrainger.com/books/2017-bruce-and-bruce-pratical-statistics-for-data-scientists.pdf).  Code available on [GitHub](https://github.com/andrewgbruce/statistics-for-data-scientists).
+* *Practical Statistics for Data Scientists: 50 Essential Concepts*, Peter Bruce and Andrew Bruce. O'Reilly Media, 2017.  [Text of 2nd Printing available online](https://github.com/ghoshark/E_Books/blob/master/Practical%20Statistics%20for%20Data%20Scientists.pdf).  Code available on [GitHub](https://github.com/andrewgbruce/statistics-for-data-scientists).
 
 **Other Good Online Books:**
 
@@ -129,7 +129,7 @@ This course will consist of seven distinct grading areas.  Note that all point v
 * 24 (6%) Pre-Lab Questions
 * 55 (14%) Test 1
 * 55 (14%) Test 2
-* 125 (31%) Project (Milestone 1: 20, Milestone 2: 20, Milestone 3: 85)
+* 125 (31%) Project (Milestone 1: 20, Milestone 2: 20, Project Presentation: 20, Final Notebook: 65)
 
 An important aspect of this course is becoming a better coder. Hence all coding assignments will consist of a *Professionalism* component. One handy resource for this is [Arie’s Coding Guide](https://nmattei.github.io/cmps3140/codingguide). Note that this was written for Intro. to AI CMPS 3140 but many of the same issues apply to this course.
 
@@ -141,7 +141,7 @@ Throughout the semester we will regularly complete short in class exercises such
 
 ### Labs and Pre-Lab Questions
 
-Every Friday in class will be interactive lab time. **Before Friday** you will be required to answer a few short questions in the form of a Canvas Quiz. In class you will have the oppertunity to work on the Labs with the instructor and TAs. On these days it will be important to bring a laptop to class to participate in the work.  Labs will be worth 10 points each and graded based the rubric in Canvas.
+Every Friday in class will be interactive lab time. **Before Friday** you will be required to answer a few short questions in the form of a Canvas Quiz. In class you will have the opportunity to work on the Labs with the instructor and TAs. On these days it will be important to bring a laptop to class to participate in the work.  Labs will be worth 10 points each and graded based the rubric in Canvas.
 
 The best way to learn is by doing, so these will largely be applied assignments that provide hands-on experience with the basic skills a data scientist needs in industry. **Posting solutions publicly online without the staff's express consent is a direct violation of our academic integrity policy. Late assignments will not be accepted.**
 
@@ -174,9 +174,10 @@ Graduate students who enroll in this course will be required to complete their f
 
 All work must be turned in on time unless explicit consent for outstanding circumstances is given beforehand (or in the case of illness, with a documented absence after).  **Any late work without prior authorization will not be accepted and count as a 0.**
 
-### Final Grade Policy 
+### Final Grade Policy
 
 The weighted average will determine your letter grade roughly as follows, +/- grades will be given for borderline cases.
+
 * A >= 90%
 * B >= 80%
 * C >= 70%
@@ -235,7 +236,10 @@ Tulane University strives to make all learning experiences as accessible as poss
 Recording class sessions: Classes will be recorded and the recordings will be posted to Canvas. Students may not post a class recording elsewhere, either wholly or in part. Instructors may use a class recording in another course or in a subsequent semester.
 
 ### Code of Academic Conduct and Academic Integrity
+
 This course will follow Tulane's Code of Academic Conduct. Cheating will be reported to the Associate Dean of Newcomb-Tulane College. Discussion is encouraged. However, what you turn in must be your own. You may not read another classmate’s solutions or copy a solution from the web.  **I will be running checks on the code turned in for plagiarism.  If plagiarism is detected the minimum penalty is a 0 on the assignment and being reported, however, you may automatically fail this course at the discretion of the instructor or Honor Board.**
+
+For more information about the honor board process and the code of academic conduct please see the [NTC Academic Integrity Website](https://college.tulane.edu/academics/academic-integrity).
 
 To be more clear (text from Hal Daumé III): **Any assignment or exam that is handed in must be your own work (unless otherwise stated). However, talking with one another to understand the material better is strongly encouraged.** Recognizing the distinction between cheating and cooperation is very important. If you copy someone else's solution, you are cheating. If you let someone else copy your solution, you are cheating (this includes posting solutions online in a public place). If someone dictates a solution to you, you are cheating.
 
