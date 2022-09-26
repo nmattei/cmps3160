@@ -1,0 +1,5 @@
+For Lab05, you may get some encoding errors when trying to read the Movie Lens data. Please add this parameter when calling read_csv:
+
+encoding="ISO-8859-1" 
+
+The problem is that the file is encoded in the text format ISO-8859, but read_csv is assuming utf8 encoding.
