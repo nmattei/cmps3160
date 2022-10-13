@@ -51,9 +51,9 @@ This list is just to give you some ideas.  Please feel free to scrape websites (
 * [GitHub Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) list of datasets that are open and public around the Internet.
 * [Think Stats Datasets](https://docs.google.com/spreadsheets/d/e/2PACX-1vQlv2BpO7TsU2UAE7iQwCUxvxn9LTXEPPj5EnA0l9-DJSwCDZU0xg_IhWBItZ7bNvZ_BnznuOrYYy0i/pubhtml) list of interesting datasets from a class very much like this one.
 * [Data.Nola.Gov](https://data.nola.gov/browse) list of open datasets from NOLA including lots of financial, voting, etc.
-* [IPUMS](https://ipums.org/) provides census and survey data from around the world integrated across time and space. IPUMS integration and documentation makes it easy to study change, conduct comparative research, merge information across data types, and analyze individuals within family and community contexts. 
+* [IPUMS](https://ipums.org/) provides census and survey data from around the world integrated across time and space. IPUMS integration and documentation makes it easy to study change, conduct comparative research, merge information across data types, and analyze individuals within family and community contexts.
 * [Pew Research Center Data](https://www.pewresearch.org/download-datasets/) Data from the Pew Research Center, mostly public opinion polls of thousands of different things!
-* [US Census](https://data.census.gov/cedsci/) Easy to use data from all the Censuses including many things like names, income, and more! -- More specifically https://www.census.gov/programs-surveys/acs
+* [US Census](https://data.census.gov/cedsci/) Easy to use data from all the Censuses including many things like names, income, and more! -- More specifically <https://www.census.gov/programs-surveys/acs>
 * [IRS](https://www.irs.gov/statistics) The IRS publishes all kinds of data including incomes and historical time series.
 * [The Data Center New Orleans](https://www.datacenterresearch.org/data-resources/) New Orleans specific data of all kinds!
 * [Five Thirty Eight Data](https://github.com/fivethirtyeight/data) Data from the website FiveThirtyEight -- much of this is cleaned and used for their reporting.  If you use one of these datasets I expect you to link to an article of theirs using it!
@@ -82,7 +82,8 @@ In order to make your webpage open up the notebook and make sure everything is a
 
 **Note for 2022 CoLab Students:** CoLab does not have a "Download as HTML Button" -- in order to download your notebook as HTML you need to issue the following command in a cell of your notebook:
 
-```%%shell
+```
+%%shell
 jupyter nbconvert --to html /PATH/TO/YOUR/NOTEBOOKFILE.ipynb
 ```
 
@@ -150,7 +151,7 @@ Some resources for giving a good talk:
 
 ### Deliverable 1 Scoring Rubric (20 Points)
 
-* (4 Points) *Professionalism*: Are the slides well constructed?  Are the graphs labeled and clear?  Did you speak clearly and have a plan for the discussion? 
+* (4 Points) *Professionalism*: Are the slides well constructed?  Are the graphs labeled and clear?  Did you speak clearly and have a plan for the discussion?
 * (4 Points) *Organization*: Was the talk clearly organized?  Did you explain where your data came from, why the question was important, and what the outcomes are?  You should address each stage of the DataScience LifeCycle in this talk.
 * (4 Points) *Data and Motivation*: Does the talk make the reader believe the topic is important (a) in general and (b) with respect to data science? Does the data you selected allow you to answer the question you set out for?  Is there a clear and explainable question being answered by this data?
 * (4 Points) *Model and Science*: Did you clearly explain why you performed the analyses you chose?  Did you adequately defend any assumptions you made for your model?  Does your analysis support your conclusions?
@@ -190,7 +191,7 @@ In general, the tutorial should contain at least 1500 words of prose and 150 lin
 
 | Full    |    Good |  Okay |   Lacking   |   Poor  | No Marks |
 | : ---- :| : ---- :| : ---- :| : ---- :| : ---- :| : ---- : |
-| You completely and fully met the criteria described. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed components of the required criteria and/or they are incorrect / inappropriate or lack depth. | You have missed major components of the required criteria and/or may of them are incorrect. | Little to no evidence of work and major missing components. | Missing or completely inadequate. | 
+| You completely and fully met the criteria described. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed components of the required criteria and/or they are incorrect / inappropriate or lack depth. | You have missed major components of the required criteria and/or may of them are incorrect. | Little to no evidence of work and major missing components. | Missing or completely inadequate. |
 
 ### Final Notebook Submission
 
