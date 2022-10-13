@@ -80,6 +80,14 @@ These instructions are also given directly on the front page of <https://pages.g
 
 In order to make your webpage open up the notebook and make sure everything is as you like it (cells and outputs are showing, no error messages, etc.).  Then go to `File >> Download As >>` and download the notebook as HTML.  This will save the HTML files to your disk.  You will then need to rename this to index.html and upload it into your github.io page.  Once this is done, navigate to `username.github.io` and make sure the notebook is displayed as you like!
 
+**Note for 2022 CoLab Students:** CoLab does not have a "Download as HTML Button" -- in order to download your notebook as HTML you need to issue the following command in a cell of your notebook:
+
+```%%shell
+jupyter nbconvert --to html /PATH/TO/YOUR/NOTEBOOKFILE.ipynb
+```
+
+You will need to replace the path to your notebook file with the path to your actual notebook file. Once you issue that command in CoLab you will see a NOTEBOOKFILE.html file in the same directory that you issue the command in. You will need to download that file, then upload it to the repo that you created on github.io.
+
 ### Milestone 1 Submission
 
 You should submit the notebook through [Canvas](https://tulane.instructure.com/).  In the absolute first cell of your notebook you must include your names, project title, and **a hyperlink to your webpage at github.io; the webpage must be publicly readable on the internet (i.e, live) and must contain the same work that is in the submitted notebook**.  That is: the first cell of your notebook must be a markdown cell with a hyperlink to the generated webpage up at `yourname.github.io`.  If this is not correct you will lose points. After this first cell you should continue with the other requirements including a description of your project, links to the data and other relevant resources, a collaboration plan, and the project goals.
