@@ -78,8 +78,6 @@ GitHub provides a service called Pages <https://pages.github.com/> that provides
 
 These instructions are also given directly on the front page of <https://pages.github.com/>; following those instructions should be fine!
 
-In order to make your webpage open up the notebook and make sure everything is as you like it (cells and outputs are showing, no error messages, etc.).  Then go to `File >> Download As >>` and download the notebook as HTML.  This will save the HTML files to your disk.  You will then need to rename this to index.html and upload it into your github.io page.  Once this is done, navigate to `username.github.io` and make sure the notebook is displayed as you like!
-
 **Note for 2022 CoLab Students:** CoLab does not have a "Download as HTML Button" -- in order to download your notebook as HTML you need to issue the following command in a cell of your notebook:
 
 ```
@@ -87,7 +85,9 @@ In order to make your webpage open up the notebook and make sure everything is a
 jupyter nbconvert --to html /PATH/TO/YOUR/NOTEBOOKFILE.ipynb
 ```
 
-You will need to replace the path to your notebook file with the path to your actual notebook file. Once you issue that command in CoLab you will see a NOTEBOOKFILE.html file in the same directory that you issue the command in. You will need to download that file, then upload it to the repo that you created on github.io.
+You will need to replace the path to your notebook file with the path to your actual notebook file. Once you issue that command in CoLab you will see a `NOTEBOOKFILE.html` file in the same directory that you issue the command in. You will need to download that file, then upload it to the repo that you created on github.io.
+
+~~In order to make your webpage open up the notebook and make sure everything is as you like it (cells and outputs are showing, no error messages, etc.).  Then go to `File >> Download As >>` and download the notebook as HTML.  This will save the HTML files to your disk.~~  You will then need to rename this to index.html and upload it into your github.io page.  Once this is done, navigate to `username.github.io` and make sure the notebook is displayed as you like!
 
 ### Milestone 1 Submission
 
