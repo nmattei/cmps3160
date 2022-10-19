@@ -24,7 +24,7 @@ Karthik, Sam, Prof. Mattei, and Prof. Culotta all have drop in office hours and 
 ### Teaching Assistants
 
 * **Graduate Assistant** Karthik Shivaram <kshvaram@tulane.edu>
-  * **Office Hours** **Fiiidays, 11:30 - 12:30**, ST 309 and on Zoom, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+  * **Office Hours** **Friday, 11:30 - 12:30**, ST 309 and on Zoom, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 * **Undergraduate Assistant**  Samuel Kellum <skellum@tulane.edu>
   * **Office Hours** **Tuesday/Thursday 17:00 - 19:00**, Zoom only, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 * **Undergraduate Assistant**  Liam (William) Healy <whealy@tulane.edu >
