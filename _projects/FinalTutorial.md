@@ -163,6 +163,34 @@ Some resources for giving a good talk:
 
 ### Schedule (TBD)
 
+| Team Members                         | Title / Topic                                           | Link to Webpage                                              |
+|--------------------------------------|---------------------------------------------------------|--------------------------------------------------------------|
+| Owen Butler                          | Movie Aspect Understanding                              | <https://ozbutler12.github.io/>                                |
+| Chris Callahan and Mikey Sison       | Where Does Foreign Aid Go?                              | <https://chriscallahan99.github.io/DataScience_Final_Project/> |
+| Robbie Case and Zack Wellman         | US Congress Insider Trading Analysis                    | <https://robbiecase.github.io/>                                |
+| Haochen Chen and Maria Chen          | Football Player and Team Performance                    | <https://alphardovo.github.io/>                                |
+| Thomas Cutro and Joeseph Wagner      | Analysis of Opioid Drug Overdoses                       | <https://tcutro1.github.io/final-project/>                     |
+| Anton De Franco                      | PPP Loan Analysis                                       | <https://antondefranco.github.io/>                             |
+| Yali Tiomkin and Rafi Deykin         | Louisiana Health Insurance and Disability               | <https://rdeykin.github.io/>                                   |
+| Kerui Geng                           | Predicting Buyers Behavior                              | <https://keruigeng.github.io/>                                 |
+| Adam Goodman and Ethan Perello       | Student Success                                         | <https://github.com/EthanPerello/Data-Science-Project>         |
+| Jonathan Licht and Jim Haines        | Drug/Alcohol Use by State                               | <https://jlicht27.github.io/>                                  |
+| Emma LeBouef                         | F1 Performance and Economic Indicators                  | <https://emmalebouef.github.io/>                               |
+| Maddie Bonanno and Riley Martin      | Migraine Comorbidity Crossover                          | <https://mscb25.github.io/datasci-final-maddieriley/>          |
+| Josh McCoy and Zach Goodman          | Factors in NFL Game Score                               | <https://joshmccoy2.github.io/>                                |
+| Sarah Helmbrecht and JT McDermott    | Famous People You've Never Heard Of                     | <https://skhelmbrecht.github.io/>                              |
+| Amara Midouhas and Rehan Mullan      | Infulence of News Media on Stock Price                  | <https://rehan072.github.io/>                                  |
+| Hayden Outlaw                        | Natural Disasters and Geographical Impact               | <https://outlawhayden.github.io/>                              |
+| Jack Johnson and Kelsey Peltz        | Blackjack Analysis                                      | <https://blackjackproject.github.io/>                          |
+| Lorena Peñuela Cantor                | E-Commerce Business Data Analytics                      | <https://lpenuelac.github.io/>                                 |
+| Carly Presz and Evan Hendrickson     | MLB Stadium Analysis                                    | <https://cpresz.github.io/>                                    |
+| Sam DeMarinis and Nick Radwin        | Fake News on Facebook Engagement                        | <https://nradwin.github.io/>                                   |
+| Shira Rozenthal and Marco Carbullido | Senate-Optimized S&P500                                 | <https://shirarozenthal.github.io/shirarozenthal/>             |
+| Thien Tran                           | United States Cancer Statistics 1999-2018               | <https://httran158.github.io/>                                 |
+| Nathaniel Vaduthala                  | An Analysis of Commonly Held Fan Beliefs About Referees | <https://nvaduthala3.github.io/>                               |
+| Qinzheng Xu                          | Exploratory Analysis of The Financial Analyst Forecast  | <https://github.com/xu000112-bit/Analyst>                      |
+| Jingzhi Yang                         | Credit Card Approval Analysis                           | <https://yship1002.github.io/>                                 |
+
 **Note:** You must upload your slides through [Canvas](https://tulane.instructure.com/) **at least 2 hours before class time on the day of your presentation**.  Failure to do this will result in a minimum of all points lost for *Professionalism*. You will be required to be in person to present unless you have made other arrangements with me. I will compile all slides into one deck for the individual presentation days.
 
 ### Deliverable 1 Submission
