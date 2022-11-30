@@ -142,12 +142,18 @@ You should submit the notebook through [Canvas](https://tulane.instructure.com/)
 
 ## Deliverable 1: Final Presentation
 
-You (and your partner) will give a 5-7 minute presentation in class to your peers.  In this presentation you are role playing a bit -- your job is to convince the audience that the problem you investigated was interesting and meaningful.  An ideal talk will cover every step of the Data Lifecycle that we have discussed in class: (1) an introduction of the problem and what question you want to solve, (2) where you got your data as well as briefly how you loaded and preprocessed your data, (3) some exploratory analysis to show important features, (4) a hypothesis about the data and supporting evidence, (5) an important conclusion to draw from your data. **Your presentation should only consist of 5-7 slides -- one for each step!!**
+You (and your partner) will give a 5-6 minute presentation in class to your peers.  In this presentation you are role playing a bit -- your job is to convince the audience that the problem you investigated was interesting and meaningful.  An ideal talk will cover every step of the Data Lifecycle that we have discussed in class: (1) an introduction of the problem and what question you want to solve, (2) where you got your data as well as briefly how you loaded and preprocessed your data, (3) some exploratory analysis to show important features, (4) a hypothesis about the data and supporting evidence, (5) an important conclusion to draw from your data. **Your presentation should only consist of 5-7 slides -- one for each step!!**
 
 Some resources for giving a good talk:
 
 1. Simon Peyton Jones, [How To Give a Great Research Talk](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/)
 2. Matt Might, [10 Tips for Academic Talks](http://matt.might.net/articles/academic-presentation-tips/)
+
+Here are some past short decks that are very good:
+1. Sam Bruchhaus [Saints Third Down Analysis](https://github.com/sambruchhaus/saints-third-downs/blob/main/3rd%20Down%20Analysis.pdf)
+2. Nick Ouellet and Garrett Gilliom [Education in LA and NJ](https://github.com/nmattei/cmps3160/blob/master/_projects/nick_final.pdf)
+3. Ila Keshishian and Bennett Kahn [NOLA Court Docket and Police Analysis](https://github.com/nmattei/cmps3160/blob/master/_projects/khan_final.pdf)
+2. Zachary Airington [It's all Fake News: Big 5 Personality Types and Conspiracy](https://github.com/nmattei/cmps3160/blob/master/_projects/zach_final.pdf)
 
 ### Deliverable 1 Scoring Rubric (20 Points)
 
@@ -161,35 +167,49 @@ Some resources for giving a good talk:
 | : ---- :| : ---- :| : ---- :| : ---- :| : ---- :| : ---- : |
 | You completely and fully met the criteria described. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed components of the required criteria and/or they are incorrect / inappropriate or lack depth. | You have missed major components of the required criteria and/or may of them are incorrect. | Missing or completely inadequate. |
 
-### Schedule (TBD)
+### Schedule
+
+
+
+#### Monday Dec 5th
+
+| Team Members                         | Title / Topic                                           | Link to Webpage                                              |
+|--------------------------------------|---------------------------------------------------------|--------------------------------------------------------------|
+| Robbie Case and Zack Wellman         | US Congress Insider Trading Analysis                    | <https://robbiecase.github.io/>                                |
+| Jack Johnson and Kelsey Peltz        | Blackjack Analysis                                      | <https://blackjackproject.github.io/>                          |
+| Anton De Franco                      | PPP Loan Analysis                                       | <https://antondefranco.github.io/>                             |
+| Hayden Outlaw                        | Natural Disasters and Geographical Impact               | <https://outlawhayden.github.io/>                              |
+| Jingzhi Yang                         | Credit Card Approval Analysis                           | <https://yship1002.github.io/>                                 |
+| Sarah Helmbrecht and JT McDermott    | Famous People You've Never Heard Of                     | <https://skhelmbrecht.github.io/>                              |
+| Lorena Peñuela Cantor                | E-Commerce Business Data Analytics                      | <https://lpenuelac.github.io/>                                 |
+| Carly Presz and Evan Hendrickson     | MLB Stadium Analysis                                    | <https://cpresz.github.io/>                                    |
+
+#### Wednesday Dec 7th
+
+| Team Members                         | Title / Topic                                           | Link to Webpage                                              |
+|--------------------------------------|---------------------------------------------------------|--------------------------------------------------------------|
+| Josh McCoy and Zach Goodman          | Factors in NFL Game Score                               | <https://joshmccoy2.github.io/>                                |
+| Chris Callahan and Mikey Sison       | Where Does Foreign Aid Go?                              | <https://chriscallahan99.github.io/DataScience_Final_Project/> |
+| Adam Goodman and Ethan Perello       | Student Success                                         | <https://github.com/EthanPerello/Data-Science-Project>         |
+| Amara Midouhas and Rehan Mullan      | Infulence of News Media on Stock Price                  | <https://rehan072.github.io/>                                  |
+| Sam DeMarinis and Nick Radwin        | Fake News on Facebook Engagement                        | <https://nradwin.github.io/>                                   |
+| Haochen Chen and Maria Chen          | Football Player and Team Performance                    | <https://alphardovo.github.io/>                                |
+| Yali Tiomkin and Rafi Deykin         | Louisiana Health Insurance and Disability               | <https://rdeykin.github.io/>                                   |
+| Maddie Bonanno and Riley Martin      | Migraine Comorbidity Crossover                          | <https://mscb25.github.io/datasci-final-maddieriley/>          |
+| Thomas Cutro and Joeseph Wagner      | Analysis of Opioid Drug Overdoses                       | <https://tcutro1.github.io/final-project/>                     |
+
+#### Friday Dec 9th
 
 | Team Members                         | Title / Topic                                           | Link to Webpage                                              |
 |--------------------------------------|---------------------------------------------------------|--------------------------------------------------------------|
 | Owen Butler                          | Movie Aspect Understanding                              | <https://ozbutler12.github.io/>                                |
-| Chris Callahan and Mikey Sison       | Where Does Foreign Aid Go?                              | <https://chriscallahan99.github.io/DataScience_Final_Project/> |
-| Robbie Case and Zack Wellman         | US Congress Insider Trading Analysis                    | <https://robbiecase.github.io/>                                |
-| Haochen Chen and Maria Chen          | Football Player and Team Performance                    | <https://alphardovo.github.io/>                                |
-| Thomas Cutro and Joeseph Wagner      | Analysis of Opioid Drug Overdoses                       | <https://tcutro1.github.io/final-project/>                     |
-| Anton De Franco                      | PPP Loan Analysis                                       | <https://antondefranco.github.io/>                             |
-| Yali Tiomkin and Rafi Deykin         | Louisiana Health Insurance and Disability               | <https://rdeykin.github.io/>                                   |
-| Kerui Geng                           | Predicting Buyers Behavior                              | <https://keruigeng.github.io/>                                 |
-| Adam Goodman and Ethan Perello       | Student Success                                         | <https://github.com/EthanPerello/Data-Science-Project>         |
-| Jonathan Licht and Jim Haines        | Drug/Alcohol Use by State                               | <https://jlicht27.github.io/>                                  |
-| Emma LeBouef                         | F1 Performance and Economic Indicators                  | <https://emmalebouef.github.io/>                               |
-| Maddie Bonanno and Riley Martin      | Migraine Comorbidity Crossover                          | <https://mscb25.github.io/datasci-final-maddieriley/>          |
-| Josh McCoy and Zach Goodman          | Factors in NFL Game Score                               | <https://joshmccoy2.github.io/>                                |
-| Sarah Helmbrecht and JT McDermott    | Famous People You've Never Heard Of                     | <https://skhelmbrecht.github.io/>                              |
-| Amara Midouhas and Rehan Mullan      | Infulence of News Media on Stock Price                  | <https://rehan072.github.io/>                                  |
-| Hayden Outlaw                        | Natural Disasters and Geographical Impact               | <https://outlawhayden.github.io/>                              |
-| Jack Johnson and Kelsey Peltz        | Blackjack Analysis                                      | <https://blackjackproject.github.io/>                          |
-| Lorena Peñuela Cantor                | E-Commerce Business Data Analytics                      | <https://lpenuelac.github.io/>                                 |
-| Carly Presz and Evan Hendrickson     | MLB Stadium Analysis                                    | <https://cpresz.github.io/>                                    |
-| Sam DeMarinis and Nick Radwin        | Fake News on Facebook Engagement                        | <https://nradwin.github.io/>                                   |
+| Qinzheng Xu                          | Exploratory Analysis of The Financial Analyst Forecast  | <https://github.com/xu000112-bit/Analyst>                      |
+| Nathaniel Vaduthala                  | An Analysis of Commonly Held Fan Beliefs About Referees | <https://nvaduthala3.github.io/>                               |
 | Shira Rozenthal and Marco Carbullido | Senate-Optimized S&P500                                 | <https://shirarozenthal.github.io/shirarozenthal/>             |
 | Thien Tran                           | United States Cancer Statistics 1999-2018               | <https://httran158.github.io/>                                 |
-| Nathaniel Vaduthala                  | An Analysis of Commonly Held Fan Beliefs About Referees | <https://nvaduthala3.github.io/>                               |
-| Qinzheng Xu                          | Exploratory Analysis of The Financial Analyst Forecast  | <https://github.com/xu000112-bit/Analyst>                      |
-| Jingzhi Yang                         | Credit Card Approval Analysis                           | <https://yship1002.github.io/>                                 |
+| Kerui Geng                           | Predicting Buyers Behavior                              | <https://keruigeng.github.io/>                                 |
+| Jonathan Licht and Jim Haines        | Drug/Alcohol Use by State                               | <https://jlicht27.github.io/>                                  |
+| Emma LeBouef                         | F1 Performance and Economic Indicators                  | <https://emmalebouef.github.io/>                               |
 
 **Note:** You must upload your slides through [Canvas](https://tulane.instructure.com/) **at least 2 hours before class time on the day of your presentation**.  Failure to do this will result in a minimum of all points lost for *Professionalism*. You will be required to be in person to present unless you have made other arrangements with me. I will compile all slides into one deck for the individual presentation days.
 
