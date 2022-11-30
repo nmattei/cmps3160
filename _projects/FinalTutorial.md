@@ -169,8 +169,6 @@ Here are some past short decks that are very good:
 
 ### Schedule
 
-
-
 #### Monday Dec 5th
 
 | Team Members                         | Title / Topic                                           | Link to Webpage                                              |
