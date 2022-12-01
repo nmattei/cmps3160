@@ -178,7 +178,6 @@ Here are some past short decks that are very good:
 | Anton De Franco                      | PPP Loan Analysis                                       | <https://antondefranco.github.io/>                             |
 | Hayden Outlaw                        | Natural Disasters and Geographical Impact               | <https://outlawhayden.github.io/>                              |
 | Jingzhi Yang                         | Credit Card Approval Analysis                           | <https://yship1002.github.io/>                                 |
-| Sarah Helmbrecht and JT McDermott    | Famous People You've Never Heard Of                     | <https://skhelmbrecht.github.io/>                              |
 | Lorena Peñuela Cantor                | E-Commerce Business Data Analytics                      | <https://lpenuelac.github.io/>                                 |
 | Carly Presz and Evan Hendrickson     | MLB Stadium Analysis                                    | <https://cpresz.github.io/>                                    |
 
@@ -208,6 +207,7 @@ Here are some past short decks that are very good:
 | Kerui Geng                           | Predicting Buyers Behavior                              | <https://keruigeng.github.io/>                                 |
 | Jonathan Licht and Jim Haines        | Drug/Alcohol Use by State                               | <https://jlicht27.github.io/>                                  |
 | Emma LeBouef                         | F1 Performance and Economic Indicators                  | <https://emmalebouef.github.io/>                               |
+| Sarah Helmbrecht and JT McDermott    | Famous People You've Never Heard Of                     | <https://skhelmbrecht.github.io/>                              |
 
 **Note:** You must upload your slides through [Canvas](https://tulane.instructure.com/) **at least 2 hours before class time on the day of your presentation**.  Failure to do this will result in a minimum of all points lost for *Professionalism*. You will be required to be in person to present unless you have made other arrangements with me. I will compile all slides into one deck for the individual presentation days.
 
