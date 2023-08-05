@@ -1,54 +1,39 @@
 ---
 layout: page
-title: Fall 2022 Syllabus
+title: Fall 2023 Syllabus
 subtitle:
 published: true
 ---
 
 # Introduction to Data Science
 
-* CMPS-3160/3160-01/02: Introduction to Data Science Fall 2022
+* CMPS-3160/6160: Introduction to Data Science Fall 2023
 * Tulane University
 * 3 Credit Hours
 * Prerequisite Courses: CMPS 1100  Foundations of Programming or CMPS 1500  Intro to Computer Science I, or consent of instructor.
 
-## Common Information for Both Sections
 
-Note that there are 2 sections of the course this year. This webpage and all assignments, and the TA/Office hours are common and students from both sections can use them, **however students must attend lectures in the section in which they are enrolled**.
-
-Karthik, Sam, Prof. Mattei, and Prof. Culotta all have drop in office hours and are available by appointment.  Please reach out to us directly to setup extra time if you need more support during the semester. If you need help please check the [discussion board on Canvas!](https://tulane.instructure.com/). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
-
-### Website Information
-
+* **Instructor:** Dr. Aron Culotta, <aculotta@tulane.edu>
+* **Lectures Times:** Monday, Wednesday, Friday, 12:00 - 12:50
+* **Room:** Gibson Hall 414
+* **Office:** Stanley Thomas 303B
+* **Office Hours:** **TBD** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
 * **GitHub:** [https://github.com/nmattei/cmps3160](https://github.com/nmattei/cmps3160)
 * **Canvas Page:** [Tulane Canvas](https://tulane.instructure.com/)
 
-### Teaching Assistants
+The instructor and TAs have office hours and are available by appointment.  Please reach out to us directly to setup extra time if you need more support during the semester. If you need help please check the [discussion board on Canvas!](https://tulane.instructure.com/). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
 
-* **Graduate Assistant** Karthik Shivaram <kshvaram@tulane.edu>
-  * **Office Hours** **TBD**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
-* **Undergraduate Assistant**  Samuel Kellum <skellum@tulane.edu>
-  * **Office Hours** **TBD**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
-* **Undergraduate Assistant**  TBD
-  * **Office Hours** **TBD**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 
-## Section 3160/6160-01: Prof. Mattei MWF 10:00 - 10:50, Boggs 240
+* ### Teaching Assistants
 
-* **Instructor:** Dr. Nicholas Mattei, <nsmattei@tulane.edu>
-* **Lectures Times:** Monday, Wednesday, Friday, 10:00 - 10:50AM
-* **Room:** Lindy Boggs ([Building 15](https://tulane.edu/maps-directions)) -- Room 240
-* **Online:** All lectures will be available and recorded on Zoom, see [Tulane Canvas](https://tulane.instructure.com/) for details.
-* **Office:** Stanley Thomas 402B
-* **Office Hours:** **TBD** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+* **Graduate Assistant** TBD <tbd@tulane.edu>
+  * **Office Hours** **TBD, TBD-TBD**, ST 309 and on Zoom, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+* **Undergraduate Assistant**  TBD <tbd@tulane.edu>
+  * **Office Hours** **Tuesday/Thursday 17:00 - 19:00**, Zoom only, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 
-## Section 3160/6160-02: Prof. Culotta MWF 13:00 - 13:50, Gibson 126A
 
-* **Instructor:** Dr. Aron Culotta, <aculotta@tulane.edu>
-* **Lectures Times:** Monday, Wednesday, Friday, 13:00 - 13:50
-* **Room:** Gibson ([Building 1](https://tulane.edu/maps-directions)) -- Room 126A
-* **Office:** Stanley Thomas 303B
-* **Office Hours:** **M 2-3p** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+
 
 ## Course Communication Policy
 
@@ -84,7 +69,7 @@ The course will use Python and be largely project and case study driven with stu
 
 Students should be comfortable with programming in at least one language (preferably [Python](https://www.python.org/)) and have had a reasonable amount of math background including one college level math course. There are many helpful tutorials and background material at the [Links & Resources Page](./resources.md), please make use of it.
 
-To start we'll be using [Google Colaboratory](https://colab.research.google.com/) to start the course and then move on to [Anaconda](https://www.continuum.io/), [Docker](https://www.docker.com/) and a number of packages including [NumPy](http://www.numpy.org/), [SciPy](https://www.scipy.org/), [SciKit](https://scikit-learn.org/stable/), and [Pandas](https://pandas.pydata.org/index.html).  You’ll be turning in projects using [GitHub](https://education.github.com/students) and [Git](https://git-scm.com/) so make sure you have an account!
+We'll be using [Google Colaboratory](https://colab.research.google.com/) and a number of packages including [NumPy](http://www.numpy.org/), [SciPy](https://www.scipy.org/), [SciKit](https://scikit-learn.org/stable/), and [Pandas](https://pandas.pydata.org/index.html).  
 
 ## Course Learning Outcomes
 
@@ -103,7 +88,7 @@ This course fulfills the requirement of **one** of the CMPS 3000-level or above 
 
 ## Required and Suggested Student Resources
 
-There is no required textbook for this course, however there are two texts that are **very strongly suggeted for purchase**.  We will make extensive use of online textbooks and articles for the required reading that you will be quizzed on.  You will also need access to a computer that you can install the required software ([Anaconda](https://www.anaconda.com/), [Docker](https://www.docker.com/)).  If you do not have access to a computer please see the instructor ASAP.
+There is no required textbook for this course, however there are two texts that are **very strongly suggeted for purchase**.  We will make extensive use of online textbooks and articles for the required reading that you will be quizzed on.  You will also need access to a computer complete the assignments. If you do not have access to a computer please see the instructor ASAP.
 
 **Books Highly Encouraged:**
 
@@ -164,7 +149,7 @@ In the interest of building students' public portfolios, and in the spirit of "l
 
 Graduate students who enroll in this course will be required to complete their final project/tutorial as an individual.
 
-## Policies Related to Turning in Work 
+## Policies Related to Turning in Work
 
 * All work will be turned in on [Canvas](https://tulane.instructure.com/).  All work will either be distributed via [Canvas](https://tulane.instructure.com/) or in the case of Labs and examples, via the [CMPS 3160 Github](https://github.com/nmattei/cmps3160).
 
