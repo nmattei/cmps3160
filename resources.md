@@ -10,8 +10,6 @@ Students are reminded to make use of office hours.  Please reach out to any of t
 
 Getting Started with Python:
 * [Code Academy Python](https://www.codecademy.com/learn/learn-python-3)
-* 
-
 * *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython* Wes McKinney, O'Reilly Media, 2017. Code and notebooks but not text available on [GitHub](https://github.com/wesm/pydata-book)
 * *Data Science from Scratch: First Principles with Python*, Joel Grus. O’Reilly Media, 2015. Code but not text available on [GitHub](https://github.com/joelgrus/data-science-from-scratch)
 * *Introduction to Machine Learning with Python: A Guide for Data Scientists*, Andreas C. Müller and Sarah Guido, O'Reilly Media, 2016.  Code but not text available on [GitHub](https://github.com/amueller/introduction_to_ml_with_python)
