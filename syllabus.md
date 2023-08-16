@@ -14,13 +14,12 @@ published: true
 
 
 * **Instructor:** Dr. Aron Culotta, <aculotta@tulane.edu>
-* **Lectures Times:** Monday, Wednesday, Friday, 12:00 - 12:50
+* **Lectures Times:** MWF 12:00 - 12:50
 * **Room:** Gibson Hall 414
 * **Office:** Stanley Thomas 303B
-* **Office Hours:** **TBD** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+* **Office Hours:** **M 2-3p** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
 * **GitHub:** [https://github.com/nmattei/cmps3160](https://github.com/nmattei/cmps3160)
-* **Canvas Page:** [Tulane Canvas](https://tulane.instructure.com/)
 
 The instructor and TAs have office hours and are available by appointment.  Please reach out to us directly to setup extra time if you need more support during the semester. If you need help please check the [discussion board on Canvas!](https://tulane.instructure.com/). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
 
