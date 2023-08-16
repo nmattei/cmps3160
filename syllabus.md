@@ -34,7 +34,6 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 
 
-
 ## Course Communication Policy
 
 There are a variety of methods you can use to get in touch with us, and we expect to be able to get in touch with you.  A few general policies.
@@ -120,9 +119,7 @@ An important aspect of this course is becoming a better coder. Hence all coding 
 
 ### In Class Activities, Participation, and Attendance
 
-Attendance will be monitored through an in-class survey (nearly) every day of class.  You are required to fill out this survey every day, synchronously in class unless you contact the instructor ahead of time to make alternative arrangements.
-
-Throughout the semester we will regularly complete short in class exercises such as brainstorming activities, think-pair-share, pre/post questions, and short answer writing. As we are online sometimes this may include posting things on the discussion board or answering a short quiz in Canvas on additional readings.  This may also include presenting/explaining answers to labs in class.
+Attendance will be monitored through an in-class activities. Throughout the semester we will regularly complete short in class exercises such as brainstorming activities, think-pair-share, pre/post questions, and short answer writing. This may also include presenting/explaining answers to labs in class.
 
 ### Labs and Pre-Lab Questions
 
@@ -185,11 +182,7 @@ Students are reminded to make use of office hours.  Please reach out to any of t
 
 ## Attendance
 
-**Students are required to attend all classes and labs (either in person or virtually) unless they are ill or prevented from attending by exceptional circumstances and with a valid excuse note.** Students are responsible for notifying instructors about absences that result from serious illnesses, injuries, or critical personal problems.  **Students with frequent absences will be reported and/or removed from the course according to university policy.**
-
-Faculty and students must comply with University policies on COVID-19 testing and isolation, which are [located here](https://tulane.edu/covid-19/health-strategies). Faculty and students are strongly encouraged to wear face coverings in all common areas, including classrooms, and follow social distancing rules. Failure to comply is a violation of the Code of Student Conduct and students will be subject to University discipline, which can include suspension or permanent dismissal.
-
-If a student cannot attend class for any reason, the student is responsible for communicating with their instructors to make up any work they may miss. Faculty will provide online options for class participation, outlined in this document, and unless a student is seriously ill, they are expected to use this option. The University Health Center will provide documentation verifying a student is ill, as well as verification that a student may return to class. With the approval of the Newcomb - Tulane College dean, an instructor may have a student who has excessive absences involuntarily withdrawn from a course with a WF grade after written warning at any time during the semester.
+**Students are required to attend all classes and labs unless they are ill or prevented from attending by exceptional circumstances and with a valid excuse note.** Students are responsible for notifying instructors about absences that result from serious illnesses, injuries, or critical personal problems.  **Students with frequent absences will be reported and/or removed from the course according to university policy.** If a student cannot attend class for any reason, the student is responsible for communicating with their instructors to make up any work they may miss. 
 
 ---
 
@@ -216,9 +209,6 @@ Please come talk to us if you feel you are behind or overwhelmed in this class. 
 
 Tulane University strives to make all learning experiences as accessible as possible. If you anticipate or experience academic barriers based on your disability, please let me know immediately so that we can privately discuss options. I will never ask for medical documentation from you to support potential accommodation needs. Instead, to establish reasonable accommodations, I may request that you register with the Goldman Center for Student Accessibility.  After registration, make arrangements with me as soon as possible to discuss your accommodations so that they may be implemented in a timely fashion. Goldman Center contact information: goldman@tulane.edu; (504) 862-8433; [http://accessibility.tulane.edu](http://accessibility.tulane.edu).
 
-### Recording of Class Sessions
-
-Recording class sessions: Classes will be recorded and the recordings will be posted to Canvas. Students may not post a class recording elsewhere, either wholly or in part. Instructors may use a class recording in another course or in a subsequent semester.
 
 ### Code of Academic Conduct and Academic Integrity
 
