@@ -6,15 +6,15 @@ published: true
 ---
 <p style="text-align:center;"><img src="{{ 'img/ds_cover.jpg' | relative_url }}" /></p>
 
-* CMPS-3160/3160: Introduction to Data Science, Tulane University, 3 Credit Hours
+* CMPS-3160/6160: Introduction to Data Science, Tulane University, 3 Credit Hours
 * Prerequisites: CMPS 1500 or CMPS 1100. In lieu of prerequisites as specified, contact instructor for permission to enroll.
 
 
 * **Instructor:** Dr. Saad Hassan (saadhassan at tulane.edu)
-* **Lectures Times:** TR 2:00 - 3:15
-* **Room:** 
+* **Lectures Times:** TR 2:00 PM - 3:15 PM
+* **Room:** Stanley Thomas 302
 * **Office:** Paul Hall 307
-* **Office Hours:** **Thursday 3:30 PM to 4:30 PMp** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+* **Office Hours:** Thursday 3:30 PM to 4:30 PM , and by and by appointment, Send an email at saadhassan at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
 * **GitHub:** [https://github.com/nmattei/cmps3160](https://github.com/nmattei/cmps3160)
 
@@ -25,6 +25,7 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 * **Graduate Assistant** Yunbei Zhang (yzhang111 at tulane.edu)
   * **Office Hours** TBD, By appointment
+
 * **Undergraduate Assistant**  Lorraine L Steigner (lsteigner@tulane.edu)
   * **Office Hours** TBD, By appointment
 
