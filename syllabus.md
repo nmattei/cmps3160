@@ -13,11 +13,11 @@ published: true
 * Prerequisite Courses: CMPS 1100  Foundations of Programming or CMPS 1500  Intro to Computer Science I, or consent of instructor.
 
 
-* **Instructor:** Dr. Aron Culotta (aculotta at tulane.edu)
-* **Lectures Times:** MWF 12:00 - 12:50
-* **Room:** Gibson Hall 414
-* **Office:** Stanley Thomas 303B
-* **Office Hours:** **M 2-3p** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+* **Instructor:** Dr. Saad Hassan (saadhassan at tulane.edu)
+* **Lectures Times:** TR 2:00 - 3:15
+* **Room:** 
+* **Office:** Paul Hall 307
+* **Office Hours:** **Thursday 3:30 PM to 4:30 PMp** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
 * **GitHub:** [https://github.com/nmattei/cmps3160](https://github.com/nmattei/cmps3160)
 
@@ -26,12 +26,10 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 * ### Teaching Assistants
 
-* **Graduate Assistant** Xintian Li (xli71 at tulane.edu)
-  * **Office Hours** By appointment
-* **Undergraduate Assistant**  Thalia Koutsougeras (tkoutsougeras at tulane.edu)
-  * **Office Hours** M 10a-12p; W 3-5p  ST316
-* **Undergraduate Assistant**  Grace Graves (ggraves at tulane.edu)
-  * **Office Hours** T 2-4p; R 2-4p  ST316
+* **Graduate Assistant** Yunbei Zhang (yzhang111 at tulane.edu)
+  * **Office Hours** TBD, By appointment
+* **Undergraduate Assistant**  Lorraine L Steigner (lsteigner@tulane.edu)
+  * **Office Hours** TBD, By appointment
 
 
 ## Course Communication Policy
