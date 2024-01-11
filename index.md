@@ -4,7 +4,7 @@ title: Introduction to Data Science
 subtitle: CMPS 3160/6160 - Fall 2023
 published: true
 ---
-<p style="text-align:center;"><img src="{{ 'img/ds_cover.jpg' | relative_url }}" /></p>
+<p style="text-align:center;"><img src="{{ 'img/ds_cover_new.jpeg' | relative_url }}" alt="Image of blue light emitting from all the continents in the world map."/></p>
 
 * CMPS-3160/6160: Introduction to Data Science, Tulane University, 3 Credit Hours
 * Prerequisites: CMPS 1500 or CMPS 1100. In lieu of prerequisites as specified, contact instructor for permission to enroll.
