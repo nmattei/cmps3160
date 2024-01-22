@@ -23,9 +23,9 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 * ### Teaching Assistants
 
-* **Graduate Assistant** Yunbei Zhang (yzhang111 at tulane.edu)
-  * **Office Hours** TBD, By appointment
+* **Graduate Assistant** Yunbei Zhang (yzhang111 at tulane.edu), Office: ST 309
+  * **Office Hours** Monday (3:00-5:00 PM), Wednesday (3:00-5:00 PM), Friday (4:00 to 6:00 PM), By appointment
 
-* **Undergraduate Assistant**  Lorraine L Steigner (lsteigner@tulane.edu)
-  * **Office Hours** TBD, By appointment
+* **Undergraduate Assistant**  Lorraine L Steigner (lsteigner@tulane.edu), Location: ST 316
+  * **Office Hours** Monday (5:00-7:00 PM), Tuesday (5:00-6:00 PM), Wednesday (5:00-6:00 PM), By appointment
 
