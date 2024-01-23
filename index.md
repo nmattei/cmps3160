@@ -13,7 +13,7 @@ published: true
 * **Instructor:** Dr. Saad Hassan (saadhassan at tulane.edu)
 * **Lectures Times:** TR 2:00 PM - 3:15 PM
 * **Room:** Stanley Thomas 302
-* **Office:** Paul Hall 307
+* **Office:** Paul Hall 307 (New Building next to ST)
 * **Office Hours:** Thursday 3:30 PM to 4:30 PM , and by and by appointment, Send an email at saadhassan at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
 * **GitHub:** [https://github.com/nmattei/cmps3160](https://github.com/nmattei/cmps3160)
