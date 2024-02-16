@@ -127,7 +127,10 @@ The best way to learn is by doing, so these will largely be applied assignments 
 
 ### Test 1 and Test 2
 
-This will be a written, close book, in class exam.  You are allowed one **hand-written** cheat sheet, front and back, 8.5x11 inch paper.  You will be required to turn in this cheat sheet **with** the actual exam and it will be graded for completeness and neatness. Test 2 is cumulative.  This semester both exams will take place in person. **You must earn at least a 60% average between the two exams to pass the course.**
+This will be a written, close book, in class exam.  You are allowed one cheat sheet, front and back, 8.5x11 inch paper.  You will be required to turn in this cheat sheet **with** the actual exam and it will be graded for completeness and neatness. Test 2 is cumulative.  This semester both exams will take place in person. **You must earn at least a 60% average between the two exams to pass the course.**
+
+<!-- This will be a written, close book, in class exam.  You are allowed one **hand-written** cheat sheet, front and back, 8.5x11 inch paper.  You will be required to turn in this cheat sheet **with** the actual exam and it will be graded for completeness and neatness. Test 2 is cumulative.  This semester both exams will take place in person. **You must earn at least a 60% average between the two exams to pass the course.** -->
+
 
 ### Final Project
 
