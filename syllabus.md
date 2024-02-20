@@ -108,7 +108,7 @@ This course will consist of seven distinct grading areas.  Note that all point v
 
 * 20 (5%)  In Class Activities, Participation, Attendance.
 * 120 (30%) Labs
-* 24 (6%) Pre-Lab Questions
+* 24 (6%) Pre-Lab Quiz Questions
 * 55 (14%) Test 1
 * 55 (14%) Test 2
 * 125 (31%) Project (Milestone 1: 20, Milestone 2: 20, Project Presentation: 20, Final Notebook: 65)
