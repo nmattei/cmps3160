@@ -78,7 +78,7 @@ GitHub provides a service called Pages <https://pages.github.com/> that provides
 
 These instructions are also given directly on the front page of <https://pages.github.com/>; following those instructions should be fine!
 
-**Note for 2022 CoLab Students:** CoLab does not have a "Download as HTML Button" -- in order to download your notebook as HTML you need to issue the following command in a cell of your notebook:
+**Note for 2024 CoLab Students:** CoLab does not have a "Download as HTML Button" -- in order to download your notebook as HTML you need to issue the following command in a cell of your notebook:
 
 ```
 %%shell
