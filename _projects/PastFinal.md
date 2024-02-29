@@ -7,6 +7,95 @@ published: true
 
 This page contains links (possibly broken) to past [Final Tutorials](FinalTutorial.md) presented in this class. This helps not only see what other students have done but also gives you some examples of what ideas might work and which ones might not!
 
+## Fall 2023 
+
+| Team Member 1    | Team Member 2    | Tentative Project Title                                             | Link to Webpage                                                                             |
+|------------------|------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| Evan Nyhus       | Isaac Popper     | Effect of wingspan on success in the NBA                           | [https://github.com/ipopStats/Nyhus_Popper_CMPS3160_Project](https://github.com/ipopStats/Nyhus_Popper_CMPS3160_Project)           |
+| Yu Liu           |                  | Population Ageing in the World                                      | [https://kellyyliu.github.io/](https://kellyyliu.github.io/)                                |
+| Mason Meeks      |                  | In the Heat of Protest                                              | [https://mmeekstu.github.io/data-science/](https://mmeekstu.github.io/data-science/)         |
+| Tanner Martz     |                  | Exploring Instacart Online Grocery Shopping Dataset                  | [https://cur8tor.github.io/tmartzDS/](https://cur8tor.github.io/tmartzDS/)                   |
+| Collette Riviere | Toby Mendels     | COVID Vaccine Hesitancy                                             | [https://criviere1.github.io/](https://criviere1.github.io/)                                |
+| Happy Herold     | Syed Mehran      | Delays and Declines                                                  | [https://syedmehran.github.io/cmps3160-project/](https://syedmehran.github.io/cmps3160-project/)  |
+| Jiangpeng Liu    |                  | Will sustainable energy give us a better future?                     | [https://vbxf.github.io/cmps6160/](https://vbxf.github.io/cmps6160/)                        |
+| Rhon Farber      | Cente McAneny-Droz | Analysis of Homeownership on Development                            | [https://nmcanenydroz.github.io/farber-mcaneny/](https://nmcanenydroz.github.io/farber-mcaneny/)  |
+| Jakob Schanzer   |                  | National Geographic Smell Perception Survey                          | [https://jakobschanzer.github.io/Smells/](https://jakobschanzer.github.io/Smells/)           |
+| Jonathan Sears   |                  | Beat the Books                                                       | [jonathansears1.github.io](jonathansears1.github.io)                                         |
+| Lele Zhao        |                  | Cancer Incidences in the U.S.                                        | [https://lelezw.github.io/](https://lelezw.github.io/)                                       |
+| Sydney Feldman   | Gracie Dunaway   | Predicting SAT Scores Based on Socioeconomic Factors and Past Grades | [https://sfeldman1.github.io/](https://sfeldman1.github.io/)                                 |
+| Eugene Lim       | Tyler Simms      | Trends, Patterns, and Directions in the 2023 U.S. Job Market         | [https://eugenelim17.github.io/](https://eugenelim17.github.io/)                             |
+| Luke Albright    | James Manzer     | Equity markets / MLB                                                 | [https://lalbright22.github.io/](https://lalbright22.github.io/)                             |
+| Sean Hall        | Julia Baratta    | Solar Cells? Plane Delays? Parking Tickets?                          | [https://seanzero7.github.io/S-J_DataScience.github.io/](https://seanzero7.github.io/S-J_DataScience.github.io/)  |
+| Jason Li         | Alex Motyka      | Video games and cereal                                               | [https://21percentme.github.io/Milestone1](https://21percentme.github.io/Milestone1)          |
+| Miranda Diaz     | Raiya Dhawala    | Rats of New York                                                     | [https://rdhalwala.github.io/](https://rdhalwala.github.io/)                                   |
+| Will Wagman      |                  | Exploring Hass Avocado Market Trends                                 | [https://will5206.github.io/](https://will5206.github.io/)                                   |
+| Aidan Hussain    |                  | Billionaire Analysis                                                 | [https://aidanhussain.github.io/cmps3160project/](https://aidanhussain.github.io/cmps3160project/) |
+| Dylan Lucia      |                  | An In-Depth Exploration of Masculinity in the United States          | [https://dylanlucia.github.io/](https://dylanlucia.github.io/)                                |
+| Gabriel Sagrera  |                  |                                                                      |                                                                                             |
+| Kevin Skelly     |                  | Famous figures on Wikipedia                                          | [https://kskelly03.github.io/](https://kskelly03.github.io/)                                   |
+| Duke Glenn       | Griffin Olimpio  | US Business Dynamics and the S&P 500 Index 2000-2018                 | [https://golimpio100.github.io/](https://golimpio100.github.io/)                               |
+
+
+## Fall 2022 (Section 2)
+
+| Team Member 1             | Team Member 2        | Tentative Project Title                                                    | Link to Webpage                                                        |
+|---------------------------|----------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------|
+| Alan Braeley (Grad Student) |                       | Modeling Jumping Reflectors in the Martian Ice Caps                        | [https://abraeley.github.io/](https://abraeley.github.io/)             |
+| Alyssa Bockman            | Thalia Koutsougeras | Disease Prevalence Across the States                                       | [https://tkoooo.github.io/Final-Portfolio/](https://tkoooo.github.io/Final-Portfolio/) |
+| Luke Gulson               |                      | Video Media and Attention Span                                              | [https://lgulson12.github.io/Data-Science-Final/](https://lgulson12.github.io/Data-Science-Final/) |
+| Chase Frederick           |                      | GDP Analysis                                                                | [https://github.com/ChaseFrederick/ChaseFrederick.github.io](https://github.com/ChaseFrederick/ChaseFrederick.github.io) |
+| Bharat Solanky            | Aadya Chawla        | Predictive Model for Breast Cancer Incidence                                | [https://bharatsolanky.github.io/](https://bharatsolanky.github.io/)     |
+| Grace Graves              | Isabelle Chow       | Bigfoot Sightings Across North America                                     | [https://imhkchow.github.io/](https://imhkchow.github.io/)               |
+| Jonathan Licht            |                      | Drug/Alcohol Use by State                                                   | [https://jlicht27.github.io/](https://jlicht27.github.io/)             |
+| Maximilian Motz           | Alec Rovner         | The effect of private school vs. public school from an early stage on overall success in life | [https://arovn10.github.io/](https://arovn10.github.io/)          |
+| Oliver Orejola (Grad Student) |                    | Wikipedia Trends                                                            | [https://oliverorejolacmps3160.github.io](https://oliverorejolacmps3160.github.io) |
+| Merrilee Montgomery       | Maddie Wisinski     | Violence, Protests, and Political Participation                             | [https://madbeignet.github.io/](https://madbeignet.github.io/)           |
+| Jared Markowitz           | Mauryan Uppalapati | Sports Analysis                                                             | [https://github.com/Mauryanx/Mauryanx.github.io/blob/main/Copy_of_CMPS_3160_Project.ipynb](https://github.com/Mauryanx/Mauryanx.github.io/blob/main/Copy_of_CMPS_3160_Project.ipynb) |
+| Ryan Stevens              | Alex Olteanu        | Modeling player stats and salaries by season for NHL, NBA, and NFL         | [https://stevensryanw.github.io/](https://stevensryanw.github.io/)     |
+| Rafael Djamous            |                      | World Happiness Data from Kaggle                                            | [https://rafaeldjamous.github.io](https://rafaeldjamous.github.io)       |
+| Anna Schoeny              | Marisa Long         | Exploratory Analysis of Alzheimer's Disease Datasets                        | [https://marisalong.github.io/](https://marisalong.github.io/)           |
+| Kai Yu                    | Kai Yu              | Relationship between Price of ETH with the result of Steam hardware survey | [https://skylloolo.github.io/project.html](https://skylloolo.github.io/project.html) |
+| Elena Yang                | Austin Nguyen       | Chess openings/websites analyze some data                                   | [https://elenajy.github.io/datascience/milestone_1.html](https://elenajy.github.io/datascience/milestone_1.html) |
+| Wendy Yang                | Aaron Yang          | Correlation between Average SAT Scores and Economic Distribution for all 50 States | [https://wenqiy26.github.io/](https://wenqiy26.github.io/)              |
+| Cirus Kalugana (Grad student) |                   | Large global earthquakes effects                                            | [https://github.com/kalucira/kalucira.github.io/blob/main/Project_Cirus.ipynb](https://github.com/kalucira/kalucira.github.io/blob/main/Project_Cirus.ipynb) |
+| Torri Green               | Kayla Fortson       | Analysis of School Shootings                                                | [https://kaylafortson.github.io/](https://kaylafortson.github.io/)       |
+| Gabe Epstein              |                      | Accidental Drug Deaths During COVID-19                                       | [https://gabrielepstein.github.io/Final-Portfolio/](https://gabrielepstein.github.io/Final-Portfolio/) |
+| Madeline Nellis           | Caroline Casella    | Effects of Barge Movements on the Environment                               | [https://github.com/madelinenellis/madelinenellis.github.io](https://github.com/madelinenellis/madelinenellis.github.io) |
+| Bo Zhang                  | Tian Xie            | How trends have changed on Steam                                             | [https://dekuwang.github.io/](https://dekuwang.github.io/)               |
+
+
+## Fall 2022 (Section 1)
+
+| Team Members                          | Team Members (cont.)  | Title / Topic                                       | Link to Webpage                                                        |
+|---------------------------------------|-----------------------|-----------------------------------------------------|------------------------------------------------------------------------|
+| Owen Butler                           |                       | Movie Aspect Understanding                          | [https://ozbutler12.github.io/](https://ozbutler12.github.io/)         |
+| Chris Callahan                        | Mikey Sison           | Where Does Foreign Aid Go?                         | [https://chriscallahan99.github.io/DataScience_Final_Project/](https://chriscallahan99.github.io/DataScience_Final_Project/) |
+| Robbie Case                           | Zack Wellman          | US Congress Insider Trading Analysis               | [https://robbiecase.github.io/](https://robbiecase.github.io/)         |
+| Haochen Chen                         | Maria Chen            | Football Player and Team Performance               | [https://alphardovo.github.io/](https://alphardovo.github.io/)         |
+| Thomas Cutro                         | Joeseph Wagner        | Analysis of Opioid Drug Overdoses                  | [https://tcutro1.github.io/final-project/](https://tcutro1.github.io/final-project/) |
+| Anton De Franco                       |                       | PPP Loan Analysis                                   | [https://antondefranco.github.io/](https://antondefranco.github.io/)   |
+| Yali Tiomkin                         | Rafi Deykin           | Louisiana Health Insurance and Disability           | [https://rdeykin.github.io/](https://rdeykin.github.io/)               |
+| Kerui Geng                            |                       | Predicting Buyers Behavior                          | [https://keruigeng.github.io/](https://keruigeng.github.io/)           |
+| Adam Goodman                         | Ethan Perello         | Student Success                                     | [https://github.com/EthanPerello/Data-Science-Project](https://github.com/EthanPerello/Data-Science-Project) |
+| Jonathan Licht                       | Jim Haines            | Drug/Alcohol Use by State                          | [https://jlicht27.github.io/](https://jlicht27.github.io/)             |
+| Emma LeBouef                          |                       | F1 Performance and Economic Indicators              | [https://emmalebouef.github.io/](https://emmalebouef.github.io/)       |
+| Maddie Bonanno                       | Riley Martin          | Migraine Comorbidity Crossover                     | [https://mscb25.github.io/datasci-final-maddieriley/](https://mscb25.github.io/datasci-final-maddieriley/) |
+| Josh McCoy                           | Zach Goodman          | Factors in NFL Game Score                           | [https://joshmccoy2.github.io/](https://joshmccoy2.github.io/)         |
+| Sarah Helmbrecht                     | JT McDermott          | Famous People You've Never Heard Of                 | [https://skhelmbrecht.github.io/](https://skhelmbrecht.github.io/)     |
+| Amara Midouhas                       | Rehan Mullan          | Influence of News Media on Stock Price              | [https://rehan072.github.io/](https://rehan072.github.io/)             |
+| Hayden Outlaw                         |                       | Natural Disasters and Geographical Impact           | [https://outlawhayden.github.io/](https://outlawhayden.github.io/)     |
+| Jack Johnson                         | Kelsey Peltz          | Blackjack Analysis                                  | [https://blackjackproject.github.io/](https://blackjackproject.github.io/) |
+| Lorena Peñuela Cantor                |                       | E-Commerce Business Data Analytics                  | [https://lpenuelac.github.io/](https://lpenuelac.github.io/)           |
+| Carly Presz                          | Evan Hendrickson      | MLB Stadium Analysis                                | [https://cpresz.github.io/](https://cpresz.github.io/)                 |
+| Sam DeMarinis                        | Nick Radwin           | Fake News on Facebook Engagement                    | [https://nradwin.github.io/](https://nradwin.github.io/)               |
+| Shira Rozenthal                      | Marco Carbullido      | Senate-Optimized S&P500                        | [https://shirarozenthal.github.io/shirarozenthal/](https://shirarozenthal.github.io/shirarozenthal/) |
+| Thien Tran                           |                       | United States Cancer Statistics 1999-2018            | [https://httran158.github.io/](https://httran158.github.io/)           |
+| Nathaniel Vaduthala                  |                       | An Analysis of Commonly Held Fan Beliefs About Referees | [https://nvaduthala3.github.io/](https://nvaduthala3.github.io/)   |
+| Qinzheng Xu                          |                       | Exploratory Analysis of The Financial Analyst Forecast | [https://github.com/xu000112-bit/Analyst](https://github.com/xu000112-bit/Analyst) |
+| Jingzhi Yang                         |                       | Credit Card Approval Analysis                      | [https://yship1002.github.io/](https://yship1002.github.io/)           |
+
+
+
 ## 2021
 
 | Team Members                       | Title / Topic                                | Link                                                          |
