@@ -39,7 +39,9 @@ There are a variety of methods you can use to get in touch with us, and we expec
 * When emailing, please email all TAs and the professor of your section.  We will respond within 24 hours.  Turn around may be faster, but do not rely on it.
 * We expect the same from you: that you will check your email/Canvas every 24 hours. All major announcements will be distributed via the Announcements function of Canvas.
 * We are all available to have drop in office hours and are available by appointment.  Please reach out to us directly to setup extra time if you need more support during the semester.
-* If you have a general question, please check or post on the [discussion board on Canvas!](https://tulane.instructure.com/). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
+* If you have a general question, please check or post on the Course Slack. We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
+
+<!-- * If you have a general question, please check or post on the [discussion board on Canvas!](https://tulane.instructure.com/). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there! -->
 
 ---
 
