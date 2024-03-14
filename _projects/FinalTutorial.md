@@ -169,7 +169,8 @@ Here are some past short decks that are very good:
 
 ### Schedule
 
-<iframe style="width: 100%; height: 600px; border: none" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRX9klFe5Om9Z-Rv3LjSyTycBcHZ-t2SriyvuX4kLJVntYOjHT9RnVGbCedfi7eOlM_KFG-9oPwXCfK/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<!-- <iframe style="width: 100%; height: 600px; border: none" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRX9klFe5Om9Z-Rv3LjSyTycBcHZ-t2SriyvuX4kLJVntYOjHT9RnVGbCedfi7eOlM_KFG-9oPwXCfK/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe> -->
+<iframe style="width: 100%; height: 600px; border: none" src="https://docs.google.com/spreadsheets/d/13qTlOvEwQvf2WA7T1Vplc5GHWd-E1B8wEO2_ZCKyfRc/edit?usp=sharing"></iframe>
 
 
 
