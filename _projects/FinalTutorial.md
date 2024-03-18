@@ -113,7 +113,10 @@ If you want to see some good examples of **Milestone 1**, see [Example 1](https:
 
 ## Milestone 2: Additional Extraction, Transform, and Load (ETL) + Exploratory Data Analysis (EDA)
 
-Your notebook from Part 1 but expanded to include an additional dataset being loaded and parsed into shape using the principles of tidy data discussed in class. This is to show that you have figured out how to get the data into your system. You should remove any data sources or questions that are not being used and you should now have a focused discussion at the top of your notebook on what questions you will attack and a discussion of why the data you are using is correct. **Note: Much of the power of Data Science lies in bringing multiple datasets together, so you must be using more than one dataset for this part!**
+<!-- Your notebook from Part 1 but expanded to include an additional dataset being loaded and parsed into shape using the principles of tidy data discussed in class. This is to show that you have figured out how to get the data into your system. You should remove any data sources or questions that are not being used and you should now have a focused discussion at the top of your notebook on what questions you will attack and a discussion of why the data you are using is correct. **Note: Much of the power of Data Science lies in bringing multiple datasets together, so you must be using more than one dataset for this part!** -->
+
+Your notebook from Part 1 but expanded. You should remove any data sources or questions that are not being used and you should now have a focused discussion at the top of your notebook on what questions you will attack and a discussion of why the data you are using is correct. **Note: Much of the power of Data Science lies in bringing multiple datasets together, so you must be using more than one dataset for this part!**
+
 
 In addition you should also have at least 5 graphs and summary statistics/tables including cross-tabulations, groups, measures of central tendency, and/or any of the other EDA techniques discussed showing that you have started to investigate your data and have an understanding of what is in your dataset.  These graphs should be documented much as we did in Project 1 where you describe what the graph is showing and why.  Use of appropriate Markdown cells is essential.
 
