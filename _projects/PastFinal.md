@@ -7,6 +7,40 @@ published: true
 
 This page contains links (possibly broken) to past [Final Tutorials](FinalTutorial.md) presented in this class. This helps not only see what other students have done but also gives you some examples of what ideas might work and which ones might not!
 
+## Spring 2024
+
+| Team Member 1     | Team Member 2  | Project Title                                                     | Link to Webpage                                                                 |
+|-------------------|----------------|------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| Zoe Oboler        |                | Comparing Artwork Metadata                                       | [https://zoeo11.github.io/](https://zoeo11.github.io/)                          |
+| Izzy Blair        |                |                                                                  |                                                                                 |
+| Josh Belew        | Catherine Brooks | Analysis of Election Trends Based on Demographic Data             | [https://cathbrooks.github.io/](https://cathbrooks.github.io/)                  |
+| Patrick Callahan  | Gabe Epstein   | NBA Most Improved Player/Most Valuable Player Predictor          | [https://gabrielepstein.github.io/DataScienceFinalPortfolio/](https://gabrielepstein.github.io/DataScienceFinalPortfolio/) |
+| Sam Cohen         | Tony Tran      |                                                                  | [https://tttttran.github.io/index.html](https://tttttran.github.io/index.html)  |
+| Olivia Meyer      |                |                                                                  |                                                                                 |
+| Sydney Wade       |                |                                                                  |                                                                                 |
+| Reid Miller       | Henry Miller   |                                                                  |                                                                                 |
+| Ella Moses        | Kailen Mitchell | NFL Injuries                                                     | [https://ellamoses.github.io/](https://ellamoses.github.io/)                    |
+| Charles O'Bert    | Cameron McLaren | Rats in NYC                                                      | [https://charles-obert.github.io/Rats_in_NYC/Rats_in_NYC.html](https://charles-obert.github.io/Rats_in_NYC/Rats_in_NYC.html) |
+| Claire Porier     | Kristin Trapanese | Analyzing Spotify Genres                                        | [https://claireporier.github.io/NOTEBOOKFILE.html](https://claireporier.github.io/NOTEBOOKFILE.html) |
+| Cece Haase        | Gabby Reese    |                                                                  |                                                                                 |
+| Ben Russell       | Bryan Flanagan |                                                                  |                                                                                 |
+| Rachel Roberts    | Shayne Shelton | Comparing State School Performance with State Crime Rates        | [https://sshelton1.github.io/CMPS-3160-Crime-vs-Academics-Project/](https://sshelton1.github.io/CMPS-3160-Crime-vs-Academics-Project/) |
+| Arie Tuckerman    | Julia Renner   | A Look At Age Trends In Congress                                 | [https://arietuck.github.io/](https://arietuck.github.io/)                      |
+| Weike Zhang       | Ruoqin Ji      | QS World University Rankings Analysis Project Milestone 1        | [https://weike2001.github.io/ds/](https://weike2001.github.io/ds/)              |
+| Sharon Yin        | Kyra Zhu       | Video Game Success Through the Lens of Sales, Reviews, and Regional Preferences | [https://zzzyx21.github.io/](https://zzzyx21.github.io/)                   |
+
+| Independent Project Student |        Project Title                                                     | Link to Webpage                                                                 |
+|-----------------------------|------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| Lei Yang                    |        Exploratory Analysis on Hotel Booking and Cancellation            | [https://leiyang2000.github.io/Lei%20Yang_milestone1.html](https://leiyang2000.github.io/Lei%20Yang_milestone1.html) |
+| Sofiia Druchyna             |        Who Do Threat Actors Target in the Cyberspace? What Are They Looking For? | [https://sof0-0.github.io/](https://sof0-0.github.io/)                         |
+| Alan Barris                 |        Migration Flows to Europe                                         | [https://barisalan00.github.io/](https://barisalan00.github.io/)                |
+| Zoe Birnbaum                |        Influences on Medmo Booking Rates                                 | [https://zbirnbaum.github.io/](https://zbirnbaum.github.io/)                    |
+| Mandeep Karki               |        How does Economic Growth Affect Income Inequality?                | [https://mandeepkrk.github.io/](https://mandeepkrk.github.io/)                  |
+| Sita Dawanse                |        Trends in Renewable Energy Adoption                               | [https://sdawanse.github.io/](https://sdawanse.github.io/)                      |
+| Justin Haysbert             |        New York Housing Data EDA and Regression                          | [https://justinhaysbert.github.io/](https://justinhaysbert.github.io/)          |
+| Shijie Cheng                |         120 years of Olympic history: Athletes and results                | [https://garry20010514.github.io/cmps3160/](https://garry20010514.github.io/cmps3160/) |
+| Miller Dickinson            |         Understanding Stroke                                              | [https://millerdickerson.github.io/Project%20Milestone%201.html](https://millerdickerson.github.io/Project%20Milestone%201.html) |
+
 ## Fall 2023 
 
 | Team Member 1    | Team Member 2    | Tentative Project Title                                             | Link to Webpage                                                                             |
