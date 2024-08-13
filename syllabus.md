@@ -1,23 +1,23 @@
 ---
 layout: page
-title: Fall 2023 Syllabus
+title: Fall 2024 Syllabus
 subtitle:
 published: true
 ---
 
 # Introduction to Data Science
 
-* CMPS-3160/6160: Introduction to Data Science Fall 2023
+* CMPS-3160/6160: Introduction to Data Science Fall 2024
 * Tulane University
 * 3 Credit Hours
 * Prerequisite Courses: CMPS 1100  Foundations of Programming or CMPS 1500  Intro to Computer Science I, or consent of instructor.
 
 
-* **Instructor:** Dr. Saad Hassan (saadhassan at tulane.edu)
-* **Lectures Times:** TR 2:00 - 3:15
+* **Instructor:** Dr. Rebecca Faust (rfaust1 at tulane.edu)
+* **Lecture Times:** MWF 9:00 - 9:50
 * **Room:** Stanley Thomas 302
-* **Office:** Paul Hall 307
-* **Office Hours:** **Thursday 3:30 PM to 4:30 PMp** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+* **Office:** Paul Hall 306
+* **Office Hours:** TBD  and by appointment
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
 * **GitHub:** [https://github.com/nmattei/cmps3160](https://github.com/nmattei/cmps3160)
 
@@ -26,10 +26,10 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 * ### Teaching Assistants
 
-* **Graduate Assistant** Yunbei Zhang (yzhang111 at tulane.edu), Office: ST 309
-  * **Office Hours** Monday (3:00-5:00 PM), Wednesday (3:00-5:00 PM), Friday (4:00 to 6:00 PM), By appointment via email
-* **Undergraduate Assistant**  Lorraine L Steigner (lsteigner@tulane.edu), Location: ST 316
-  * **Office Hours** Monday (5:00-7:00 PM), Tuesday (5:00-6:00 PM), Wednesday (5:00-6:00 PM), By appointment via email
+* **Graduate Assistant** Kory Rosen
+  * **Office Hours** TBD 
+* **Undergraduate Assistant** TBD
+   * **Office Hours** TBD 
 
 
 ## Course Communication Policy
@@ -39,9 +39,8 @@ There are a variety of methods you can use to get in touch with us, and we expec
 * When emailing, please email all TAs and the professor of your section.  We will respond within 24 hours.  Turn around may be faster, but do not rely on it.
 * We expect the same from you: that you will check your email/Canvas every 24 hours. All major announcements will be distributed via the Announcements function of Canvas.
 * We are all available to have drop in office hours and are available by appointment.  Please reach out to us directly to setup extra time if you need more support during the semester.
-* If you have a general question, please check or post on the Course Slack. We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
-
-<!-- * If you have a general question, please check or post on the [discussion board on Canvas!](https://tulane.instructure.com/). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there! -->
+<!-- * If you have a general question, please check or post on the Course Slack. We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there! -->
+* If you have a general question, please check or post on the [discussion board on Canvas!](https://tulane.instructure.com/). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
 
 ---
 
@@ -93,7 +92,7 @@ There is no required textbook for this course, however there are two texts that 
 
 * *Data Science from Scratch: First Principles with Python, Second Edition*, Joel Grus. O’Reilly Media, 2019. Code but not text available on [GitHub](https://github.com/joelgrus/data-science-from-scratch).
 
-* *Practical Statistics for Data Scientists: 50 Essential Concepts*, Peter Bruce and Andrew Bruce. O'Reilly Media, 2017.  [Text of 2nd Printing available online](https://github.com/ghoshark/E_Books/blob/master/Practical%20Statistics%20for%20Data%20Scientists.pdf).  Code available on [GitHub](https://github.com/andrewgbruce/statistics-for-data-scientists).
+* *Practical Statistics for Data Scientists: 50 Essential Concepts*, Peter Bruce and Andrew Bruce. O'Reilly Media, 2017.  Code but not text available on [GitHub](https://github.com/gedeck/practical-statistics-for-data-scientists).
 
 **Other Good Online Books:**
 
@@ -129,7 +128,7 @@ The best way to learn is by doing, so these will largely be applied assignments 
 
 ### Test 1 and Test 2
 
-This will be a written, close book, in class exam.  You are allowed one cheat sheet, front and back, 8.5x11 inch paper.  You will be required to turn in this cheat sheet **with** the actual exam and it will be graded for completeness and neatness. Test 2 is cumulative.  This semester both exams will take place in person. **You must earn at least a 60% average between the two exams to pass the course.**
+This will be a written, closed book, in class exam.  You are allowed one cheat sheet, front and back, 8.5x11 inch paper.  You will be required to turn in this cheat sheet **with** the actual exam and it will be graded for completeness and neatness. Test 2 is cumulative.  This semester both exams will take place in person. **You must earn at least a 60% average between the two exams to pass the course.**
 
 <!-- This will be a written, close book, in class exam.  You are allowed one **hand-written** cheat sheet, front and back, 8.5x11 inch paper.  You will be required to turn in this cheat sheet **with** the actual exam and it will be graded for completeness and neatness. Test 2 is cumulative.  This semester both exams will take place in person. **You must earn at least a 60% average between the two exams to pass the course.** -->
 

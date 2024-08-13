@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction to Data Science
-subtitle: CMPS 3160/6160 - Fall 2023
+subtitle: CMPS 3160/6160 - Fall 2024
 published: true
 ---
 <p style="text-align:center;"><img src="{{ 'img/ds_cover_new.jpeg' | relative_url }}" alt="Image of blue light emitting from all the continents in the world map."/></p>
@@ -10,11 +10,11 @@ published: true
 * Prerequisites: CMPS 1500 or CMPS 1100. In lieu of prerequisites as specified, contact instructor for permission to enroll.
 
 
-* **Instructor:** Dr. Saad Hassan (saadhassan at tulane.edu)
-* **Lectures Times:** TR 2:00 PM - 3:15 PM
+* **Instructor:** Dr. Rebecca Faust (rfaust1 at tulane.edu)
+* **Lectures Times:** MWF 9:00 AM - 9:50 AM
 * **Room:** Stanley Thomas 302
-* **Office:** Paul Hall 307 (New Building next to ST)
-* **Office Hours:** Thursday 3:30 PM to 4:30 PM , and by and by appointment, Send an email at saadhassan at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
+* **Office:** Paul Hall 306 (New Building next to ST)
+* **Office Hours:** TBD , and by and by appointment, Send an email at rfaust1 at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
 * **GitHub:** [https://github.com/nmattei/cmps3160](https://github.com/nmattei/cmps3160)
 
@@ -22,10 +22,9 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 
 * ### Teaching Assistants
+* **Graduate Assistant** Kory Rosen (krosen5 at tulane.edu), Office: TBD
+  * **Office Hours** TBD
 
-* **Graduate Assistant** Yunbei Zhang (yzhang111 at tulane.edu), Office: ST 309
-  * **Office Hours** Monday (3:00-5:00 PM), Wednesday (3:00-5:00 PM), Friday (4:00 to 6:00 PM), By appointment via email
-
-* **Undergraduate Assistant**  Lorraine L Steigner (lsteigner@tulane.edu), Location: ST 316
-  * **Office Hours** Monday (5:00-7:00 PM), Tuesday (5:00-6:00 PM), Wednesday (5:00-6:00 PM), By appointment via email
+* **Undergraduate Assistant** TBD
+  * **Office Hours** TBD
 
