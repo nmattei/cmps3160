@@ -113,9 +113,9 @@ If you want to see some good examples of **Milestone 1**, see [Example 1](https:
 
 ## Milestone 2: Additional Extraction, Transform, and Load (ETL) + Exploratory Data Analysis (EDA)
 
-<!-- Your notebook from Part 1 but expanded to include an additional dataset being loaded and parsed into shape using the principles of tidy data discussed in class. This is to show that you have figured out how to get the data into your system. You should remove any data sources or questions that are not being used and you should now have a focused discussion at the top of your notebook on what questions you will attack and a discussion of why the data you are using is correct. **Note: Much of the power of Data Science lies in bringing multiple datasets together, so you must be using more than one dataset for this part!** -->
+ Your notebook from Part 1 but expanded to include an additional dataset being loaded and parsed into shape using the principles of tidy data discussed in class. This is to show that you have figured out how to get the data into your system. You should remove any data sources or questions that are not being used and you should now have a focused discussion at the top of your notebook on what questions you will attack and a discussion of why the data you are using is correct. **Note: Much of the power of Data Science lies in bringing multiple datasets together, so you must be using more than one dataset for this part!** 
 
-Your notebook from Part 1 but expanded. You should remove any data sources or questions that are not being used and you should now have a focused discussion at the top of your notebook on what questions you will attack and a discussion of why the data you are using is correct. 
+<!-- Your notebook from Part 1 but expanded. You should remove any data sources or questions that are not being used and you should now have a focused discussion at the top of your notebook on what questions you will attack and a discussion of why the data you are using is correct.  -->
 
 <!-- **Note: Much of the power of Data Science lies in bringing multiple datasets together, so you must be using more than one dataset for this part!** -->
 
@@ -175,7 +175,7 @@ Here are some past short decks that are very good:
 ### Schedule
 
 <!-- <iframe style="width: 100%; height: 600px; border: none" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRX9klFe5Om9Z-Rv3LjSyTycBcHZ-t2SriyvuX4kLJVntYOjHT9RnVGbCedfi7eOlM_KFG-9oPwXCfK/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe> -->
-<iframe style="width: 100%; height: 600px; border: none" src="https://docs.google.com/spreadsheets/d/13qTlOvEwQvf2WA7T1Vplc5GHWd-E1B8wEO2_ZCKyfRc/edit?usp=sharing"></iframe>
+<!-- <iframe style="width: 100%; height: 600px; border: none" src="https://docs.google.com/spreadsheets/d/13qTlOvEwQvf2WA7T1Vplc5GHWd-E1B8wEO2_ZCKyfRc/edit?usp=sharing"></iframe> -->
 
 
 

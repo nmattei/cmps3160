@@ -14,7 +14,7 @@ published: true
 * **Lectures Times:** MWF 9:00 AM - 9:50 AM
 * **Room:** Stanley Thomas 302
 * **Office:** Paul Hall 306 (New Building next to ST)
-* **Office Hours:** TBD , and by and by appointment, Send an email at rfaust1 at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
+* **Office Hours:** Monday & Thursday 2:30-3:30, and by appointment, Send an email at rfaust1 at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
 * **GitHub:** [https://github.com/nmattei/cmps3160](https://github.com/nmattei/cmps3160)
 
@@ -22,9 +22,11 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 
 * ### Teaching Assistants
-* **Graduate Assistant** Kory Rosen (krosen5 at tulane.edu), Office: TBD
-  * **Office Hours** TBD
+* **Graduate Assistant** Kory Rosen (krosen5 at tulane.edu)
+  * **Office Hours** Tuesday 9-10 AM, ST 316
 
-* **Undergraduate Assistant** TBD
-  * **Office Hours** TBD
+* **Undergraduate Assistant** Reid Miller (rmiller14 at tulane.edu)
+  * **Office Hours** Tuesday & Thursday 5-7 PM, ST 316
+* **Undergraduate Assistant** Zoe Birnbaum (zbirnbaum at tulane.edu)
+    * **Office Hours** Monday & Wednesday 5-7 PM, ST 316
 

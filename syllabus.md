@@ -17,7 +17,7 @@ published: true
 * **Lecture Times:** MWF 9:00 - 9:50
 * **Room:** Stanley Thomas 302
 * **Office:** Paul Hall 306
-* **Office Hours:** TBD  and by appointment
+* **Office Hours:** Monday & Thursday 2:30-3:30, and by appointment. Send an email at rfaust1 at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
 * **GitHub:** [https://github.com/nmattei/cmps3160](https://github.com/nmattei/cmps3160)
 
@@ -26,10 +26,14 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 * ### Teaching Assistants
 
-* **Graduate Assistant** Kory Rosen
-  * **Office Hours** TBD 
-* **Undergraduate Assistant** TBD
-   * **Office Hours** TBD 
+* **Graduate Assistant** Kory Rosen (krosen5 at tulane.edu)
+  * **Office Hours** Tuesday 9-10 AM, ST 316 and by appointment. 
+
+* **Undergraduate Assistant** Reid Miller (rmiller14 at tulane.edu)
+  * **Office Hours** Tuesday & Thursday 5-7 PM, ST 316
+* **Undergraduate Assistant** Zoe Birnbaum (zbirnbaum at tulane.edu)
+    * **Office Hours** Monday & Wednesday 5-7 PM, ST 316
+
 
 
 ## Course Communication Policy
@@ -117,8 +121,11 @@ This course will consist of seven distinct grading areas.  Note that all point v
 An important aspect of this course is becoming a better coder. Hence all coding assignments will consist of a *Professionalism* component. One handy resource for this is [Arie’s Coding Guide](https://nmattei.github.io/cmps3140/codingguide). Note that this was written for Intro. to AI CMPS 3140 but many of the same issues apply to this course.
 
 ### In Class Activities, Participation, and Attendance
+Attendance will be monitored through in-class activities. Throughout the semester we will regularly complete short in class exercises such as brainstorming activities, think-pair-share, pre/post questions, and short answer writing. This may also include presenting/explaining answers to labs in class.
 
-Attendance will be monitored through an in-class activities. Throughout the semester we will regularly complete short in class exercises such as brainstorming activities, think-pair-share, pre/post questions, and short answer writing. This may also include presenting/explaining answers to labs in class.
+There is a maximum of 20 points available for attendance and participation. Each class is worth 0.5 points. Students who attend class (attendance will be taken at the start of class) and participate will receive credit for the class. Attendance alone does not guarantee credit. Students who are disruptive, late, unwilling to participate, and/or distracted by their devices may not receive credit for the class.
+
+<!-- Attendance will be monitored through an in-class activities. Throughout the semester we will regularly complete short in class exercises such as brainstorming activities, think-pair-share, pre/post questions, and short answer writing. This may also include presenting/explaining answers to labs in class. -->
 
 ### Labs and Pre-Lab Questions
 
@@ -214,7 +221,7 @@ Tulane University strives to make all learning experiences as accessible as poss
 
 ### Code of Academic Conduct and Academic Integrity
 
-This course will follow Tulane's Code of Academic Conduct. Cheating will be reported to the Associate Dean of Newcomb-Tulane College. Discussion is encouraged. However, what you turn in must be your own. You may not read another classmate’s solutions or copy a solution from the web.  **I will be running checks on the code turned in for plagiarism.  If plagiarism is detected the minimum penalty is a 0 on the assignment and being reported, however, you may automatically fail this course at the discretion of the instructor or Honor Board.**
+This course will follow Tulane's Code of Academic Conduct. Cheating will be reported to the Associate Dean of Newcomb-Tulane College. Discussion is encouraged. However, what you turn in must be your own. You may not read another classmate’s solutions or copy a solution from the web - this includes AI generated solutions.  **I will be running checks on the code turned in for plagiarism.  If plagiarism is detected the minimum penalty is a 0 on the assignment and being reported, however, you may automatically fail this course at the discretion of the instructor or Honor Board.**
 
 For more information about the honor board process and the code of academic conduct please see the [NTC Academic Integrity Website](https://college.tulane.edu/academics/academic-integrity).
 
