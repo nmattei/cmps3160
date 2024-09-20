@@ -32,7 +32,7 @@ If you want to see some good examples of **Milestone 1**, see [Example 1](https:
 
 ## Milestone 1: Groups, Data, Website, and Extraction, Transform, and Load (ETL)
 
-**For Milestone 1 you should generate a roughly 1 page writeup (~500 words) listing a partner and one to three datasets that you are considering working with and why. For each dataset you should generate at least one question you hope to answer with that data as well as a small amount of ETL including one interesting stat and one graph.**  This is just an outline to make sure you are thinking and is not a commitment in any way.  This will be published on your GitHub IO page so this also makes sure you’ve figured out how to get it uploaded!
+**For Milestone 1 you should generate a roughly 1 page writeup (~500 words) listing a partner and one to three datasets that you are considering working with and why. For each dataset you should generate at least one question you hope to answer with that data as well as a small amount of ETL including 3-5 interesting stats and one graph.**  This is just an outline to make sure you are thinking and is not a commitment in any way.  This will be published on your GitHub IO page so this also makes sure you’ve figured out how to get it uploaded!
 
 You must also include a short *collaboration plan* describing how you are working together, what technologies you are using, and when / how often you are meeting to work on this project.  Examples include: we setup a private Github repo to coordinate code and we met on Zoom X times…. or even we used [LiveShare for CS Code](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) [Teletype for Atom](https://teletype.atom.io/) or [RemoteCollab for Sublime](https://packagecontrol.io/packages/RemoteCollab). Failure to turn in a collaboration plan that shows you coordinated will be a loss of professionalism points. The turned in result will need to reflect the understanding of both students
 
@@ -85,7 +85,7 @@ These instructions are also given directly on the front page of <https://pages.g
 jupyter nbconvert --to html /PATH/TO/YOUR/NOTEBOOKFILE.ipynb
 ```
 
-You will need to replace the path to your notebook file with the path to your actual notebook file. Once you issue that command in CoLab you will see a `NOTEBOOKFILE.html` file in the same directory that you issue the command in. You will need to download that file, then upload it to the repo that you created on github.io.
+You will need to replace the path to your notebook file with the path to your actual notebook file in your Google Drive. Be sure to mount your drive before running this! Once you issue that command in CoLab you will see a `NOTEBOOKFILE.html` file in the same Google Drive directory that your notebook is in. You will need to download that file, then upload it to the repo that you created on github.io.
 
 ~~In order to make your webpage open up the notebook and make sure everything is as you like it (cells and outputs are showing, no error messages, etc.).  Then go to `File >> Download As >>` and download the notebook as HTML.  This will save the HTML files to your disk.~~  You will then need to rename this to index.html and upload it into your github.io page.  Once this is done, navigate to `username.github.io` and make sure the notebook is displayed as you like!
 
