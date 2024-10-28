@@ -22,7 +22,7 @@
 |07| Distance Functions | [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nmattei/cmps3160/blob/master/_labs/Lab07/Lab07.ipynb)|
 |08| Regression | [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nmattei/cmps3160/blob/master/_labs/Lab08/Lab08.ipynb)|
 |09| Classification | [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nmattei/cmps3160/blob/master/_labs/Lab09/Lab09.ipynb)|
-<!--|10| Evaluating Models | [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nmattei/cmps3160/blob/master/_labs/Lab10/Lab10.ipynb)|
-|11| Web Scraping | [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nmattei/cmps3160/blob/master/_labs/Lab11/Lab11.ipynb)|
+|10| Evaluating Models | [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nmattei/cmps3160/blob/master/_labs/Lab10/Lab10.ipynb)|
+<!--|11| Web Scraping | [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nmattei/cmps3160/blob/master/_labs/Lab11/Lab11.ipynb)|
 |12| Probability and Relationships between Categorical Variables | [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nmattei/cmps3160/blob/master/_labs/Lab12/Lab12.ipynb)| -->
 
