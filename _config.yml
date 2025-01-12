@@ -4,7 +4,7 @@
 title: CMPS 3160 Intro. to Data Science
 
 # Short description of your site
-description: Intro to Data Science - Fall 2024
+description: Intro to Data Science - Spring 2025
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -70,7 +70,7 @@ footer-link-col: "#FFFFFF"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Nicholas Mattei
+  name: Saad Hassan
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.

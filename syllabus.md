@@ -1,23 +1,23 @@
 ---
 layout: page
-title: Fall 2024 Syllabus
+title: Spring 2025 Syllabus
 subtitle:
 published: true
 ---
 
 # Introduction to Data Science
 
-* CMPS-3160/6160: Introduction to Data Science Fall 2024
+* CMPS-3160/6160: Introduction to Data Science Spring 2025
 * Tulane University
 * 3 Credit Hours
 * Prerequisite Courses: CMPS 1100  Foundations of Programming or CMPS 1500  Intro to Computer Science I, or consent of instructor.
 
 
-* **Instructor:** Dr. Rebecca Faust (rfaust1 at tulane.edu)
+* **Instructor:** Dr. Saad Hassan Faust (saadhassan at tulane.edu)
 * **Lecture Times:** MWF 9:00 - 9:50
 * **Room:** Stanley Thomas 302
-* **Office:** Paul Hall 306
-* **Office Hours:** Monday & Tuesday 2:30-3:30, and by appointment. Send an email at rfaust1 at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
+* **Office:** Paul Hall 307
+* **Office Hours:** Wednesday 3-4pm, and by appointment. Send an email at saadhassan at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
 * **GitHub:** [https://github.com/nmattei/cmps3160](https://github.com/nmattei/cmps3160)
 
@@ -25,14 +25,11 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 
 * ### Teaching Assistants
+* **Graduate Assistant** Amin Mir Fakhar (smirfakhar at tulane.edu)
+  * **Office Hours** TBD, TBD
 
-* **Graduate Assistant** Kory Rosen (krosen5 at tulane.edu)
-  * **Office Hours** Tuesday 9-10 AM, ST 316 and by appointment. 
-
-* **Undergraduate Assistant** Reid Miller (rmiller14 at tulane.edu)
-  * **Office Hours** Tuesday & Thursday 5-7 PM, ST 316
-* **Undergraduate Assistant** Zoe Birnbaum (zbirnbaum at tulane.edu)
-    * **Office Hours** Monday & Wednesday 5-7 PM, ST 316
+* **Undergraduate Assistant** Ian M. Paul (ifaul at tulane.edu)
+  * **Office Hours** Wednesday & Friday 11am-Noon, ST 316
 
 
 
