@@ -13,7 +13,7 @@ published: true
 * Prerequisite Courses: CMPS 1100  Foundations of Programming or CMPS 1500  Intro to Computer Science I, or consent of instructor.
 
 
-* **Instructor:** Dr. Saad Hassan Faust (saadhassan at tulane.edu)
+* **Instructor:** Dr. Saad Hassan (saadhassan at tulane.edu)
 * **Lecture Times:** MWF 9:00 - 9:50
 * **Room:** Stanley Thomas 302
 * **Office:** Paul Hall 307
