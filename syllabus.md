@@ -26,7 +26,7 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 * ### Teaching Assistants
 * **Graduate Assistant** Amin Mir Fakhar (smirfakhar at tulane.edu)
-  * **Office Hours** TBD, TBD
+  * **Office Hours** Tuesday & Thursday 3-4:30pm, Paul Hall 309 
 
 * **Undergraduate Assistant** Ian M. Paul (ifaul at tulane.edu)
   * **Office Hours** Wednesday & Friday 11am-Noon, ST 316
