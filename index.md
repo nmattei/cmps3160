@@ -14,7 +14,7 @@ published: true
 * **Lectures Times:** MWF 9:00 AM - 9:50 AM
 * **Room:** Stanley Thomas 302
 * **Office:** Paul Hall 307 (New Building next to ST)
-* **Office Hours:** Wednesday 3-4 PM, and by appointment, Send an email at saadhassan at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
+* **Office Hours:** Monday 3-4 PM, and by appointment, Send an email at saadhassan at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
 * **GitHub:** [https://github.com/nmattei/cmps3160](https://github.com/nmattei/cmps3160)
 
@@ -23,7 +23,7 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 * ### Teaching Assistants
 * **Graduate Assistant** Amin Mir Fakhar (smirfakhar at tulane.edu)
-  * **Office Hours** TBD, TBD
+  * **Office Hours** Tuesday & Thursday 3-4:30pm, Paul Hall 309 
 
 * **Undergraduate Assistant** Ian M. Paul (ifaul at tulane.edu)
   * **Office Hours** Wednesday & Friday 11am-Noon, ST 316
