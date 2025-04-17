@@ -147,7 +147,7 @@ You should submit the notebook through [Canvas](https://tulane.instructure.com/)
 
 ## Deliverable 1: Final Presentation
 
-You (and your partner) will give a 4-5 minute presentation in class to your peers.  In this presentation you are role playing a bit -- your job is to convince the audience that the problem you investigated was interesting and meaningful.  An ideal talk will cover every step of the Data Lifecycle that we have discussed in class: (1) an introduction of the problem and what question you want to solve, (2) where you got your data as well as briefly how you loaded and preprocessed your data, (3) some exploratory analysis to show important features, (4) a hypothesis about the data and supporting evidence, (5) an important conclusion to draw from your data. **Your presentation should only consist of 5-7 slides -- one for each step!!**
+You (and your partner) will give a 4-5 minute presentation in class to your peers.  In this presentation you are role playing a bit -- your job is to convince the audience that the problem you investigated was interesting and meaningful.  An ideal talk will cover every step of the Data Lifecycle that we have discussed in class: (1) an introduction of the problem and what question you want to solve, (2) where you got your data as well as briefly how you loaded and preprocessed your data, (3) some exploratory analysis to show important features, (4) a hypothesis about the data and supporting evidence, (5) an important conclusion to draw from your data. **Your presentation should only consist of 5-7 slides -- one to two for each step!!**
 
 Some resources for giving a good talk:
 
