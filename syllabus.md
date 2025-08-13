@@ -160,7 +160,7 @@ Graduate students who enroll in this course will be required to complete their f
 
 ### Late Work Policy
 
-The cutoff for on-time submssion is **before class (8:59am for a 9am class)** on the due date. Late days are counted in 24-hour periods. For a 9am class, submitting between 9:00am and 8:59am the next day is one day late.
+The cutoff for on-time submssion of labs and quizzes is **before class (8:59am for a 9am class)** on the due date. Project milestones are due at 11:59 pm of their due date. Late days are counted in 24-hour periods. For a 9am class, submitting labs and quizzes between 9:00am and 8:59am the next day is one day late.
 
 Below, is the high level summary of the late policy :
 + Students will be given 3 grace days for late **labs**. Extensions will not be given for quizzes and projects.  
@@ -171,12 +171,10 @@ Below, is the high level summary of the late policy :
 #### Grace Days for Labs
 Students will be given 3 "grace days" for **labs only** where they can choose to give themselves extra time, **up to 2 days**, without penalty. After 2 days, late work will **recieve a zero.**
 
-Each grace day is equivalent to **one 24-hour period** and students may use up to 2 grace days on any one assignment. **Grace days are intended to cover real problems: illness, broken laptops, etc.** Though we won't check on how students use them, if students run out of grace days before a real problem occurs, they may not be able to acquire an extension. 
+Each grace day is equivalent to **one 24-hour period** and students may use up to 2 grace days on any one lab. **Grace days are intended to cover real problems: illness, broken laptops, etc.** Though we won't check on how students use them, if students run out of grace days before a real problem occurs, they may not be able to acquire an extension. 
 
 Instructor-granted extensions are only considered for labs after all grace days are used, or if students require an extension greater than two days,  and only given in exceptional situations. If students have grace days remaining, the instructor will not grant an extension. When asking for an instructor-granted extension, students will be required to make a compelling case, with documentation where appropriate, as to why they need an additional extension. We require this to maintain fairness to other students who work hard to preserve their grace days for true emergencies. 
 Students should **never** assume an extension and should always *promptly* communicate their circumstances with the instructor. 
-
-Extensions will not be given for quizzes and projects. 
 
 #### Late work Penalty
 The penalty for late work is 10% per day late, up to two days. This penalty applies to labs, quizzes, and projects.  However, for labs, this only applies after students have run out of grace days. 
