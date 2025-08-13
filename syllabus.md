@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spring 2025 Syllabus
+title: Fall 2025 Syllabus
 subtitle:
 published: true
 ---

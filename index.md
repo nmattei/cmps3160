@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction to Data Science
-subtitle: CMPS 3160/6160 - Spring 2025
+subtitle: CMPS 3160/6160 - Fall 2025
 published: true
 ---
 <p style="text-align:center;"><img src="{{ 'img/ds_cover_new.jpeg' | relative_url }}" alt="Image of blue light emitting from all the continents in the world map."/></p>
@@ -22,7 +22,7 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 
 * ### Teaching Assistants
-* **Graduate Assistant** Mah Noor Asad (smirfakhar at tulane.edu)
+* **Graduate Assistant** Mah Noor Asad (sasad1 at tulane.edu)
   * **Office Hours** TBD
 
 * **Undergraduate Assistant** TBD
