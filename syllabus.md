@@ -169,9 +169,9 @@ Below, is the high level summary of the late policy :
 
 
 #### Grace Days for Labs
-Students will be given 3 "grace days" for **labs only** where they can choose to give themselves extra time, **up to 2 days**, without penalty. After 2 days, late work will **recieve a zero.**
+Students will be given 3 "grace days" for **labs only** where they can choose to give themselves extra time, **up to 2 days**, without penalty. After 2 days, late work will **recieve a zero.** 
 
-Each grace day is equivalent to **one 24-hour period** and students may use up to 2 grace days on any one lab. **Grace days are intended to cover real problems: illness, broken laptops, etc.** Though we won't check on how students use them, if students run out of grace days before a real problem occurs, they may not be able to acquire an extension. 
+Each grace day is equivalent to **one 24-hour period** and students may use up to 2 grace days on any one lab. **Grace days are intended to cover real problems: illness, broken laptops, etc.** Though we won't check on how students use them, if students run out of grace days before a real problem occurs, they may not be able to acquire an extension. Note, grace days are automatically applied to late assignments if available, students do not need to inform the instructors they are applying them. 
 
 Instructor-granted extensions are only considered for labs after all grace days are used, or if students require an extension greater than two days,  and only given in exceptional situations. If students have grace days remaining, the instructor will not grant an extension. When asking for an instructor-granted extension, students will be required to make a compelling case, with documentation where appropriate, as to why they need an additional extension. We require this to maintain fairness to other students who work hard to preserve their grace days for true emergencies. 
 Students should **never** assume an extension and should always *promptly* communicate their circumstances with the instructor. 
