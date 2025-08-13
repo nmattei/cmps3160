@@ -13,11 +13,11 @@ published: true
 * Prerequisite Courses: CMPS 1100  Foundations of Programming or CMPS 1500  Intro to Computer Science I, or consent of instructor.
 
 
-* **Instructor:** Dr. Saad Hassan (saadhassan at tulane.edu)
+* **Instructor:** Dr. Rebecca Faust (rfaust1 at tulane.edu)
 * **Lecture Times:** MWF 9:00 - 9:50
 * **Room:** Stanley Thomas 302
-* **Office:** Paul Hall 307
-* **Office Hours:** Wednesday 3-4pm, and by appointment. Send an email at saadhassan at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
+* **Office:** Paul Hall 306
+* **Office Hours:** Monday 10-11am, Wednesday 12-1pm, and by appointment. Send an email at rfaust1 at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
 * **GitHub:** [https://github.com/nmattei/cmps3160](https://github.com/nmattei/cmps3160)
 
@@ -25,11 +25,11 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 
 * ### Teaching Assistants
-* **Graduate Assistant** Amin Mir Fakhar (smirfakhar at tulane.edu)
-  * **Office Hours** Tuesday & Thursday 3-4:30pm, Paul Hall 309 
+* **Graduate Assistant** Mah Noor Asad (sasad1 at tulane.edu)
+  * **Office Hours** TBD
 
-* **Undergraduate Assistant** Ian M. Paul (ifaul at tulane.edu)
-  * **Office Hours** Wednesday & Friday 11am-Noon, ST 316
+* **Undergraduate Assistant** TBD
+  * **Office Hours** TBD
 
 
 
@@ -118,9 +118,9 @@ This course will consist of seven distinct grading areas.  Note that all point v
 An important aspect of this course is becoming a better coder. Hence all coding assignments will consist of a *Professionalism* component. One handy resource for this is [Arie’s Coding Guide](https://nmattei.github.io/cmps3140/codingguide). Note that this was written for Intro. to AI CMPS 3140 but many of the same issues apply to this course.
 
 ### In Class Activities, Participation, and Attendance
-Attendance will be monitored through in-class activities. Throughout the semester we will regularly complete short in class exercises such as brainstorming activities, think-pair-share, pre/post questions, and short answer writing. This may also include presenting/explaining answers to labs in class.
+Attendance will be monitored through TopHat, taken at the start of each class. There is a maximum of 20 points available for attendance and participation. Each class is worth 0.5 points. Students who attend class and participate will receive credit for the class. Attendance alone does not guarantee credit. Students who are disruptive, late, unwilling to participate, and/or distracted by their devices may not receive credit for the class.
 
-There is a maximum of 20 points available for attendance and participation. Each class is worth 0.5 points. Students who attend class (attendance will be taken at the start of class) and participate will receive credit for the class. Attendance alone does not guarantee credit. Students who are disruptive, late, unwilling to participate, and/or distracted by their devices may not receive credit for the class.
+Throughout the semester we will regularly complete short in class exercises such as brainstorming activities, think-pair-share, pre/post questions, and short answer writing. This may also include presenting/explaining answers to labs in class.
 
 <!-- Attendance will be monitored through an in-class activities. Throughout the semester we will regularly complete short in class exercises such as brainstorming activities, think-pair-share, pre/post questions, and short answer writing. This may also include presenting/explaining answers to labs in class. -->
 
@@ -160,7 +160,33 @@ Graduate students who enroll in this course will be required to complete their f
 
 ### Late Work Policy
 
-All work must be turned in on time unless explicit consent for outstanding circumstances is given beforehand (or in the case of illness, with a documented absence after).  **Any late work without prior authorization will not be accepted and count as a 0.**
+The cutoff for on-time submssion is **before class (8:59am for a 9am class)** on the due date. Late days are counted in 24-hour periods. For a 9am class, submitting between 9:00am and 8:59am the next day is one day late.
+
+Below, is the high level summary of the late policy :
++ Students will be given 3 grace days for late **labs**. Extensions will not be given for quizzes and projects.  
++ A late penalty of 10% per day for assignmnets submitted without extensions or grace days.
++ There is a hard deadline for all assignments, 2 days after the due date. After 2 days, all assignments count as a 0. 
+
+
+#### Grace Days for Labs
+Students will be given 3 "grace days" for **labs only** where they can choose to give themselves extra time, **up to 2 days**, without penalty. After 2 days, late work will **recieve a zero.**
+
+Each grace day is equivalent to **one 24-hour period** and students may use up to 2 grace days on any one assignment. **Grace days are intended to cover real problems: illness, broken laptops, etc.** Though we won't check on how students use them, if students run out of grace days before a real problem occurs, they may not be able to acquire an extension. 
+
+Instructor-granted extensions are only considered for labs after all grace days are used, or if students require an extension greater than two days,  and only given in exceptional situations. If students have grace days remaining, the instructor will not grant an extension. When asking for an instructor-granted extension, students will be required to make a compelling case, with documentation where appropriate, as to why they need an additional extension. We require this to maintain fairness to other students who work hard to preserve their grace days for true emergencies. 
+Students should **never** assume an extension and should always *promptly* communicate their circumstances with the instructor. 
+
+Extensions will not be given for quizzes and projects. 
+
+#### Late work Penalty
+The penalty for late work is 10% per day late, up to two days. This penalty applies to labs, quizzes, and projects.  However, for labs, this only applies after students have run out of grace days. 
+**After two days, the assignment will recieve a zero**.
+
+#### Hard deadline
+All coursework will have a hard deadline 2 Days after the original due date. This applies regardless of how many grace days students have left. 
+That means that, even if a student has 3 grace days left, late work will **not** be accepted 3 days late. 
+
+<!-- All work must be turned in on time unless explicit consent for outstanding circumstances is given beforehand (or in the case of illness, with a documented absence after).  **Any late work without prior authorization will not be accepted and count as a 0.** -->
 
 ### Final Grade Policy
 

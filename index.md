@@ -10,11 +10,11 @@ published: true
 * Prerequisites: CMPS 1500 or CMPS 1100. In lieu of prerequisites as specified, contact instructor for permission to enroll.
 
 
-* **Instructor:** Dr. Saad Hassan (saadhassan at tulane.edu)
+* **Instructor:** Dr. Rebecca Faust (rfaust1 at tulane.edu)
 * **Lectures Times:** MWF 9:00 AM - 9:50 AM
 * **Room:** Stanley Thomas 302
-* **Office:** Paul Hall 307 (New Building next to ST)
-* **Office Hours:** Monday 3-4 PM, and by appointment, Send an email at saadhassan at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
+* **Office:** Paul Hall 306 (New Building next to ST)
+* **Office Hours:** Monday 10-11am, Wednesday 12-1pm, and by appointment, Send an email at rfaust1 at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
 * **GitHub:** [https://github.com/nmattei/cmps3160](https://github.com/nmattei/cmps3160)
 
@@ -22,9 +22,8 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 
 * ### Teaching Assistants
-* **Graduate Assistant** Amin Mir Fakhar (smirfakhar at tulane.edu)
-  * **Office Hours** Tuesday & Thursday 3-4:30pm, Paul Hall 309 
+* **Graduate Assistant** Mah Noor Asad (smirfakhar at tulane.edu)
+  * **Office Hours** TBD
 
-* **Undergraduate Assistant** Ian M. Paul (ifaul at tulane.edu)
-  * **Office Hours** Wednesday & Friday 11am-Noon, ST 316
-
+* **Undergraduate Assistant** TBD
+  * **Office Hours** TBD
