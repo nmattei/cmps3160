@@ -73,7 +73,8 @@ This list is just to give you some ideas.  Please feel free to scrape websites (
 GitHub provides a service called Pages <https://pages.github.com/> that provides website hosting functionality backed by a GitHub-based git repository. We would like you to host your final project on a GitHub Pages project site. To do this, you will need to:
 
 1. Create a GitHub account (or use the one you already have) with your username `username`. Note that if you want to make it a repository specific webpage instead of your userpage then please go ahead.
-2. Create a git repository titled `username.github.io`; make sure `username` is the same as whatever you chose for your global GitHub account.
+2. Create a git repository titled `username.github.io`; make sure `username` is the same as whatever you chose for your global GitHub account. 
+3. This repository where you’ll dump your iPython Notebook file and an HTML export of that Notebook file.
 <!-- 3. Create a project within this repository. This is where you’ll dump your iPython Notebook file and an HTML export of that Notebook file. -->
 
 These instructions are also given directly on the front page of <https://pages.github.com/>; following those instructions should be fine!
