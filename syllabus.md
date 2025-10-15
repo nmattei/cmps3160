@@ -26,7 +26,7 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 * ### Teaching Assistants
 * **Graduate Assistant** Mah Noor Asad (sasad1 at tulane.edu)
-  * **Office Hours** Thursday 3-5 (remote, [zoom link](https://tulane.zoom.us/j/99567653321?pwd=wubuyb6LrkGC1bt4H5GahlXXBQQX16.1)), Friday 10-12PM room ST 316
+  * **Office Hours** Tuesday 2-4 (remote, [zoom link](https://tulane.zoom.us/j/99567653321?pwd=wubuyb6LrkGC1bt4H5GahlXXBQQX16.1)), Friday 10-12PM room ST 316
 
 * **Undergraduate Assistant** Troy Freed (tfreed at tulane.edu)
   * **Office Hours** Monday & Tuesday 5-6:30,  room ST 316
