@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fall 2025 Schedule
+title: Spring 2026 Schedule
 published: true
 ---
 
@@ -13,4 +13,4 @@ published: true
 * Important to all coding in this class is becoming a better coder! One handy resource for this is [Arie's Coding Guide](https://nmattei.github.io/cmps3140/codingguide). Note that this was written for Intro. to AI CMPS 3140 but many of the same issues apply to this course
 
 
-<iframe style="width: 100%; height: 1000px; border: none" src="https://docs.google.com/spreadsheets/d/1GaV0dR0yKyHKX1U1rk4qNDUXXOwajKHOd5oQtWAsPlI/edit?usp=sharing"></iframe>
+<iframe style="width: 100%; height: 1000px; border: none" src="https://docs.google.com/spreadsheets/d/1hDgSuO2FlPwd932GRTDaUYPSPmm52aEx_mtuD-n70Vw/edit?usp=sharing"></iframe>

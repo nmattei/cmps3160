@@ -1,23 +1,23 @@
 ---
 layout: page
-title: Fall 2025 Syllabus
+title: Spring 2026 Syllabus
 subtitle:
 published: true
 ---
 
 # Introduction to Data Science
 
-* CMPS-3160/6160: Introduction to Data Science Spring 2025
+* CMPS-3160/6160: Introduction to Data Science Spring 2026
 * Tulane University
 * 3 Credit Hours
 * Prerequisite Courses: CMPS 1100  Foundations of Programming or CMPS 1500  Intro to Computer Science I, or consent of instructor.
 
 
-* **Instructor:** Dr. Rebecca Faust (rfaust1 at tulane.edu)
+* **Instructor:** Dr. Saad Hassan (rfaust1 at tulane.edu)
 * **Lecture Times:** MWF 9:00 - 9:50
 * **Room:** Stanley Thomas 302
-* **Office:** Paul Hall 306
-* **Office Hours:** Monday 10-11am, Wednesday 12-1pm, and by appointment. Send an email at rfaust1 at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
+* **Office:** Paul Hall 307
+* **Office Hours:** TBD, and by appointment. Send an email at saadhassan at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
 * **GitHub:** [https://github.com/nmattei/cmps3160](https://github.com/nmattei/cmps3160)
 
@@ -25,11 +25,11 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 
 * ### Teaching Assistants
-* **Graduate Assistant** Mah Noor Asad (sasad1 at tulane.edu)
-  * **Office Hours** Tuesday 2-4 (remote, [zoom link](https://tulane.zoom.us/j/99567653321?pwd=wubuyb6LrkGC1bt4H5GahlXXBQQX16.1)), Friday 10-12PM room ST 316
+* **Graduate Assistant** Nazmun Nahar Khanom (nkhanom at tulane.edu)
+  * **Office Hours** TBD, Room TBD
 
-* **Undergraduate Assistant** Troy Freed (tfreed at tulane.edu)
-  * **Office Hours** Monday & Tuesday 5-6:30,  room ST 316
+* **Undergraduate Assistant** Hrishi Kabra (hkabra at tulane.edu)
+  * **Office Hours** TBD, Room TBD
 
 
 
