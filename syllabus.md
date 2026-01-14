@@ -26,7 +26,7 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 * ### Teaching Assistants
 * **Graduate Assistant** Nazmun Nahar Khanom (nkhanom at tulane.edu)
-  * **Office Hours** Tuesday 1:30-3 PM & Friday 3-4:30 PM, Room Paul Hall 307
+  * **Office Hours** Tuesday 1:30-3 PM & Friday 3-4:30 PM, Room Paul Hall 309
 
 * **Undergraduate Assistant** Hrishi Kabra (hkabra at tulane.edu)
   * **Office Hours** Monday 3-4:30 PM & Thursday 5-6:30 PM, Stanley Thomas 316
