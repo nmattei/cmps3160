@@ -11,10 +11,11 @@ In this course you will be responsible for generating a tutorial that will walk 
 
 In the interest of building students' public portfolios, and in the spirit of "learning by doing", students will create a self-contained online tutorial to be posted publicly and a 5-8 minute presentation in class. This tutorial will be completed in pairs of students (except for graduate students who will work solo). This assignment will be a publicly-accessible website that provides an end-to-end walk-through of identifying and scraping a specific data source, performing some exploratory analysis, and providing some sort of managerial or operational insight from that data. We will have several milestones associated with the final project including the following. These are each discussed below in more detail.
 
-1. **Milestone 1:** (20 Points) Identifying a dataset and establishing a GitHub.io Site, Extraction, Transform, and Load (ETL)
-2. **Milestone 2:** (20 Points) Additional Extraction, Transform, and Load (ETL) + Exploratory Data Analysis (EDA)
-3. **Deliverable 1:** (20 Points) In Class Presentation
-4. **Deliverable 2:** (65 Points) Final Website
+0. **Milestone 0:** (6 Points) Choosing Partners and Initial Ideas
+1. **Milestone 1:** (25 Points) Identifying a dataset and establishing a GitHub.io Site, Extraction, Transform, and Load (ETL)
+2. **Milestone 2:** (24 Points) Additional Extraction, Transform, and Load (ETL) + Exploratory Data Analysis (EDA)
+3. **Deliverable 1:** (25 Points) In Class Presentation
+4. **Deliverable 2:** (70 Points) Final Website
 
 Important to all coding in this class is becoming a better coder! One handy resource for this is [Arie's Coding Guide](https://nmattei.github.io/cmps3140/codingguide). Note that this was written for Intro. to AI CMPS 3140 but many of the same issues apply to this course.
 
@@ -88,7 +89,7 @@ jupyter nbconvert --to html /PATH/TO/YOUR/NOTEBOOKFILE.ipynb
 
 You will need to replace the path to your notebook file with the path to your actual notebook file in your Google Drive. Be sure to mount your drive before running this! Once you issue that command in CoLab you will see a `NOTEBOOKFILE.html` file in the same Google Drive directory that your notebook is in. You will need to download that file, then upload it to the repo that you created on github.io.
 
-~~In order to make your webpage open up the notebook and make sure everything is as you like it (cells and outputs are showing, no error messages, etc.).  Then go to `File >> Download As >>` and download the notebook as HTML.  This will save the HTML files to your disk.~~  You will then need to rename this to index.html and upload it into your github.io page.  Once this is done, navigate to `username.github.io` and make sure the notebook is displayed as you like!
+You will then need to rename this to index.html and upload it into your github.io page.  Once this is done, navigate to `username.github.io` and make sure the notebook is displayed as you like!
 
 ### Milestone 1 Submission
 
@@ -96,15 +97,15 @@ You should submit the notebook through [Canvas](https://tulane.instructure.com/)
 
 *If you do this in a group, only one student per group needs to upload the notebook to canvas, but both names should be clearly at the beginning of the notebook.*
 
-### Milestone 1 Scoring Rubric (20 Points)
+### Milestone 1 Scoring Rubric (25 Points)
 
 If you want to see some good examples of **Milestone 1**, see [Example 1](https://github.com/nmattei/cmps3160/blob/master/_projects/nick_final.ipynb) and [Example 2](https://github.com/nmattei/cmps3160/blob/master/_projects/wilson_final.ipynb). Note that some of the required elements of Milestone 1 have changed so always check the grading rubric to make sure you have all the required elements!
 
-* (4 Points) *Professionalism*: You have used both code comments and markdown cells to professionally and clearly document your work including having a clear and clean notebook; linking to resources and documents; and doing so with code that is reasonable and efficient.  Your notebook is correct and contains the required links.  In addition, you have written code that is interpretable -- it contains comments where needed to understand, variable names are reasonable, and code that is reasonable and efficient. You have followed directions to turn in the file, clearly labeling everything. You have cited all sources and how you used them in the written portion of your answers.
-* (4 Points) *Website*: Website is up, link was submitted and is correct.  Notebook is professional and clean, the names of the group members, a title for the project, and other good practices as this is *publicly posted*.
-* (4 Points) *Project Plan*: Project plan is in place, relevant data is identified and links are provided, there are draft questions or hypothesis that the student is going to explore.  Plan clearly explains how the data could be used to answer the question and addresses whether or not other data is needed.
-* (4 Points) *Extraction, Transform, and Load (ETL)*: At least one data set(s) are loaded correctly using web scraping other techniques. The data is discussed in terms of what it is and how it could be used to answer the question of study. Where the data comes from and how it is collected is clearly documented with links and other relevant details. The data is imported and tidy according to the principles discussed in class. Dtypes are set properly and displayed within the notebook, NaN's and other techniques are used following best practices discussed in class.
-* (4 Points) *Exploratory Data Analysis (EDA)*: You should do some light EDA on your data and show 3 - 5 interesting summary statistics or groups that relate to the questions you are asking of your data along with a brief justification as to why these statistics are interesting and relevant. You should also give at least 1 graphic which shows some interesting property or distribution of your data (skew, histogram, scatter plot) etc., and explain why this is relevant to your question.
+* (5 Points) *Professionalism*: You have used both code comments and markdown cells to professionally and clearly document your work including having a clear and clean notebook; linking to resources and documents; and doing so with code that is reasonable and efficient.  Your notebook is correct and contains the required links.  In addition, you have written code that is interpretable -- it contains comments where needed to understand, variable names are reasonable, and code that is reasonable and efficient. You have followed directions to turn in the file, clearly labeling everything. You have cited all sources and how you used them in the written portion of your answers.
+* (5 Points) *Website*: Website is up, link was submitted and is correct.  Notebook is professional and clean, the names of the group members, a title for the project, and other good practices as this is *publicly posted*.
+* (5 Points) *Project Plan*: Project plan is in place, relevant data is identified and links are provided, there are draft questions or hypothesis that the student is going to explore.  Plan clearly explains how the data could be used to answer the question and addresses whether or not other data is needed.
+* (5 Points) *Extraction, Transform, and Load (ETL)*: At least one data set(s) are loaded correctly using web scraping other techniques. The data is discussed in terms of what it is and how it could be used to answer the question of study. Where the data comes from and how it is collected is clearly documented with links and other relevant details. The data is imported and tidy according to the principles discussed in class. Dtypes are set properly and displayed within the notebook, NaN's and other techniques are used following best practices discussed in class.
+* (5 Points) *Exploratory Data Analysis (EDA)*: You should do some light EDA on your data and show 3 - 5 interesting summary statistics or groups that relate to the questions you are asking of your data along with a brief justification as to why these statistics are interesting and relevant. You should also give at least 1 graphic which shows some interesting property or distribution of your data (skew, histogram, scatter plot) etc., and explain why this is relevant to your question.
 
 | Full    |    Good |  Okay |   Lacking   |  No Marks |
 | : ---- :| : ---- :| : ---- :| : ---- :| : ---- :| : ---- : |
@@ -115,10 +116,6 @@ If you want to see some good examples of **Milestone 1**, see [Example 1](https:
 ## Milestone 2: Additional Extraction, Transform, and Load (ETL) + Exploratory Data Analysis (EDA)
 
  Your notebook from Part 1 but expanded to include an additional dataset being loaded and parsed into shape using the principles of tidy data discussed in class. This is to show that you have figured out how to get the data into your system. You should remove any data sources or questions that are not being used and you should now have a focused discussion at the top of your notebook on what questions you will attack and a discussion of why the data you are using is correct. **Note: Much of the power of Data Science lies in bringing multiple datasets together, so you must be using more than one dataset for this part!** 
-
-<!-- Your notebook from Part 1 but expanded. You should remove any data sources or questions that are not being used and you should now have a focused discussion at the top of your notebook on what questions you will attack and a discussion of why the data you are using is correct.  -->
-
-<!-- **Note: Much of the power of Data Science lies in bringing multiple datasets together, so you must be using more than one dataset for this part!** -->
 
 
 In addition you should also have at least 5 graphs and summary statistics/tables including cross-tabulations, groups, measures of central tendency, and/or any of the other EDA techniques discussed showing that you have started to investigate your data and have an understanding of what is in your dataset.  These graphs should be documented much as we did in Project 1 where you describe what the graph is showing and why.  Use of appropriate Markdown cells is essential.
@@ -133,12 +130,12 @@ You should submit the notebook through [Canvas](https://tulane.instructure.com/)
 
 **Note:** If the dataset you are using is not available from a website then it must also be uploaded to your GitHub site.  If I cannot download the data to verify the code you have submitted you will lose points.
 
-### Milestone 2 Scoring Rubric (20 Points)
+### Milestone 2 Scoring Rubric (24 Points)
 
-* (5 Points) *Professionalism*: You have used both code comments and markdown cells to professionally and clearly document your work including having a clear and clean notebook; linking to resources and documents; and doing so with code that is reasonable and efficient.  Your notebook is correct and contains the required links.  In addition, you have written code that is interpretable -- it contains comments where needed to understand, variable names are reasonable, and code that is reasonable and efficient. You have followed directions to turn in the file, clearly labeling everything. You have cited all sources and how you used them in the written portion of your answers.
-* (5 Points) *Extraction, Transform, and Load (ETL)*: The data is discussed in terms of what it is and how it could be used to answer the question of study.  Where the data comes from and how it is collected is clearly documented with links and other relevant details.  The data is imported and tidy according to the principles discussed in class.  Dtypes are set properly and displayed within the notebook, NaN's and other techniques are used following best practices discussed in class.
-* (5 Points) *Exploratory Data Analysis (EDA)*: At least 5 graphs and/or summary statistics/tables including cross-tabulations, groups, measures of central tendency, and/or any of the other EDA techniques discussed showing that you have started to investigate your data and have an understanding of what is in your dataset.  Each of these pieces of analysis should have a corresponding markdown cell that clearly explains what is being shown and why.
-* (5 Points) *Model Questions*: You have identified at least two plausible models that you could build using your data and the graphs in your EDA section support continuing the investigation. You have clearly identified independent and dependent variables and appropriate test/prediction methodology for each question.
+* (6 Points) *Professionalism*: You have used both code comments and markdown cells to professionally and clearly document your work including having a clear and clean notebook; linking to resources and documents; and doing so with code that is reasonable and efficient.  Your notebook is correct and contains the required links.  In addition, you have written code that is interpretable -- it contains comments where needed to understand, variable names are reasonable, and code that is reasonable and efficient. You have followed directions to turn in the file, clearly labeling everything. You have cited all sources and how you used them in the written portion of your answers.
+* (6 Points) *Extraction, Transform, and Load (ETL)*: The data is discussed in terms of what it is and how it could be used to answer the question of study.  Where the data comes from and how it is collected is clearly documented with links and other relevant details.  The data is imported and tidy according to the principles discussed in class.  Dtypes are set properly and displayed within the notebook, NaN's and other techniques are used following best practices discussed in class.
+* (6 Points) *Exploratory Data Analysis (EDA)*: At least 5 graphs and/or summary statistics/tables including cross-tabulations, groups, measures of central tendency, and/or any of the other EDA techniques discussed showing that you have started to investigate your data and have an understanding of what is in your dataset.  Each of these pieces of analysis should have a corresponding markdown cell that clearly explains what is being shown and why.
+* (6 Points) *Model Questions*: You have identified at least two plausible models that you could build using your data and the graphs in your EDA section support continuing the investigation. You have clearly identified independent and dependent variables and appropriate test/prediction methodology for each question.
 
 | Full    |    Good |  Okay |   Lacking   |   Poor  | No Marks |
 | : ---- :| : ---- :| : ---- :| : ---- :| : ---- :| : ---- : |
@@ -161,13 +158,13 @@ Here are some past short decks that are very good:
 3. Ila Keshishian and Bennett Kahn [NOLA Court Docket and Police Analysis](https://github.com/nmattei/cmps3160/blob/master/_projects/khan_final.pdf)
 2. Zachary Airington [It's all Fake News: Big 5 Personality Types and Conspiracy](https://github.com/nmattei/cmps3160/blob/master/_projects/zach_final.pdf)
 
-### Deliverable 1 Scoring Rubric (20 Points)
+### Deliverable 1 Scoring Rubric (25 Points)
 
-* (4 Points) *Professionalism*: Are the slides well constructed?  Are the graphs labeled and clear?  Did you speak clearly and have a plan for the discussion?
-* (4 Points) *Organization*: Was the talk clearly organized?  Did you explain where your data came from, why the question was important, and what the outcomes are?  You should address each stage of the DataScience LifeCycle in this talk.
-* (4 Points) *Data and Motivation*: Does the talk make the reader believe the topic is important (a) in general and (b) with respect to data science? Does the data you selected allow you to answer the question you set out for?  Is there a clear and explainable question being answered by this data?
-* (4 Points) *Model and Science*: Did you clearly explain why you performed the analyses you chose?  Did you adequately defend any assumptions you made for your model?  Does your analysis support your conclusions?
-* (4 Points) *Peer Evaluation*: Were you present in class both days during presentations, did you provide feedback to the other students on their projects and ask questions on the message board.  Were you a good peer?
+* (5 Points) *Professionalism*: Are the slides well constructed?  Are the graphs labeled and clear?  Did you speak clearly and have a plan for the discussion?
+* (5 Points) *Organization*: Was the talk clearly organized?  Did you explain where your data came from, why the question was important, and what the outcomes are?  You should address each stage of the DataScience LifeCycle in this talk.
+* (5 Points) *Data and Motivation*: Does the talk make the reader believe the topic is important (a) in general and (b) with respect to data science? Does the data you selected allow you to answer the question you set out for?  Is there a clear and explainable question being answered by this data?
+* (5 Points) *Model and Science*: Did you clearly explain why you performed the analyses you chose?  Did you adequately defend any assumptions you made for your model?  Does your analysis support your conclusions?
+* (5 Points) *Peer Evaluation*: Were you present in class both days during presentations, did you provide feedback to the other students on their projects and ask questions on the message board.  Were you a good peer?
 
 | Full    |    Good |  Okay |   Lacking   |  No Marks |
 | : ---- :| : ---- :| : ---- :| : ---- :| : ---- :| : ---- : |
@@ -195,13 +192,13 @@ In general, the tutorial should contain at least 1500 words of prose and 150 lin
 
 **You should make sure the top of your notebook is well organized and provides a clear motivation for the questions. You may need to rewrite significant parts of what you have done to accomplish this but you should consider the final notebook to be a portfolio piece! Remove things that are no longer true or necessary!**
 
-### Final Notebook Scoring Rubric (65 Points)
+### Final Notebook Scoring Rubric (70 Points)
 
 * (5 Points) *Motivation*: Does the tutorial make the reader believe the topic is important (a) in general and (b) with respect to data science?  Is there a clear, coherent argument for this at the beginning of the notebook? Is the model question well motivated.
 * (5 Points) *Understanding*: After reading the tutorial, does the reader understand the topic?
 * (5 Points) *Subjective Evaluation*: If somebody linked to this tutorial from Hacker News, Reddit, Towards Data Science, or some other general interest website, would people actually read the whole thing?
 * (5 Points) *Further Resources*: Does the tutorial “call out” and specifically provide links to other resources that would help the reader understand basic concepts, deep dive, related work, etc?
-* (5 Points) *Prose/Organization/Professionalism*: Does the prose in the Markdown portion of the .ipynb add to the reader’s understanding of the tutorial?  Are the graphs labeled and clear? Is the writing clear and explained well. Was the notebook clearly organized?  Did you explain where your data came from, why the question was important, and what the outcomes are?  There should be a section heading for each step of the Data Science LifeCycle.
+* (10 Points) *Prose/Organization/Professionalism*: Does the prose in the Markdown portion of the .ipynb add to the reader’s understanding of the tutorial?  Are the graphs labeled and clear? Is the writing clear and explained well. Was the notebook clearly organized?  Did you explain where your data came from, why the question was important, and what the outcomes are?  There should be a section heading for each step of the Data Science LifeCycle.
 * (10 Points) *Data*: Is the data selected appropriate? is it loaded in a coherent way? clean and Tidy? Dtypes set? are there issues in the data and if so are they explained? is enough data present and if not, why not? Is the data manipulated properly and coherently?
 * (10 Points) *Code*: Does the code help solidify understanding, is it well documented, and does it include helpful examples?  Is the code correct?  Did you show that the results of intermediate steps are correct in the tutorial?  Is there enough code to be complex enough to require a tutorial?
 * (10 Points) *Exploration and Analysis*: Is the data explored and explained in a coherent way, are there graphs, tables, summary statistics, and other methods of analysis present that let the user understand the data in a coherent and clear way? Are these graphs well labeled, clear, and show trends/information of interest? Note that just throwing 20 graphs in is not interesting, if a graph or piece of analysis is not answering a question, it should be removed.

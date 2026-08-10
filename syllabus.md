@@ -1,23 +1,24 @@
 ---
 layout: page
-title: Spring 2026 Syllabus
+title: Fall 2026 Syllabus
 subtitle:
 published: true
 ---
 
 # Introduction to Data Science
 
-* CMPS-3160/6160: Introduction to Data Science Spring 2026
+* CMPS-3160/6160: Introduction to Data Science Fall 2026
 * Tulane University
 * 3 Credit Hours
-* Prerequisite Courses: CMPS 1100  Foundations of Programming or CMPS 1500  Intro to Computer Science I, or consent of instructor.
+* Prerequisites: CMPS 1500, CMPS 1100, ENGP 2020 or BMEN 2020, or consent of instructor.
+<!-- * Prerequisite Courses: CMPS 1100  Foundations of Programming or CMPS 1500  Intro to Computer Science I, or consent of instructor. -->
 
 
-* **Instructor:** Dr. Saad Hassan (saadhassan at tulane.edu)
+* **Instructor:** Dr. Rebecca Faust (rfaust1 at tulane.edu)
 * **Lecture Times:** MWF 9:00 - 9:50
 * **Room:** Stanley Thomas 302
-* **Office:** Paul Hall 307
-* **Office Hours:** Wednesday 3-4 PM, and by appointment. Send an email at saadhassan at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
+* **Office:** Paul Hall 306
+* **Office Hours:** Monday 12-1 PM, Thursday 5-6  and by appointment, Send an email at rfaust1 at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
 * **GitHub:** [https://github.com/nmattei/cmps3160](https://github.com/nmattei/cmps3160)
 
@@ -25,11 +26,8 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 
 * ### Teaching Assistants
-* **Graduate Assistant** Nazmun Nahar Khanom (nkhanom at tulane.edu)
-  * **Office Hours** Tuesday 1:30-3 PM & Friday 3-4:30 PM, Room Paul Hall 309
-
-* **Undergraduate Assistant** Hrishi Kabra (hkabra at tulane.edu)
-  * **Office Hours** Monday 3-4:30 PM & Thursday 3:30-5 PM, Stanley Thomas 316
+* **Graduate Assistant** Alan Zhou (yzhou42 at tulane.edu)
+  * **Office Hours** TBD
 
 
 
@@ -50,7 +48,7 @@ There are a variety of methods you can use to get in touch with us, and we expec
 
 The aim of this course is to provide the student with an introduction to the main concepts and techniques required for collecting, processing, and deriving insight into data. Data Science is an interdisciplinary set of topics that includes everything you need to create data driven answers and solutions to specific business, scientific, or sociological questions. Topics typically covered include an introduction to one or more data collection and management systems, e.g., SQL, web scraping, and various data repositories; exploratory and statistical data analysis, e.g., bootstrapping, measures of central tendency, hypothesis testing and machine learning techniques including linear regression and clustering; data and information visualization, e.g., plotting and interactive charts using various technologies; and presentation and communication of the results of these analyses.
 
-**Prerequisite:** CMPS 1100  Foundations of Programming or CMPS 1500  Intro to Computer Science I
+**Prerequisite:** CMPS 1100  Foundations of Programming, CMPS 1500  Intro to Computer Science I, or ENGP/BMEN 2020 Computing Concepts & Applications
 
 **Note:** This is a programming and mathematics intensive class, **you will be programming every day.** While this course only assumes introductory programming knowledge, the assignments will require extensive programming in Python as well as mathematical maturity. Helpful things to know (but are not required) include the ability to navigate a Linux/Unix command prompt, a working understanding of graph theory, probability theory, and an understanding of basic algorithms is helpful.
 
@@ -109,17 +107,17 @@ There is no required textbook for this course, however there are two texts that 
 
 This course will consist of seven distinct grading areas.  Note that all point values described below for individual assignments are subject to change. All points are points, relative percentages are given. More information about all the assignments can be found on the [Assignments Page](./assignments.md) and the [Final Tutorial Page](/_projects/FinalTutorial.md). All assignments and due dates are posted in [Tulane Canvas](https://tulane.instructure.com/).
 
-* 20 (5%)  In Class Activities, Participation, Attendance.
-* 120 (30%) Labs
-* 24 (6%) Pre-Lab Quiz Questions
-* 55 (14%) Test 1
-* 55 (14%) Test 2
-* 125 (31%) Project (Milestone 1: 20, Milestone 2: 20, Project Presentation: 20, Final Notebook: 65)
+* 20 (4%)  In Class Activities, Participation, Attendance.
+* 180 (37%) Labs  (60 In-Class Exercises, 120 Programming Exercises)
+* 24 (5%) Pre-Lab Quiz Questions
+* 55 (11.5%) Test 1
+* 55 (11.5%) Test 2
+* 150 (31%) Project (Milestone 0: 6, Milestone 1: 25, Milestone 2: 24, Project Presentation: 25, Final Notebook: 70)
 
 An important aspect of this course is becoming a better coder. Hence all coding assignments will consist of a *Professionalism* component. One handy resource for this is [Arie’s Coding Guide](https://nmattei.github.io/cmps3140/codingguide). Note that this was written for Intro. to AI CMPS 3140 but many of the same issues apply to this course.
 
 ### In Class Activities, Participation, and Attendance
-Attendance will be monitored through TopHat, taken at the start of each class. There is a maximum of 20 points available for attendance and participation. Each class is worth 0.5 points. Students who attend class and participate will receive credit for the class. Attendance alone does not guarantee credit. Students who are disruptive, late, unwilling to participate, and/or distracted by their devices may not receive credit for the class.
+Attendance will be monitored through TopHat questions and in-class activities in each class. There is a maximum of 20 points available for attendance and participation. Each class is worth 0.5 points. Students who attend class and participate will receive credit for the class. Attendance alone does not guarantee credit. Students who are disruptive, late, unwilling to participate, and/or distracted by their devices may not receive credit for the class.
 
 Throughout the semester we will regularly complete short in class exercises such as brainstorming activities, think-pair-share, pre/post questions, and short answer writing. This may also include presenting/explaining answers to labs in class.
 
@@ -127,9 +125,18 @@ Throughout the semester we will regularly complete short in class exercises such
 
 ### Labs and Pre-Lab Questions
 
-Every Friday in class will be interactive lab time. **Before Friday** you will be required to answer a few short questions in the form of a Canvas Quiz. In class you will have the opportunity to work on the Labs with the instructor and TAs. On these days it will be important to bring a laptop to class to participate in the work.  Labs will be worth 10 points each and graded based the rubric in Canvas.
+Every Friday in class will be interactive lab time. **Before Friday** you will be required read the lab answer a few short questions in the form of a Canvas Quiz. The labs consist of two parts - an in-class group exercise due by the end of class and lab notebook with programming exercises due by the following lab. On these days it will be important to bring a laptop to class to participate in the work.  Labs will be worth 15 points each - 5 points for the in-class exerscies and 10 points for the lab notebooks, and graded based the rubrics in Canvas.
 
 The best way to learn is by doing, so these will largely be applied assignments that provide hands-on experience with the basic skills a data scientist needs in industry. **Posting solutions publicly online without the staff's express consent is a direct violation of our academic integrity policy. Late assignments will not be accepted.**
+
+#### Pre-lab Quiz
+Before lab on Friday, students are expected to read the lab notebook and complete a short quiz. 
+
+#### In-Class Lab Activities
+In-class lab activities are intended to be completed during the lab session. These activities are intended to provide hands-on exercises and thought experiments that apply the theory/conceptual material from the week.  If you are unable to attend a lab session, in-class lab activities may be completed outside of class for a maximum of 3 points but must be turned in by the end of the day they are assigned. 
+
+#### Lab Notebooks
+In addition to the in-class lab activities, there will be programming-based exercises each week that apply the technical material from the week. Students should work on these labs once they complete the in-class activities. These exercises are due by the next lab session, the following Friday by 9am.
 
 ### Test 1 and Test 2
 
@@ -142,6 +149,7 @@ This will be a written, closed book, in class exam.  You are allowed one cheat s
 
 In the interest of building students' public portfolios, and in the spirit of "learning by doing", students will create a self-contained online tutorial to be posted publicly and a 5-minute presentation in class. This tutorial can be created individually or in a small group (Max 2 people, except graduate students). This assignment will be a publicly-accessible website that provides an end-to-end walk-through of identifying and scraping a specific data source, performing some exploratory analysis, and providing some sort of managerial or operational insight from that data.  We will have several milestones associated with the final project:
 
+0. Forming groups and pitching initial ideas. 
 1. Identifying a dataset and establishing a GitHub.io Site, Extraction, Transform, and Load (ETL).
 2. Exploratory Data Analysis (EDA) Your notebook from Part 1 but expanded to include graphs, visualizations, and stats that show you can manipulate your data and understand the dataset you are working with.
 3. A final, in class presentation.
@@ -166,7 +174,7 @@ The cutoff for on-time submssion of labs and quizzes is **before class (8:59am f
 Below, is the high level summary of the late policy :
 + Students will be given 3 grace days for late **labs**. Extensions will not be given for quizzes and projects.  
 + A late penalty of 10% per day for assignmnets submitted without extensions or grace days.
-+ There is a hard deadline for all assignments, 2 days after the due date. After 2 days, all assignments count as a 0. 
++ There is a hard deadline for all assignments, 2 days after the due date. After 2 days, all assignments will receive a 0. 
 
 
 #### Grace Days for Labs
