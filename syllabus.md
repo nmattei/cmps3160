@@ -18,7 +18,7 @@ published: true
 * **Lecture Times:** MWF 9:00 - 9:50
 * **Room:** Stanley Thomas 302
 * **Office:** Paul Hall 306
-* **Office Hours:** Monday 12-1 PM, Thursday 5-6  and by appointment, Send an email at rfaust1 at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
+* **Office Hours:** Monday 12-1 PM, Wednesday 3-4 and by appointment, Send an email at rfaust1 at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
 * **GitHub:** [https://github.com/nmattei/cmps3160](https://github.com/nmattei/cmps3160)
 
@@ -27,7 +27,7 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 * ### Teaching Assistants
 * **Graduate Assistant** Alan Zhou (yzhou42 at tulane.edu)
-  * **Office Hours** TBD
+  * **Office Hours** Tuesday 10-11am (zoom, see canvas for link), Thursday 1:30-2:30pm and Friday 10-11am in ST 316, and by appointment. 
 
 
 
