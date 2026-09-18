@@ -27,7 +27,9 @@ Some examples of high quality notebooks from past Data Science classes:
 
 **All final tutorials from past years can be found on the [Past Final Tutorials Page](./PastFinal.md).** You should take a look through these, and the topics to get a sense of the scope of these projects.
 
-If you want to see some good examples of **Milestone 1**, see [Example 1](https://github.com/nmattei/cmps3160/blob/master/_projects/nick_final.ipynb) and [Example 2](https://github.com/nmattei/cmps3160/blob/master/_projects/wilson_final.ipynb). Note that some of the required elements of Milestone 1 have changed so always check the grading rubric to make sure you have all the required elements!
+If you want to see some good examples of **Milestone 1**, see [Example 1](https://github.com/nmattei/cmps3160/blob/master/_projects/tocci_vagnoni_m1.ipynb) and [Example 2](https://github.com/nmattei/cmps3160/blob/master/_projects/volpe_m1.ipynb). 
+Some additional good examples from an older version that did not require the EDA: [Example 3](https://github.com/nmattei/cmps3160/blob/master/_projects/nick_final.ipynb) and [Example 4](https://github.com/nmattei/cmps3160/blob/master/_projects/wilson_final.ipynb).
+ <!-- Note, Examples 2 and 3 were from an iteration of the project that did not require the EDA. that some of the required elements of Milestone 1 have changed so always check the grading rubric to make sure you have all the required elements! -->
 
 ----
 
